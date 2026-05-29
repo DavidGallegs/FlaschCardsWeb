@@ -11,6 +11,8 @@ git pull
 
 docker stop contenedor-quiz
 
+docker rm contenedor-quiz
+
 docker build -t quiz-app .
 
 docker run -d --name contenedor-quiz -p 80:80 quiz-app

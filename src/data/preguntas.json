@@ -1,0 +1,112 @@
+[
+    {
+    "id": 1,
+    "pregunta": "¿Cuál es la entidad pública empresarial que actúa como agencia financiera del Estado y no dispone de una red de sucursales para realizar su labor financiera?",
+    "opciones": [
+        "El Banco Central Europeo (BCE).",
+        "La Comisión Nacional del Mercado de Valores (CNMV).",
+        "El Instituto de Crédito Oficial (ICO).",
+        "El Banco de España."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 2,
+    "pregunta": "¿Cuáles son los tres elementos básicos de los que se compone todo sistema financiero?",
+    "opciones": [
+        "Activo bancario, pasivo bancario y servicios bancarios.",
+        "Productos financieros, mercados financieros e intermediarios financieros.",
+        "Políticas monetarias, agentes económicos y moneda en circulación.",
+        "Política financiera, organismos supervisores e instituciones bancarias."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 3,
+    "pregunta": "Indica la respuesta incorrecta en cuanto a cómo se caracterizan las Letras del Tesoro en términos de rentabilidad, riesgo y liquidez:",
+    "opciones": [
+        "El riesgo es bajo, al garantizar la inversión el Estado.",
+        "La liquidez es elevada, al tratarse de productos a corto plazo.",
+        "La liquidez es elevada, ya que cuentan con el respaldo del Estado y un mercado secundario activo.",
+        "Su rentabilidad es alta, puesto que el Estado necesita captar fondos y está dispuesto a pagar intereses elevados."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 4,
+    "pregunta": "¿En qué categoría de productos financieros se incluyen aquellos mediante los cuales las entidades financieras proporcionan financiación a empresas y particulares?",
+    "opciones": [
+        "Productos de pasivo.",
+        "Productos de activo.",
+        "Productos de renta fija.",
+        "Productos de renta variable."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 5,
+    "pregunta": "Identifica cuál de las siguientes opciones no justifica la necesidad de la existencia del sistema financiero:",
+    "opciones": [
+        "La importancia de contar con un mercado que permita a las empresas del sector financiero obtener rentabilidad.",
+        "La falta de coincidencia entre quienes ahorran y quienes invierten, es decir, las unidades con déficit no suelen conocer a las que tienen superávit.",
+        "Los deseos de liquidez y rentabilidad de los ahorradores no coinciden, en general, con los de los inversores.",
+        "La falta de confianza entre ahorradores e inversores hace necesaria la regulación y supervisión a través del sistema financiero para garantizar la seguridad y transparencia de las operaciones."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 6,
+    "pregunta": "Indica cuales son las 5 características esenciales que todo mercado financiero debe cumplir:",
+    "opciones": [
+        "Accesibilidad, liquidez, seguridad, eficiencia y competitividad.",
+        "Libertad, profundidad, transparencia, flexibilidad y amplitud.",
+        "Opacidad, rigidez, exclusión, improvisación y arbitrariedad.",
+        "Confianza, especialización, agilidad, diversificación y coherencia normativa."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 7,
+    "pregunta": "Cuando una empresa, mediante una oferta pública, emite acciones por primera vez en bolsa, ¿en qué mercado se colocan dichos títulos?",
+    "opciones": [
+        "Mercados primarios.",
+        "Mercado libre.",
+        "Mercados secundarios.",
+        "Mercado al contado o spot."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 8,
+    "pregunta": "¿Cómo se llama la institución que actúa como mecanismo de protección a los clientes de servicios de inversión en caso de que una sociedad de valores o agencia de valores no pueda devolverles el dinero o los valores depositados?",
+    "opciones": [
+        "FOGASA",
+        "FOGAIN",
+        "FGD",
+        "FMI"
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 9,
+    "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la diferencia principal entre la banca privada y las cooperativas de crédito?",
+    "opciones": [
+        "Las cooperativas de crédito no pueden captar depósitos del público, mientras que la banca privada sí.",
+        "Las cooperativas de crédito no pueden ofrecer servicios de activo, mientras que la banca privada sí.",
+        "La banca privada y las cooperativas de crédito tienen exactamente los mismos objetivos y funcionamiento, solo cambia su estructura y el nombre de los órganos sociales.",
+        "La banca privada busca obtener un beneficio para sus accionistas, mientras que las cooperativas de crédito persiguen fines cooperativistas y atienden principalmente a las necesidades de sus miembros."
+    ],
+    "respuestaCorrecta": ""
+    },
+    {
+    "id": 10,
+    "pregunta": "Señala cuál de las siguientes afirmaciones corresponde a una de las funciones principales que cumplen los mercados financieros:",
+    "opciones": [
+        "Poner en contacto al colectivo de agentes que intervienen en ellos.",
+        "Garantizar que todas las inversiones tengan un rendimiento fijo asegurado.",
+        "Obligar a los participantes a mantener sus inversiones durante un periodo mínimo.",
+        "Limitar la negociación de activos a un único intermediario."
+    ],
+    "respuestaCorrecta": ""
+    }
+]

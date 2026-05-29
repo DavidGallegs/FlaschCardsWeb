@@ -1,11 +1,29 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import '../global.css';
+import Quiz from '../components/Quiz.tsx';
+import preguntasData from '../data/preguntas.json';
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>Test Financiero</title>
+    </head>
+    <body class="bg-gradient-to-br from-slate-900 to-blue-900 min-h-screen text-gray-100 font-sans p-4 antialiased flex flex-col items-center justify-center">
+        
+        <header class="text-center mb-8 w-full max-w-2xl">
+            <h1 class="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 drop-shadow-sm">
+                Test Financiero
+            </h1>
+            <p class="text-slate-300 mt-2 text-lg">Ponte a prueba con 50 preguntas al azar</p>
+        </header>
+        
+        <main class="w-full max-w-2xl">
+            <Quiz client:load data={preguntasData} />
+        </main>
+        
+    </body>
+</html>

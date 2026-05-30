@@ -8,7 +8,7 @@
         "El Instituto de Crédito Oficial (ICO).",
         "El Banco de España."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "El Instituto de Crédito Oficial (ICO)."
     },
     {
     "id": 2,
@@ -19,7 +19,7 @@
         "Políticas monetarias, agentes económicos y moneda en circulación.",
         "Política financiera, organismos supervisores e instituciones bancarias."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Productos financieros, mercados financieros e intermediarios financieros."
     },
     {
     "id": 3,
@@ -30,7 +30,7 @@
         "La liquidez es elevada, ya que cuentan con el respaldo del Estado y un mercado secundario activo.",
         "Su rentabilidad es alta, puesto que el Estado necesita captar fondos y está dispuesto a pagar intereses elevados."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Su rentabilidad es alta, puesto que el Estado necesita captar fondos y está dispuesto a pagar intereses elevados."
     },
     {
     "id": 4,
@@ -41,7 +41,7 @@
         "Productos de renta fija.",
         "Productos de renta variable."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Productos de activo."
     },
     {
     "id": 5,
@@ -52,7 +52,7 @@
         "Los deseos de liquidez y rentabilidad de los ahorradores no coinciden, en general, con los de los inversores.",
         "La falta de confianza entre ahorradores e inversores hace necesaria la regulación y supervisión a través del sistema financiero para garantizar la seguridad y transparencia de las operaciones."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "La importancia de contar con un mercado que permita a las empresas del sector financiero obtener rentabilidad."
     },
     {
     "id": 6,
@@ -63,7 +63,7 @@
         "Opacidad, rigidez, exclusión, improvisación y arbitrariedad.",
         "Confianza, especialización, agilidad, diversificación y coherencia normativa."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Libertad, profundidad, transparencia, flexibilidad y amplitud."
     },
     {
     "id": 7,
@@ -74,7 +74,7 @@
         "Mercados secundarios.",
         "Mercado al contado o spot."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Mercados primarios."
     },
     {
     "id": 8,
@@ -85,7 +85,7 @@
         "FGD",
         "FMI"
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "FOGAIN"
     },
     {
     "id": 9,
@@ -96,7 +96,7 @@
         "La banca privada y las cooperativas de crédito tienen exactamente los mismos objetivos y funcionamiento, solo cambia su estructura y el nombre de los órganos sociales.",
         "La banca privada busca obtener un beneficio para sus accionistas, mientras que las cooperativas de crédito persiguen fines cooperativistas y atienden principalmente a las necesidades de sus miembros."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "La banca privada busca obtener un beneficio para sus accionistas, mientras que las cooperativas de crédito persiguen fines cooperativistas y atienden principalmente a las necesidades de sus miembros."
     },
     {
     "id": 10,
@@ -107,6 +107,336 @@
         "Obligar a los participantes a mantener sus inversiones durante un periodo mínimo.",
         "Limitar la negociación de activos a un único intermediario."
     ],
-    "respuestaCorrecta": ""
+    "respuestaCorrecta": "Poner en contacto al colectivo de agentes que intervienen en ellos."
+    },
+    {
+    "id": 11,
+    "pregunta": "La familia Fernández tiene unos ingresos anuales de 80.000€. Durante el año, han decidido realizar varias inversiones y gastos que suman 78.000€, incluyendo educación de los hijos, alimentación, ocio y entretenimiento, gastos de vivienda y ahorros. ¿Cuál es la situación financiera de la familia?",
+    "opciones": [
+        "Equilibrio presupuestario.",
+        "Déficit.",
+        "Superávit.",
+        "Período de ajuste presupuestario."
+    ],
+    "respuestaCorrecta": "Superávit."
+    },
+    {
+    "id": 12,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Fondo de Garantía de Depósitos (FGD) es correcta?",
+    "opciones": [
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona, considerando el importe total que el depositando tiene en todas las entidades.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por cuenta en la entidad, independientemente de los titulares que dicha cuenta tenga.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona y por entidad.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo un máximo de 100.000 € por entidad, pero solo si el titular es una persona física."
+    ],
+    "respuestaCorrecta": "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona y por entidad."
+    },
+    {
+    "id": 13,
+    "pregunta": "En términos de vencimiento de los instrumentos financieros, ¿cómo se denominan los mercados donde se negocian instrumentos a largo plazo, con vencimientos superiores a un año?",
+    "opciones": [
+        "Mercados monetarios.",
+        "Mercados primarios.",
+        "Mercados secundarios.",
+        "Mercados de capitales."
+    ],
+    "respuestaCorrecta": "Mercados de capitales."
+    },
+    {
+    "id": 14,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre las funciones del sistema financiero es incorrecta?",
+    "opciones": [
+        "El sistema financiero debe incentivar el ahorro de los individuos y empresas, y canalizar esos ahorros hacia proyectos de inversión que generen rendimientos para los ahorradores.",
+        "La función principal del sistema financiero es asegurar que todos los ahorradores reciban rendimientos elevados y constantes, independientemente del tipo de inversión realizada.",
+        "El sistema financiero debe promover la estabilidad financiera, manteniendo la flexibilidad necesaria que posibilite adaptarse rápidamente a los cambios.",
+        "El sistema financiero impulsa el crecimiento económico, puesto que facilita el acceso al crédito y la inversión en proyectos que aumentan la producción, la innovación y el empleo."
+    ],
+    "respuestaCorrecta": "La función principal del sistema financiero es asegurar que todos los ahorradores reciban rendimientos elevados y constantes, independientemente del tipo de inversión realizada."
+    },
+    {
+    "id": 15,
+    "pregunta": "¿Qué tipo de entidades son las cajas rurales?",
+    "opciones": [
+        "Establecimientos financieros de crédito.",
+        "Bancos comerciales.",
+        "Cooperativas de crédito.",
+        "Sociedades de valores."
+    ],
+    "respuestaCorrecta": "Cooperativas de crédito."
+    },
+    {
+    "id": 16,
+    "pregunta": "¿Cómo se caracterizan las cuentas corrientes en términos de rentabilidad, riesgo y liquidez?",
+    "opciones": [
+        "Las cuentas corrientes son un producto financiero de alta rentabilidad, bajo riesgo y baja liquidez.",
+        "Las cuentas corrientes son un producto financiero con baja rentabilidad, bajo riesgo y alta liquidez.",
+        "Las cuentas corrientes son un producto financiero con alta rentabilidad, alto riesgo y alta liquidez.",
+        "Las cuentas corrientes son un producto financiero sin riesgo, con rentabilidad moderada y baja liquidez."
+    ],
+    "respuestaCorrecta": "Las cuentas corrientes son un producto financiero con baja rentabilidad, bajo riesgo y alta liquidez."
+    },
+    {
+    "id": 17,
+    "pregunta": "¿Cuál de las siguientes entidades supervisa la solvencia y el cumplimiento de la normativa específica de las entidades de crédito en España siguiendo las directrices de Europa?",
+    "opciones": [
+        "El Banco Central Europeo (BCE).",
+        "La Comisión Nacional del Mercado de Valores (CNMV).",
+        "El Instituto de Crédito Oficial (ICO).",
+        "El Banco de España."
+    ],
+    "respuestaCorrecta": "El Banco de España."
+    },
+    {
+    "id": 18,
+    "pregunta": "¿Qué tipo de mercado se caracteriza porque en la operación de compraventa de activos participa al menos un intermediario financiero, cuya función es poner en contacto a oferentes y demandantes de fondos a cambio de una comisión?",
+    "opciones": [
+        "Mercados directos.",
+        "Mercados libres.",
+        "Mercados intermediados.",
+        "Mercados secundarios."
+    ],
+    "respuestaCorrecta": "Mercados intermediados."
+    },
+    {
+    "id": 19,
+    "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la diferencia entre el Consorcio de Compensación de Seguros (CCS) y una reaseguradora?",
+    "opciones": [
+        "El CCS cubre a las aseguradoras en operaciones normales y la reaseguradora cubre a los asegurados en riesgos extraordinarios.",
+        "El CCS actúa directamente sobre los asegurados en casos excepcionales, mientras que la reaseguradora respalda a las aseguradoras para repartir riesgos.",
+        "Ambos actúan directamente sobre los asegurados, pero en distintos tipos de riesgos.",
+        "Ambos contribuyen a la estabilidad del sistema asegurador, pero el Consorcio opera en situaciones con alcance europeo y la reaseguradora se centra en riesgos del mercado asegurador español."
+    ],
+    "respuestaCorrecta": "El CCS actúa directamente sobre los asegurados en casos excepcionales, mientras que la reaseguradora respalda a las aseguradoras para repartir riesgos."
+    },
+    {
+    "id": 20,
+    "pregunta": "En las cooperativas de crédito, ¿quiénes pueden acceder a las operaciones de activo?",
+    "opciones": [
+        "Cualquier persona que abra una cuenta en la cooperativa.",
+        "Únicamente los cooperativistas o miembros de la cooperativa.",
+        "Solo agricultores y ganaderos de la zona donde opera la cooperativa.",
+        "Todos los clientes, siguiendo los mismos procedimientos que en la banca privada."
+    ],
+    "respuestaCorrecta": "Únicamente los cooperativistas o miembros de la cooperativa."
+    },
+    {
+    "id": 21,
+    "pregunta": "Si un país pertenece a la Unión Europea pero no utiliza el euro como moneda oficial, ¿cuál de las siguientes opciones refleja mejor su relación con el Banco Central Europeo?",
+    "opciones": [
+        "Forma parte del Eurosistema, por lo que debe aplicar la política monetaria del BCE y gestionar los sistemas de pago siguiendo sus directrices.",
+        "No forma parte del Eurosistema, por lo que mantiene su propia política monetaria y colabora con el BCE, intentando alinearse con sus medidas.",
+        "No forma parte ni del Eurosistema ni del SEBC, por lo que no tiene ninguna relación con el BCE.",
+        "Forma parte del SEBC, por lo que debe ceder el control de su propia moneda y ajustarse a las decisiones vinculadas al euro."
+    ],
+    "respuestaCorrecta": "No forma parte del Eurosistema, por lo que mantiene su propia política monetaria y colabora con el BCE, intentando alinearse con sus medidas."
+    },
+    {
+    "id": 22,
+    "pregunta": "¿Cuál de las siguientes es una función del Banco de España como miembro del SEBC?",
+    "opciones": [
+        "Definir y ejecutar la política monetaria.",
+        "Supervisar la solvencia de las entidades de crédito.",
+        "Asesorar al Gobierno mediante informes y estudios.",
+        "Elaborar y publicar estadísticas relacionadas con sus funciones."
+    ],
+    "respuestaCorrecta": "Definir y ejecutar la política monetaria."
+    },
+    {
+    "id": 23,
+    "pregunta": "Selecciona la respuesta incorrecta sobre los intermediarios financieros:",
+    "opciones": [
+        "Se dividen en bancarios y no bancarios, según tengan o no licencia bancaria del Banco de España y según las operaciones que realicen.",
+        "Los intermediarios financieros bancarios captan dinero del público (depósitos) y lo prestan.",
+        "Los intermediarios financieros no bancarios también captan depósitos del público y prestan dinero.",
+        "Los intermediarios financieros son entidades que actúan como puente entre quienes tienen dinero y quienes lo necesitan, canalizando el ahorro hacia la inversión."
+    ],
+    "respuestaCorrecta": "Los intermediarios financieros no bancarios también captan depósitos del público y prestan dinero."
+    },
+    {
+    "id": 24,
+    "pregunta": "Señala cuál de las siguientes afirmaciones NO corresponde a una función principal de los mercados financieros:",
+    "opciones": [
+        "Ser un mecanismo apropiado para la fijación del precio de los activos.",
+        "Proporcionar liquidez a los activos, logrando una mayor facilidad para convertirlos en dinero.",
+        "Evitar que los agentes puedan comprar o vender activos libremente.",
+        "Reducir los plazos y los costes de intermediación, al ser el cauce adecuado para un rápido contacto entre agentes que participan en dichos mercados."
+    ],
+    "respuestaCorrecta": "Evitar que los agentes puedan comprar o vender activos libremente."
+    },
+    {
+    "id": 25,
+    "pregunta": "En función del grado de intervención de las autoridades, ¿en qué mercado las autoridades intervienen en cuanto al precio y al número de activos financieros en circulación?",
+    "opciones": [
+        "Mercados organizados.",
+        "Mercados no organizados.",
+        "Mercado libre.",
+        "Mercado regulado."
+    ],
+    "respuestaCorrecta": "Mercado regulado."
+    },
+    {
+    "id": 26,
+    "pregunta": "¿De qué depende la forma de relación entre un banco central nacional y el Banco Central Europeo (BCE)?",
+    "opciones": [
+        "Del tamaño de la economía del país.",
+        "De si el país pertenece a la OTAN.",
+        "De si el país tiene el euro como moneda oficial.",
+        "De la localización geográfica del país en Europa."
+    ],
+    "respuestaCorrecta": "De si el país tiene el euro como moneda oficial."
+    },
+    {
+    "id": 27,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Consorcio de Compensación de Seguros es correcta?",
+    "opciones": [
+        "Es un organismo privado que cubre cualquier pérdida por mala gestión de la aseguradora.",
+        "Garantiza la cobertura cuando aseguradora y asegurado no se ponen de acuerdo sobre el importe a pagar por motivo del siniestro.",
+        "Es un organismo público que actúa como seguro de último recurso cuando una aseguradora no puede cumplir sus obligaciones.",
+        "Solo cubre los siniestros relacionados con seguros de vida y accidentes."
+    ],
+    "respuestaCorrecta": "Es un organismo público que actúa como seguro de último recurso cuando una aseguradora no puede cumplir sus obligaciones."
+    },
+    {
+    "id": 28,
+    "pregunta": "¿Cuál es la diferencia principal entre una Sociedad de Valores y una Agencia de Valores?",
+    "opciones": [
+        "La Sociedad de Valores puede operar tanto por cuenta propia como por cuenta de clientes, mientras que la Agencia de Valores solo actúa por cuenta de clientes.",
+        "La Agencia de Valores puede invertir sus propios fondos en el mercado, mientras que la Sociedad de Valores solo gestiona las órdenes de los clientes.",
+        "Ambas tienen exactamente las mismas funciones, solo se diferencian en el tamaño de la entidad.",
+        "La Sociedad de Valores no necesita autorización para prestar servicios de inversión, mientras que la Agencia de Valores sí."
+    ],
+    "respuestaCorrecta": "La Sociedad de Valores puede operar tanto por cuenta propia como por cuenta de clientes, mientras que la Agencia de Valores solo actúa por cuenta de clientes."
+    },
+    {
+    "id": 29,
+    "pregunta": "¿Qué son los productos financieros de pasivo?",
+    "opciones": [
+        "Aquellos mediante los cuales las entidades financieras conceden préstamos a sus clientes.",
+        "Aquellos mediante los cuales los clientes depositan dinero en las entidades financieras.",
+        "Aquellos que se utilizan para invertir en bolsa.",
+        "Aquellos que generan intereses a favor del banco."
+    ],
+    "respuestaCorrecta": "Aquellos mediante los cuales los clientes depositan dinero en las entidades financieras."
+    },
+    {
+    "id": 30,
+    "pregunta": "La fecha operación es:",
+    "opciones": [
+        "El último día hábil del mes.",
+        "La fecha valor.",
+        "El día en que el banco tiene en cuenta el saldo para liquidar los intereses.",
+        "El día en que se registró la operación bancaria."
+    ],
+    "respuestaCorrecta": "El día en que se registró la operación bancaria."
+    },
+    {
+    "id": 31,
+    "pregunta": "¿Qué se entiende por importe mínimo en un depósito a plazo?",
+    "opciones": [
+        "El capital que se devuelve al final del plazo.",
+        "La cantidad mínima que la entidad exige para realizar la imposición.",
+        "La comisión que cobra el banco al cliente.",
+        "La rentabilidad garantizada del depósito."
+    ],
+    "respuestaCorrecta": "La cantidad mínima que la entidad exige para realizar la imposición."
+    },
+    {
+    "id": 32,
+    "pregunta": "Si la Sociedad Cooperativa EcoVerde, dedicada a la producción y distribución de productos ecológicos, desea abrir una cuenta de ahorro en el banco, ¿quién está capacitado para gestionar esta operación?",
+    "opciones": [
+        "El presidente de la cooperativa.",
+        "Los representantes legales o apoderados de la cooperativa.",
+        "Cualquier cooperativista autorizado.",
+        "El contable o tesorero de la cooperativa."
+    ],
+    "respuestaCorrecta": "Los representantes legales o apoderados de la cooperativa."
+    },
+    {
+    "id": 33,
+    "pregunta": "¿Qué se entiende por reintegro?",
+    "opciones": [
+        "La devolución de una comisión bancaria.",
+        "La disposición de dinero en efectivo desde la cuenta.",
+        "La anulación de un apunte erróneo.",
+        "El cargo que se produce tras un pago con tarjeta."
+    ],
+    "respuestaCorrecta": "La disposición de dinero en efectivo desde la cuenta."
+    },
+    {
+    "id": 34,
+    "pregunta": "¿Qué tipo de cuenta bancaria tiene varios titulares y solo se requiere la firma de uno de ellos para poder disponer de los fondos?",
+    "opciones": [
+        "Cuenta corriente con titularidad individual.",
+        "Cuenta corriente colectiva con firma indistinta.",
+        "Cuenta corriente colectiva con firma mancomunada.",
+        "Cuenta corriente colectiva con firma conjunta."
+    ],
+    "respuestaCorrecta": "Cuenta corriente colectiva con firma indistinta."
+    },
+    {
+    "id": 35,
+    "pregunta": "¿Cuáles son los tres parámetros que suelen variar en las distintas ofertas de depósitos a plazo?",
+    "opciones": [
+        "Comisión, divisa y riesgo.",
+        "Interés, importe mínimo y tiempo.",
+        "Capital, entidad financiera y país.",
+        "Liquidación de intereses, riesgo y liquidez."
+    ],
+    "respuestaCorrecta": "Interés, importe mínimo y tiempo."
+    },
+    {
+    "id": 36,
+    "pregunta": "¿En cuál de las siguientes situaciones el banco puede proceder a la cancelación unilateral de una cuenta?",
+    "opciones": [
+        "Si el titular cambia de domicilio y no lo comunica, pues le impediría al banco remitirle notificaciones y posibles modificaciones de las condiciones contractuales.",
+        "Si el titular modifica su situación laboral y no informa al banco de dicho cambio, dado que esto afecta a la evaluación de riesgo vinculada a los justificantes de ingresos proporcionados en la apertura.",
+        "En caso de fallecimiento del titular, disolución de la persona jurídica titular o incluso presentación reiterada de cheques sin fondos.",
+        "Si el cliente mantiene un saldo positivo en la cuenta pero realiza retiradas frecuentes de manera constante, lo que podría afectar a la planificación del uso de los fondos por parte de la entidad."
+    ],
+    "respuestaCorrecta": "En caso de fallecimiento del titular, disolución de la persona jurídica titular o incluso presentación reiterada de cheques sin fondos."
+    },
+    {
+    "id": 37,
+    "pregunta": "EI IBAN es un código que está formado por:",
+    "opciones": [
+        "22 caracteres, los dos primeros dígitos son de carácter alfabético.",
+        "24 caracteres, y los últimos veinte dígitos identifican al código cuenta cliente.",
+        "25 caracteres, donde los dos primeros son de control y los siguientes 23 identifican al código cuenta cliente.",
+        "26 caracteres, los dos primeros dígitos son de control, los cuales están seguidos por la identificación del país."
+    ],
+    "respuestaCorrecta": "24 caracteres, y los últimos veinte dígitos identifican al código cuenta cliente."
+    },
+    {
+    "id": 38,
+    "pregunta": "¿Cómo se denomina la comisión que aplica el banco en una cuenta a la vista cuando el titular dispone de más fondos de los que tiene depositados, y que suele ser un porcentaje previamente pactado sobre el saldo deudor?",
+    "opciones": [
+        "Comisión de administración.",
+        "Comisión de descubierto.",
+        "Comisión posiciones deudoras.",
+        "Comisión de mantenimiento de saldo deudor."
+    ],
+    "respuestaCorrecta": "Comisión de descubierto."
+    },
+    {
+    "id": 39,
+    "pregunta": "¿Cuál de los siguientes tipos de depósitos a plazo viene definido por un tipo de interés que incrementa con el tiempo, generalmente aumentando en intervalos periódicos, premiando el mantenimiento del ahorro durante varios años?",
+    "opciones": [
+        "Depósito tradicional.",
+        "Depósito con interés creciente.",
+        "Depósitos a la vista progresivo.",
+        "Depósito referenciado."
+    ],
+    "respuestaCorrecta": "Depósito con interés creciente."
+    },
+    {
+    "id": 40,
+    "pregunta": "La principal diferencia entre un titular y un autorizado en una cuenta bancaria es:",
+    "opciones": [
+        "El titular es propietario de los fondos, mientras que el autorizado únicamente puede operar con la cuenta.",
+        "Ambos son propietarios de los fondos, pero el titular solo puede retirar dinero con el consentimiento del autorizado.",
+        "El autorizado tiene plena potestad para cerrar la cuenta, pues es la figura autorizada para ello, mientras que el titular solo puede cerrarla siempre que tenga la autorización formal del autorizado.",
+        "No existe diferencia, ambas figuras son equivalentes."
+    ],
+    "respuestaCorrecta": "El titular es propietario de los fondos, mientras que el autorizado únicamente puede operar con la cuenta."
     }
 ]

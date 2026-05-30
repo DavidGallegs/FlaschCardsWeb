@@ -1318,5 +1318,445 @@
         "Garantizar beneficios a los inversores."
     ],
     "respuestaCorrecta": "Transferir el exceso de liquidez hacia la inversión."
+    },
+    {
+    "id": 121,
+    "pregunta": "¿Con qué finalidad suelen utilizar la Bolsa las grandes empresas?",
+    "opciones": [
+        "Para obtener dividendos a corto plazo.",
+        "Para ahorrar excedentes de tesorería.",
+        "Con fines estratégicos, como el control o participación en otras empresas.",
+        "Para evitar el endeudamiento bancario."
+    ],
+    "respuestaCorrecta": "Con fines estratégicos, como el control o participación en otras empresas."
+    },
+    {
+    "id": 122,
+    "pregunta": "¿Cómo debe operar el cliente bursátil para invertir en el mercado de valores?",
+    "opciones": [
+        "Formalizando un contrato directamente con la Bolsa de Madrid.",
+        "A través de cualquier entidad financiera española.",
+        "Mediante un intermediario autorizado por la CNMV.",
+        "Mediante la apertura de una cuenta individual en BME Clearing."
+    ],
+    "respuestaCorrecta": "Mediante un intermediario autorizado por la CNMV."
+    },
+    {
+    "id": 123,
+    "pregunta": "Los valores de renta fija se caracterizan por:",
+    "opciones": [
+        "No representar deuda.",
+        "Representar participación en el capital.",
+        "Garantizar un interés fijo o variable durante un período.",
+        "No ofrecer ningún tipo de interés."
+    ],
+    "respuestaCorrecta": "Garantizar un interés fijo o variable durante un período."
+    },
+    {
+    "id": 124,
+    "pregunta": "Los valores de renta variable se caracterizan por:",
+    "opciones": [
+        "Garantizar una rentabilidad fija.",
+        "Suelen materializarse a través de Letras del Tesoro, Bonos y Obligaciones del Estado.",
+        "Representar participación en el capital sin rentabilidad garantizada.",
+        "Tener siempre vinculado un interés fijo."
+    ],
+    "respuestaCorrecta": "Representar participación en el capital sin rentabilidad garantizada."
+    },
+    {
+    "id": 125,
+    "pregunta": "¿Qué buscan los fondos indexados?",
+    "opciones": [
+        "Invertir principalmente en bonos del Estado.",
+        "Replicar el comportamiento de un índice bursátil.",
+        "Comprar acciones de empresas privadas con poca representación en el mercado bursátil.",
+        "Mantener siempre un valor fijo de la inversión, posibilitando la premisa de ser un instrumento financiero estable."
+    ],
+    "respuestaCorrecta": "Replicar el comportamiento de un índice bursátil."
+    },
+    {
+    "id": 126,
+    "pregunta": "¿Cómo se denomina la Institución de Inversión Colectiva (IIC) que agrupa el dinero de muchos inversores (partícipes) y un gestor profesional lo invierte en una cartera diversificada de activos?",
+    "opciones": [
+        "Participación preferente.",
+        "Fondo de inversión.",
+        "ETFs.",
+        "SICAV."
+    ],
+    "respuestaCorrecta": "Fondo de inversión."
+    },
+    {
+    "id": 127,
+    "pregunta": "¿Cómo se denomina la operación financiera que constituye el mecanismo más habitual para que una compañía salga a bolsa?",
+    "opciones": [
+        "OPV.",
+        "OPA.",
+        "OPB.",
+        "OPN."
+    ],
+    "respuestaCorrecta": "OPV."
+    },
+    {
+    "id": 128,
+    "pregunta": "¿Cómo se denomina la operación financiera mediante la cual una persona física o jurídica ofrece a los accionistas de una empresa cotizada comprar sus acciones a un precio determinado y dentro de un plazo máximo de aceptación?",
+    "opciones": [
+        "OPV.",
+        "OPA.",
+        "OPB.",
+        "OPN."
+    ],
+    "respuestaCorrecta": "OPA."
+    },
+    {
+    "id": 129,
+    "pregunta": "Dentro de la normativa MiFID, ¿cómo se denomina la prueba que evalúa si el cliente tiene los conocimientos suficientes para comprender un producto financiero específico?",
+    "opciones": [
+        "El test de rentabilidad.",
+        "El test de conveniencia.",
+        "El test de idoneidad.",
+        "El test de solvencia bancaria."
+    ],
+    "respuestaCorrecta": "El test de conveniencia."
+    },
+    {
+    "id": 130,
+    "pregunta": "Dentro de la normativa MiFID, ¿cómo se denomina la prueba que analiza la situación financiera y los objetivos de inversión del cliente para ofrecerle recomendaciones personalizadas?",
+    "opciones": [
+        "El test de rentabilidad.",
+        "El test de conveniencia.",
+        "El test de idoneidad.",
+        "El test de solvencia bancaria."
+    ],
+    "respuestaCorrecta": "El test de idoneidad."
+    },
+    {
+    "id": 131,
+    "pregunta": "¿Cómo se denomina la ley que regula la bolsa española?",
+    "opciones": [
+        "Ley Regulatoria de Acciones.",
+        "Ley del Mercado de Valores.",
+        "Ley IBEX 35.",
+        "Ley de Protección de los Inversores (LPI)."
+    ],
+    "respuestaCorrecta": "Ley del Mercado de Valores."
+    },
+    {
+    "id": 132,
+    "pregunta": "¿Qué es la liquidación en el proceso de inversión?",
+    "opciones": [
+        "Cobros y abonos del efectivo resultante de las operaciones de inversión.",
+        "Transferencia de los valores entre el transmisor y el adquirente.",
+        "Pago de los intereses de la inversión.",
+        "Garantía de devolución de capital."
+    ],
+    "respuestaCorrecta": "Transferencia de los valores entre el transmisor y el adquirente."
+    },
+    {
+    "id": 133,
+    "pregunta": "¿Cuál es la diferencia principal entre renta fija pública y privada?",
+    "opciones": [
+        "La pública se emite por el sector público y la privada por el sector privado.",
+        "La pública contempla instrumentos financieros que generan intereses implícitos y la privada intereses explícitos.",
+        "La pública contempla instrumentos financieros corto plazo y la privada instrumentos financieros a largo plazo.",
+        "Todas las anteriores son correctas."
+    ],
+    "respuestaCorrecta": "La pública se emite por el sector público y la privada por el sector privado."
+    },
+    {
+    "id": 134,
+    "pregunta": "¿Cuál es la función de BME Clearing?",
+    "opciones": [
+        "Gestionar la liquidación de acciones.",
+        "Actuar como garante de las operaciones, especialmente en valores complejos como derivados.",
+        "Coordinar todas las bolsas de España.",
+        "Supervisar la transparencia de los mercados."
+    ],
+    "respuestaCorrecta": "Actuar como garante de las operaciones, especialmente en valores complejos como derivados."
+    },
+    {
+    "id": 135,
+    "pregunta": "¿Qué es la rentabilidad por dividendo?",
+    "opciones": [
+        "La diferencia entre el precio de venta y el precio de compra de una acción.",
+        "La parte del beneficio que la sociedad acuerda repartir entre sus accionistas.",
+        "La rentabilidad obtenida por vender derechos de suscripción preferente.",
+        "La ganancia obtenida al vender todas las acciones de la empresa."
+    ],
+    "respuestaCorrecta": "La parte del beneficio que la sociedad acuerda repartir entre sus accionistas."
+    },
+    {
+    "id": 136,
+        "pregunta": "¿Qué ocurre si el precio de venta de una acción es superior al de compra?",
+        "opciones": [
+        "Se obtiene una plusvalía.",
+        "Se obtiene una minusvalía.",
+        "Se recibe un dividendo.",
+        "Se realiza una OPA."
+        ],
+        "respuestaCorrecta": "Se obtiene una plusvalía."
+    },
+    {
+        "id": 137,
+        "pregunta": "La rentabilidad por ampliaciones de capital permite al accionista obtener posibles beneficios mediante:",
+        "opciones": [
+        "El cobro de dividendo fijo anual garantizado.",
+        "La venta de derechos de suscripción preferente en el mercado.",
+        "El aumento automático del precio de la acción.",
+        "La participación en una OPV."
+        ],
+        "respuestaCorrecta": "La venta de derechos de suscripción preferente en el mercado."
+    },
+    {
+        "id": 138,
+        "pregunta": "¿Por qué los activos de renta fija reciben ese nombre?",
+        "opciones": [
+        "Porque su precio en el mercado no varía nunca, es decir, el precio es fijo.",
+        "Porque los intereses están pactados en el momento de la emisión y se conoce de antemano la rentabilidad.",
+        "Porque provienen del sector público, el cual ofrece un nivel de seguridad fijo.",
+        "Porque no generan intereses fijos."
+        ],
+        "respuestaCorrecta": "Porque los intereses están pactados en el momento de la emisión y se conoce de antemano la rentabilidad."
+    },
+    {
+        "id": 139,
+        "pregunta": "¿Quién protege a los inversores asegurando la transparencia y la correcta formación de precios?",
+        "opciones": [
+        "Iberclear.",
+        "BME Clearing.",
+        "CNMV.",
+        "SIBE."
+        ],
+        "respuestaCorrecta": "CNMV."
+    },
+    {
+        "id": 140,
+        "pregunta": "¿Qué función desempeñan los intermediarios en el mercado de valores?",
+        "opciones": [
+        "Fijan el precio de las acciones.",
+        "Garantizan beneficios a los inversores.",
+        "Ejecutan las órdenes de compra y venta de valores.",
+        "Supervisan el cumplimiento de la ley."
+        ],
+        "respuestaCorrecta": "Ejecutan las órdenes de compra y venta de valores."
+    },
+    {
+        "id": 141,
+        "pregunta": "¿Cómo se seleccionan los valores que forman el IBEX 35?",
+        "opciones": [
+        "Por la importancia de su sector económico.",
+        "Por decisión del Gobierno.",
+        "Por su volumen de negociación y frecuencia de cotización.",
+        "Por su rentabilidad anual y relevancia histórica de la empresa en el mercado económico español."
+        ],
+        "respuestaCorrecta": "Por su volumen de negociación y frecuencia de cotización."
+    },
+    {
+        "id": 142,
+        "pregunta": "¿Qué es el SIBE?",
+        "opciones": [
+        "Un organismo supervisor del mercado de valores.",
+        "Un índice bursátil español.",
+        "Un mercado exclusivo para deuda pública.",
+        "Un sistema que conecta en tiempo real las bolsas españolas."
+        ],
+        "respuestaCorrecta": "Un sistema que conecta en tiempo real las bolsas españolas."
+    },
+    {
+        "id": 143,
+        "pregunta": "Señala la afirmación correcta sobre la diferencia o similitud entre una orden de mercado y una orden por lo mejor:",
+        "opciones": [
+        "Ambas órdenes fijan siempre un precio límite máximo o mínimo para su ejecución.",
+        "La orden por lo mejor siempre se ejecuta completamente a distintos precios disponibles, mientras que la de mercado a un único precio.",
+        "La orden de mercado solo se ejecuta si encuentra suficiente contrapartida a un mismo precio disponible.",
+        "La orden de mercado prioriza la rapidez de ejecución, mientras que la orden por lo mejor prioriza el precio, pero sin renunciar totalmente a la ejecución inmediata."
+        ],
+        "respuestaCorrecta": "La orden de mercado prioriza la rapidez de ejecución, mientras que la orden por lo mejor prioriza el precio, pero sin renunciar totalmente a la ejecución inmediata."
+    },
+    {
+        "id": 144,
+        "pregunta": "¿Cuál es la función principal de los índices bursátiles?",
+        "opciones": [
+        "Analizar cada acción individualmente.",
+        "Actuar como referencia del mercado obligando a todas las acciones incluidas en el índice a ajustarse a la misma tendencia.",
+        "Mostrar detalladamente los valores que suben en una jornada bursátil.",
+        "Reflejar la actividad y evolución de un conjunto de valores cotizados y, por tanto, la tendencia del mercado."
+        ],
+        "respuestaCorrecta": "Reflejar la actividad y evolución de un conjunto de valores cotizados y, por tanto, la tendencia del mercado."
+    },
+    {
+        "id": 145,
+        "pregunta": "¿Cuál de los siguientes instrumentos de renta fija privada tiene un mayor riesgo?",
+        "opciones": [
+        "Pagarés de empresa.",
+        "Bonos y obligaciones simples.",
+        "Obligaciones subordinadas.",
+        "Obligaciones preferentes."
+        ],
+        "respuestaCorrecta": "Obligaciones preferentes."
+    },
+    {
+        "id": 146,
+        "pregunta": "¿Cuál es la principal diferencia entre una SICAV y un fondo de inversión?",
+        "opciones": [
+        "La SICAV invierte solo en renta fija y el fondo solo en renta variable.",
+        "La SICAV es una sociedad anónima y el fondo de inversión no.",
+        "La SICAV emite participaciones y el fondo emite acciones.",
+        "No existe ninguna diferencia."
+        ],
+        "respuestaCorrecta": "La SICAV es una sociedad anónima y el fondo de inversión no."
+    },
+    {
+        "id": 147,
+        "pregunta": "¿Cuál es la principal diferencia entre ETFs y fondos indexados?",
+        "opciones": [
+        "Los ETFs se pueden comprar y vender en tiempo real en bolsa, mientras que los fondos indexados solo al valor liquidativo del cierre del día.",
+        "Los fondos indexados permiten diversificar, mientras que los ETFs solo invierten en acciones de una única empresa en tiempo real.",
+        "Los ETFs no persiguen replicar índices bursátiles, mientras que en los fondos indexados es su principal objetivo.",
+        "No existe ninguna diferencia, dado que se trata de la misma tipología de producto."
+        ],
+        "respuestaCorrecta": "Los ETFs se pueden comprar y vender en tiempo real en bolsa, mientras que los fondos indexados solo al valor liquidativo del cierre del día."
+    },
+    {
+        "id": 148,
+        "pregunta": "¿Según qué criterio se clasifican las órdenes cuando se tiene en cuenta el tiempo que permanecen activas en el mercado?",
+        "opciones": [
+        "Según el precio.",
+        "Según la ejecución.",
+        "Según la vigencia de la orden.",
+        "Según el intermediario."
+        ],
+        "respuestaCorrecta": "Según la vigencia de la orden."
+    },
+    {
+        "id": 149,
+        "pregunta": "¿Cuál de los siguientes instrumentos de renta fija suele ofrecer mayor rentabilidad?",
+        "opciones": [
+        "Instrumentos de deuda privada, porque las empresas asumen mayor riesgo que el Estado.",
+        "Instrumentos de deuda pública, porque están garantizados por el Estado.",
+        "Instrumentos de renta variable, como las acciones, porque su precio fluctúa en bolsa.",
+        "Instrumentos de pasivo, como los depósitos a plazo fijo, porque ofrecen rentabilidad fija garantizada."
+        ],
+        "respuestaCorrecta": "Instrumentos de deuda privada, porque las empresas asumen mayor riesgo que el Estado."
+    },
+    {
+        "id": 150,
+        "pregunta": "¿Cómo se denomina el precio público que tiene cada acción en bolsa y que se determina en régimen de mercado mediante la confrontación de la oferta y la demanda?",
+        "opciones": [
+        "Valor contable.",
+        "Cotización",
+        "Volatilidad.",
+        "Precio de emisión."
+        ],
+        "respuestaCorrecta": "Cotización"
+    },
+    {
+        "id": 151,
+        "pregunta": "¿Dónde se realiza la negociación de los valores mobiliarios?",
+        "opciones": [
+        "En el mercado de valores.",
+        "En el mercado monetario.",
+        "En el mercado de bienes.",
+        "En el mercado inversionista."
+        ],
+        "respuestaCorrecta": "En el mercado de valores."
+    },
+    {
+        "id": 152,
+        "pregunta": "La actividad aseguradora está basada en el principio de:",
+        "opciones": [
+        "Rentabilidad, cuyo objetivo principal es que el asegurador maximice sus beneficios económicos sin tener en cuenta las necesidades reales de los asegurados.",
+        "Individualidad, que consiste en que cada asegurado asume los riesgos únicamente según sus propios aportes sin depender del grupo o colectivo asegurado.",
+        "Solidaridad, que se fundamenta en el reparto de los daños o las consecuencias ocasionadas por un siniestro entre las muchas personas que están bajo un mismo riesgo.",
+        "Competitividad, que se basa en la rivalidad entre aseguradoras para determinar quién ofrece las mejores primas, sin importar la cobertura del riesgo."
+        ],
+        "respuestaCorrecta": "Solidaridad, que se fundamenta en el reparto de los daños o las consecuencias ocasionadas por un siniestro entre las muchas personas que están bajo un mismo riesgo."
+    },
+    {
+        "id": 153,
+        "pregunta": "Una compañía de seguros evalúa distintos riesgos para determinar la prima que debe cobrar a sus clientes. Si un riesgo específico aumenta su probabilidad de ocurrencia, ¿qué efecto tendría esto sobre la prima que la aseguradora debería aplicar?",
+        "opciones": [
+        "La prima disminuiría, porque el riesgo es más frecuente y la aseguradora puede repartirlo mejor.",
+        "La prima se mantendría igual, ya que la probabilidad del riesgo no afecta directamente al precio del seguro.",
+        "La prima aumentaría, porque la aseguradora necesita compensar el mayor riesgo de pérdida.",
+        "El seguro se eliminaría automáticamente, porque no se pueden cubrir riesgos frecuentes."
+        ],
+        "respuestaCorrecta": "La prima aumentaría, porque la aseguradora necesita compensar el mayor riesgo de pérdida."
+    },
+    {
+        "id": 154,
+        "pregunta": "El seguro multirriesgo permite:",
+        "opciones": [
+        "No pagar primas.",
+        "Eliminar riesgos.",
+        "Evitar contratar varios seguros.",
+        "El seguro multirriesgo cubre actividades lúdico-deportivas de alto riesgo, como el parapente, escalada u otros deportes extremos."
+        ],
+        "respuestaCorrecta": "Evitar contratar varios seguros."
+    },
+    {
+        "id": 155,
+        "pregunta": "Señala la afirmación correcta en relación con el seguro de responsabilidad civil:",
+        "opciones": [
+        "El seguro de responsabilidad civil es opcional en todas las profesiones.",
+        "Este seguro protege al asegurado frente a la obligación de indemnizar a un tercero por daños causados, siempre que estos daños estén incluidos en el contrato del seguro.",
+        "Solo las personas con profesiones de alto riesgo pueden contratar un seguro de responsabilidad civil, ya que no se aplica a actividades cotidianas como conducir o ser propietaria de una vivienda.",
+        "En ningún caso el seguro de responsabilidad civil puede incluirse como una cláusula por defecto en otros seguros."
+        ],
+        "respuestaCorrecta": "Este seguro protege al asegurado frente a la obligación de indemnizar a un tercero por daños causados, siempre que estos daños estén incluidos en el contrato del seguro."
+    },
+    {
+        "id": 156,
+        "pregunta": "¿Qué suele cubrir un seguro de comunidad que contrata un bloque de vecinos?",
+        "opciones": [
+        "Los elementos comunes del edificio y la responsabilidad civil frente a terceros.",
+        "Solo los inmuebles y muebles privados de cada vecino.",
+        "Solo el contenido de los pisos y locales de los propietarios.",
+        "Solo el continente del edificio."
+        ],
+        "respuestaCorrecta": "Los elementos comunes del edificio y la responsabilidad civil frente a terceros."
+    },
+    {
+        "id": 157,
+        "pregunta": "La prima es:",
+        "opciones": [
+        "La indemnización en un seguro.",
+        "El precio del seguro.",
+        "El riesgo en un seguro.",
+        "El siniestro del seguro."
+        ],
+        "respuestaCorrecta": "El precio del seguro."
+    },
+    {
+        "id": 158,
+        "pregunta": "¿Cómo se denomina el seguro que cubre la pérdida de ingresos o beneficios que sufre una persona o una empresa debido a la interrupción de su actividad por un evento inesperado?",
+        "opciones": [
+        "Seguro de lucro cesante.",
+        "Seguro de crédito.",
+        "Seguro de caución.",
+        "Seguro de empresa."
+        ],
+        "respuestaCorrecta": "Seguro de lucro cesante."
+    },
+    {
+        "id": 159,
+        "pregunta": "Para que un riesgo sea asegurable se debe cumplir la siguiente condición:",
+        "opciones": [
+        "Que no se pueda cuantificar económicamente.",
+        "Que sea sobre algo ilícito.",
+        "Que sea accidental o fortuito.",
+        "Que produzca lucro."
+        ],
+        "respuestaCorrecta": "Que sea accidental o fortuito."
+    },
+    {
+        "id": 160,
+        "pregunta": "Un riesgo asegurable debe ser:",
+        "opciones": [
+        "Ilícito.",
+        "Seguro.",
+        "Accidental.",
+        "Obligatorio."
+        ],
+        "respuestaCorrecta": "Accidental."
     }
 ]

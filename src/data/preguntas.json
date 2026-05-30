@@ -438,5 +438,445 @@
         "No existe diferencia, ambas figuras son equivalentes."
     ],
     "respuestaCorrecta": "El titular es propietario de los fondos, mientras que el autorizado únicamente puede operar con la cuenta."
+    },
+    {
+    "id": 41,
+    "pregunta": "¿Quién firma el contrato para abrir una cuenta bancaria?",
+    "opciones": [
+        "Únicamente el banco.",
+        "El banco y los titulares de la cuenta.",
+        "Únicamente los titulares.",
+        "El banco, los titulares y el notario."
+    ],
+    "respuestaCorrecta": "El banco y los titulares de la cuenta."
+    },
+    {
+    "id": 42,
+    "pregunta": "Señala cuál de los siguientes documentos puede solicitarte el banco al abrir una cuenta a tu nombre como persona física:",
+    "opciones": [
+        "Declaración de la renta o justificantes de ingresos.",
+        "Escritura de poderes otorgados.",
+        "Certificado de empadronamiento.",
+        "Contrato de arrendamiento."
+    ],
+    "respuestaCorrecta": "Declaración de la renta o justificantes de ingresos."
+    },
+    {
+    "id": 43,
+    "pregunta": "¿Cuál es el nombre de la comisión de cuenta a la vista que exige que la entidad financiera justifique con pruebas de los gastos incurridos, como el envío de una reclamación de pago o la realización de una llamada telefónica, mostrando así una intención de evitar su cobro?",
+    "opciones": [
+        "Comisión de administración.",
+        "Comisión de descubierto.",
+        "Comisión posiciones deudoras.",
+        "Comisión por extractos y gastos de correos."
+    ],
+    "respuestaCorrecta": "Comisión posiciones deudoras."
+    },
+    {
+    "id": 44,
+    "pregunta": "¿Qué es un extracto bancario?",
+    "opciones": [
+        "Un documento que únicamente muestra el saldo a final de mes de una cuenta corriente, con el fin de que el cliente conozca si su cuenta está en descubierto y pueda realizar ingresos para evitar el cobro de comisiones.",
+        "Un informe que recoge de forma general todos los ingresos de la cuenta a lo largo del mes, facilitando la elaboración de la contabilidad.",
+        "Un documento emitido que recoge de forma sistemática los movimientos de una cuenta durante un periodo determinado, detallando fechas contables, fechas valor, conceptos, importes y el saldo resultante.",
+        "Un registro interno elaborado por la empresa para controlar los pagos pendientes y gestionar de manera más eficiente su contabilidad."
+    ],
+    "respuestaCorrecta": "Un documento emitido que recoge de forma sistemática los movimientos de una cuenta durante un periodo determinado, detallando fechas contables, fechas valor, conceptos, importes y el saldo resultante."
+    },
+    {
+    "id": 45,
+    "pregunta": "En los contratos bancarios, ¿qué establece generalmente la cláusula de duración de una cuenta corriente?",
+    "opciones": [
+        "Vigencia hasta fallecimiento del titular.",
+        "Plazo determinado de varios años según política del banco.",
+        "Plazo renovable automáticamente cada año sin obligatoriedad de preaviso.",
+        "Duración indefinida, con posibilidad de cancelación tanto por el banco como por el titular."
+    ],
+    "respuestaCorrecta": "Plazo renovable automáticamente cada año sin obligatoriedad de preaviso."
+    },
+    {
+    "id": 46,
+    "pregunta": "¿Qué suele ocurrir cuando se realiza un reintegro anticipado de un depósito a plazo fijo?",
+    "opciones": [
+        "Se aplica una comisión para penalizar al cliente.",
+        "Se devuelve el dinero sin los intereses pactados.",
+        "Se aumenta la rentabilidad del depósito.",
+        "Se convierte automáticamente en un depósito estructurado."
+    ],
+    "respuestaCorrecta": "Se aplica una comisión para penalizar al cliente."
+    },
+    {
+    "id": 47,
+    "pregunta": "¿En cuál de las siguientes opciones de tipología de depósito a plazo fijo los intereses se abonan al vencimiento sumándose al capital inicialmente depositado?",
+    "opciones": [
+        "Liquidación periódica.",
+        "Liquidación anticipada.",
+        "Liquidación al vencimiento.",
+        "Liquidación flexible."
+    ],
+    "respuestaCorrecta": "Liquidación al vencimiento."
+    },
+    {
+    "id": 48,
+    "pregunta": "¿Cuál de las siguientes tipologías de depósitos a plazo establece un tipo de interés que se determina en función de una referencia, como puede ser el euríbor, y puede variar según las fluctuaciones de dicho índice?",
+    "opciones": [
+        "Depósito tradicional.",
+        "Depósito con interés creciente.",
+        "Depósito vinculado.",
+        "Depósito referenciado."
+    ],
+    "respuestaCorrecta": "Depósito referenciado."
+    },
+    {
+    "id": 49,
+    "pregunta": "¿Cuál es el cuaderno bancario que emplean las empresas para gestionar la domiciliación de los recibos de sus clientes?",
+    "opciones": [
+        "Cuaderno 19.",
+        "Cuaderno 91.",
+        "Cuaderno 34.",
+        "Cuaderno 43."
+    ],
+    "respuestaCorrecta": "Cuaderno 19."
+    },
+    {
+    "id": 50,
+    "pregunta": "¿Qué función cumple el mandato SEPA en la domiciliación bancaria?",
+    "opciones": [
+        "Asegura la transferencia internacional de fondos.",
+        "Autoriza al banco a pagar los recibos.",
+        "Prohíbe al cliente pagar recibos domiciliados.",
+        "Es un código de verificación de operaciones."
+    ],
+    "respuestaCorrecta": "Autoriza al banco a pagar los recibos."
+    },
+    {
+    "id": 51,
+    "pregunta": "¿Qué son los agentes financieros dentro del canal presencial de banca?",
+    "opciones": [
+        "Empleados de la entidad bancaria que, desde las oficinas centrales, prestan asesoramiento especializado a las sucursales y diseñan productos financieros para su comercialización.",
+        "Personas ajenas a la entidad que comercializan productos financieros mediante un acuerdo y reciben una retribución por comisión.",
+        "Todos los intermediarios que interviene en una operación bancaria.",
+        "Supervisores de oficina encargados de llevar a cabo auditorías internas destinadas a garantizar la ausencia de fraudes bancarios cometidos por el personal de la propia oficina."
+    ],
+    "respuestaCorrecta": "Personas ajenas a la entidad que comercializan productos financieros mediante un acuerdo y reciben una retribución por comisión."
+    },
+    {
+    "id": 52,
+    "pregunta": "¿Qué canal utilizan las entidades financieras cuando ofrecen atención al cliente a través de un call center?",
+    "opciones": [
+        "Banca electrónica.",
+        "Banca presencial",
+        "Banca telefónica.",
+        "Banca digital."
+    ],
+    "respuestaCorrecta": "Banca telefónica."
+    },
+    {
+    "id": 53,
+    "pregunta": "¿Qué debe proporcionar el cliente para que se ejecute una domiciliación de abono?",
+    "opciones": [
+        "Su tarjeta de crédito.",
+        "El número de cuenta del beneficiario.",
+        "EI IBAN de su cuenta.",
+        "Su firma electrónica."
+    ],
+    "respuestaCorrecta": "EI IBAN de su cuenta."
+    },
+    {
+    "id": 54,
+    "pregunta": "¿A través de qué sistema se tramitan las transferencias ordinarias en España?",
+    "opciones": [
+        "SWIFT",
+        "TARGET2",
+        "SNCE",
+        "SEPA"
+    ],
+    "respuestaCorrecta": "SNCE"
+    },
+    {
+    "id": 55,
+    "pregunta": "¿Cómo se realiza el pago en el servicio VIA-T?",
+    "opciones": [
+        "Con efectivo en la cabina, mediante un ticket que se registra y compensa mensualmente a través de un cuaderno bancario.",
+        "Mediante un dispositivo electrónico que está vinculado a una cuenta o tarjeta previamente.",
+        "Con una tarjeta de débito o crédito mediante tecnología contactless en el peaje.",
+        "A través de una aplicación móvil que escanea la matrícula del vehículo."
+    ],
+    "respuestaCorrecta": "Mediante un dispositivo electrónico que está vinculado a una cuenta o tarjeta previamente."
+    },
+    {
+    "id": 56,
+    "pregunta": "¿Qué diferencia principal existe entre la gestión de cobro y el descuento de efectos?",
+    "opciones": [
+        "En la gestión de cobro, el banco entrega el importe al cliente en el momento de recibir los efectos, mientras que en el descuento el abono se realiza al vencimiento del efecto.",
+        "En la gestión de cobro, el banco no adelanta dinero al cliente, mientras que en el descuento sí.",
+        "En la gestión de cobro, el banco concede crédito al cliente, mientras que en el descuento solo presta un servicio de gestión del efecto comercial en cuestión.",
+        "En el descuento de efectos, el banco cobra una comisión sobre el nominal y los gastos fijos, mientras que en la gestión también aplica intereses."
+    ],
+    "respuestaCorrecta": "En la gestión de cobro, el banco no adelanta dinero al cliente, mientras que en el descuento sí."
+    },
+    {
+    "id": 57,
+    "pregunta": "¿Qué son los cuadernos bancarios?",
+    "opciones": [
+        "Libros o registros donde se anotan de forma detallada los movimientos y operaciones realizadas por el banco con sus clientes, con el fin de mantener un control interno de las transacciones.",
+        "Protocolos comunes que establecen las características y el formato de los ficheros utilizados para el intercambio automatizado de información entre empresas y entidades financieras.",
+        "Formularios o documentos físicos que utilizan los clientes para solicitar transferencias, domiciliaciones o pagos a su entidad bancaria.",
+        "Informes internos elaborados por las entidades financieras para analizar la evolución de sus operaciones y resultados económicos."
+    ],
+    "respuestaCorrecta": "Protocolos comunes que establecen las características y el formato de los ficheros utilizados para el intercambio automatizado de información entre empresas y entidades financieras."
+    },
+    {
+    "id": 58,
+    "pregunta": "¿Qué incluye el servicio de cambio de moneda o divisas que ofrecen las entidades financieras?",
+    "opciones": [
+        "La compraventa de monedas extranjeras, ya que los billetes no tienen un valor metálico asociado.",
+        "La compraventa de euros frente a las divisas más utilizadas a nivel internacional.",
+        "La compraventa de billetes extranjeros y lingotes de oro, así como la comercialización de tarjetas que puedan utilizarse en comercios y cajeros de países con otra divisa.",
+        "La compraventa de billetes extranjeros, el abono o envío de transferencias en otras divisas y el pago o cobro de cheques en euros emitidos en moneda extranjera."
+    ],
+    "respuestaCorrecta": "La compraventa de billetes extranjeros, el abono o envío de transferencias en otras divisas y el pago o cobro de cheques en euros emitidos en moneda extranjera."
+    },
+    {
+    "id": 59,
+    "pregunta": "¿Cómo se identifica un cheque cruzado?",
+    "opciones": [
+        "Por la expresión \"para abonar en cuenta\".",
+        "Por dos líneas paralelas en diagonal sobre su anverso.",
+        "Por una marca en el reverso que indica \"no a la orden\".",
+        "Por el nombre del beneficiario escrito en letras mayúsculas."
+    ],
+    "respuestaCorrecta": "Por dos líneas paralelas en diagonal sobre su anverso."
+    },
+    {
+    "id": 60,
+    "pregunta": "¿Para qué se utiliza la cuenta corriente asociada a la cuenta de valores?",
+    "opciones": [
+        "Para guardar los títulos físicos de las acciones.",
+        "Para registrar los intereses del préstamo.",
+        "Para aportar el dinero en las compras y recibir los fondos de las ventas y rendimientos.",
+        "Para transferir los valores a otros bancos."
+    ],
+    "respuestaCorrecta": "Para aportar el dinero en las compras y recibir los fondos de las ventas y rendimientos."
+    },
+    {
+    "id": 61,
+    "pregunta": "¿Cuál es el cuaderno bancario que utilizan las empresas para gestionar el pago de nóminas a sus empleados a través de transferencias de tipo nómina?",
+    "opciones": [
+        "Cuaderno 19.",
+        "Cuaderno 91.",
+        "Cuaderno 34.",
+        "Cuaderno 43."
+    ],
+    "respuestaCorrecta": "Cuaderno 34."
+    },
+    {
+    "id": 62,
+    "pregunta": "¿Qué caracteriza a las transferencias inmediatas?",
+    "opciones": [
+        "Se liquidan en 2-5 días hábiles.",
+        "Se procesan en tiempo real, en horario 24x7x365.",
+        "Solo pueden realizarse entre cuentas del mismo banco.",
+        "No se pueden utilizar para pagos urgentes."
+    ],
+    "respuestaCorrecta": "Se procesan en tiempo real, en horario 24x7x365."
+    },
+    {
+    "id": 63,
+    "pregunta": "¿Dónde pueden encontrarse los TPV virtuales?",
+    "opciones": [
+        "En supermercados.",
+        "En cajeros automáticos.",
+        "En comercios online.",
+        "No existe esta tipología de TPV."
+    ],
+    "respuestaCorrecta": "En comercios online."
+    },
+    {
+    "id": 64,
+    "pregunta": "¿Qué comprende la intermediación en mercados de productos aseguradores?",
+    "opciones": [
+        "La gestión de préstamos hipotecarios, entre otros.",
+        "La compraventa de divisas extranjeras, entre otros.",
+        "La comercialización de planes de pensiones, entre otros.",
+        "La compraventa de valores mobiliarios, entre otros."
+    ],
+    "respuestaCorrecta": "La comercialización de planes de pensiones, entre otros."
+    },
+    {
+    "id": 65,
+    "pregunta": "¿Qué tipo de entidades ofrecen el servicio de recaudación por cuenta de entes públicos?",
+    "opciones": [
+        "Entidades financieras colaboradoras autorizadas.",
+        "Empresas de gestión de deuda que operan mediante una cuenta abierta en su entidad financiera.",
+        "Empresas privadas de recaudación que operan mediante una cuenta abierta en su entidad financiera.",
+        "Notarías y registros públicos que operan mediante una cuenta abierta en su entidad financiera."
+    ],
+    "respuestaCorrecta": "Entidades financieras colaboradoras autorizadas."
+    },
+    {
+    "id": 66,
+    "pregunta": "Si en un cheque la cantidad escrita en cifras y la escrita en letras no coinciden, ¿qué ocurre?",
+    "opciones": [
+        "El cheque queda anulado automáticamente.",
+        "Se toma como válida la cantidad escrita en cifras.",
+        "Se devuelve el cheque al librador para corregirlo.",
+        "Prevalece la cantidad escrita en letras."
+    ],
+    "respuestaCorrecta": "Prevalece la cantidad escrita en letras."
+    },
+    {
+    "id": 67,
+    "pregunta": "Si una empresa desea sustituir la tradicional cesta de Navidad por una tarjeta regalo para sus empleados, ¿qué tipo de tarjeta sería la más adecuada?",
+    "opciones": [
+        "Tarjeta de crédito.",
+        "Tarjeta de débito.",
+        "Tarjeta prepago.",
+        "Tarjeta revolving."
+    ],
+    "respuestaCorrecta": "Tarjeta prepago."
+    },
+    {
+    "id": 68,
+    "pregunta": "¿Qué sistema se utiliza para transferencias internacionales fuera del ámbito SEPA?",
+    "opciones": [
+        "SNCE",
+        "TARGET2",
+        "SWIFT",
+        "SEPA"
+    ],
+    "respuestaCorrecta": "SWIFT"
+    },
+    {
+    "id": 69,
+    "pregunta": "¿Dentro de las funcionalidades de los servicios bancarios, en qué consiste una OTP y para qué se utiliza?",
+    "opciones": [
+        "En una clave numérica o alfanumérica que se utiliza una sola vez para confirmar operaciones bancarias.",
+        "En una Orden de Traspaso de Posiciones que el cliente puede realizar entre sus distintas cuentas dentro de la app de su banco.",
+        "En un código que identifica al cliente en el terminal financiero y permite al empleado cumplir con la LOPD.",
+        "En un número que identifica a la entidad bancaria ante el Banco de España."
+    ],
+    "respuestaCorrecta": "En una clave numérica o alfanumérica que se utiliza una sola vez para confirmar operaciones bancarias."
+    },
+    {
+    "id": 70,
+    "pregunta": "¿Qué implica que un cheque esté cruzado?",
+    "opciones": [
+        "Que solo puede cobrarse en una entidad bancaria.",
+        "Que puede cobrarse en efectivo en cualquier oficina de cualquier entidad.",
+        "Que solo puede ser nominativo.",
+        "Que está anulado, es decir que el cheque no tiene validez legal."
+    ],
+    "respuestaCorrecta": "Que solo puede cobrarse en una entidad bancaria."
+    },
+    {
+    "id": 71,
+    "pregunta": "¿Cuál de los siguientes pagos puede gestionarse mediante el servicio de recaudación por cuenta de entes públicos?",
+    "opciones": [
+        "Compra de valores bursátiles.",
+        "Pago de una multa de tráfico.",
+        "Pago de tasas universitarias a una entidad o universidad privada.",
+        "Abono de los intereses de un préstamo hipotecario."
+    ],
+    "respuestaCorrecta": "Pago de una multa de tráfico."
+    },
+    {
+    "id": 72,
+    "pregunta": "¿Cuál es la diferencia entre un traspaso y una transferencia interna dentro de la misma entidad?",
+    "opciones": [
+        "En el traspaso el beneficiario y ordenante coinciden, mientras que en la transferencia interna el beneficiario y ordenante distintos.",
+        "La operativa de traspaso es solo para empresas, mientras que la transferencia interna es tanto para empresa como para particulares.",
+        "Un traspaso puede conllevar una comisión o no, dado que depende de las condiciones formalizadas, mientras que la transferencia interna siempre va sin comisión.",
+        "En el traspaso los fondos se envían entre diferentes entidades financieras, mientras que la transferencia interna solo puede hacerse dentro de la misma entidad."
+    ],
+    "respuestaCorrecta": "En el traspaso el beneficiario y ordenante coinciden, mientras que en la transferencia interna el beneficiario y ordenante distintos."
+    },
+    {
+    "id": 73,
+    "pregunta": "¿Qué coste implica para la empresa disponer de un TPV?",
+    "opciones": [
+        "Ninguno, puesto que las entidades financieras asumen todos los costes del TPV como parte de su estrategia de presencia comercial.",
+        "Solo implica un coste de instalación, dado que tras amortizar el gasto del servicio técnico, el banco empieza a generar ingresos derivados de las operaciones procesadas.",
+        "Comisiones por su uso o una cuota fija mensual.",
+        "Una tasa única que se paga únicamente el primer año."
+    ],
+    "respuestaCorrecta": "Comisiones por su uso o una cuota fija mensual."
+    },
+    {
+    "id": 74,
+    "pregunta": "La principal diferencia entre pagaré y letra de cambio es que:",
+    "opciones": [
+        "El pagaré lo emite quien debe pagar y la letra quien debe cobrar.",
+        "El pagaré lo firma quien debe cobrar y la letra lo firma quien debe pagar.",
+        "El pagaré puede ser endosado y en cambio en la letra no existe dicha posibilidad.",
+        "La letra tiene fecha de vencimiento y el pagaré no."
+    ],
+    "respuestaCorrecta": "El pagaré lo emite quien debe pagar y la letra quien debe cobrar."
+    },
+    {
+    "id": 75,
+    "pregunta": "¿Qué tipología de transferencia utilizaría si quiero dejar la orden de que todos los meses el mismo día se realice una transferencia del mismo importe a la misma cuenta de destino para pagar el alquiler de mi casa?",
+    "opciones": [
+        "Transferencia ordinaria.",
+        "Transferencia inmediata.",
+        "Transferencia TARGET2.",
+        "Transferencia periódica."
+    ],
+    "respuestaCorrecta": "Transferencia periódica."
+    },
+    {
+    "id": 76,
+    "pregunta": "Además de un servicio, ¿Qué tipo de producto bancario puede considerarse una tarjeta de crédito?",
+    "opciones": [
+        "Pasivo.",
+        "Activo.",
+        "Renta variable.",
+        "Desintermediación."
+    ],
+    "respuestaCorrecta": "Activo."
+    },
+    {
+    "id": 77,
+    "pregunta": "¿Cuál es la finalidad de los cuadernos bancarios?",
+    "opciones": [
+        "Registrar manualmente las operaciones realizadas por el empleado de caja de una oficina bancaria con el fin de puntear al final del día y contrastar saldos.",
+        "Permir al departamento administrativo de la empresa registrar todas las operaciones internas de tesorería y generar automáticamente estados financieros completos que sirvan de base para la conciliación bancaria.",
+        "Normalizar el formato de los ficheros electrónicos de información bancaria.",
+        "Facilitar la devolución de efectos impagados a partir de los datos registrados en los libros contables."
+    ],
+    "respuestaCorrecta": "Normalizar el formato de los ficheros electrónicos de información bancaria."
+    },
+    {
+    "id": 78,
+    "pregunta": "¿Qué ocurre si un pagaré contiene la cláusula \"no a la orden\"?",
+    "opciones": [
+        "Puede transmitirse mediante endoso.",
+        "Solo podrá pagarse a la persona a favor de quien se emitió.",
+        "No puede cobrarse en una entidad bancaria.",
+        "Se convierte automáticamente en cheque al portador."
+    ],
+    "respuestaCorrecta": "Solo podrá pagarse a la persona a favor de quien se emitió."
+    },
+    {
+    "id": 79,
+    "pregunta": "¿Cuál de los siguientes tipos de interés ofrece una visión más completa del coste real de un producto financiero o de la rentabilidad efectiva de una inversión?",
+    "opciones": [
+        "TIR",
+        "TIE",
+        "TAE",
+        "TIN"
+    ],
+    "respuestaCorrecta": "TAE"
+    },
+    {
+    "id": 80,
+    "pregunta": "Un capital de 1.000€ se invierte a un tipo de interés efectivo anual del 6%. ¿Cuánto tiempo debe mantenerse invertido para convertirse exactamente en 1.123,06€?",
+    "opciones": [
+        "1 año.",
+        "2 años.",
+        "3 años.",
+        "4 años."
+    ],
+    "respuestaCorrecta": "2 años."
     }
 ]

@@ -1758,5 +1758,445 @@
         "Obligatorio."
         ],
         "respuestaCorrecta": "Accidental."
+    },
+    {
+    "id": 161,
+    "pregunta": "El Consorcio se financia mediante:",
+    "opciones": [
+        "Impuestos generales.",
+        "Donaciones privadas.",
+        "Recargos en las primas.",
+        "Presupuestos Generales del Estado."
+    ],
+    "respuestaCorrecta": "Recargos en las primas."
+    },
+    {
+    "id": 162,
+    "pregunta": "¿Cuál es el principal objetivo de los seguros?",
+    "opciones": [
+        "Proteger frente a riesgos y aliviar las consecuencias económicas de contingencias.",
+        "Eliminar todos los riesgos de la vida humana, asegurando que nunca existan peligros ni situaciones inesperadas.",
+        "Garantizar la no ocurrencia de contingencias.",
+        "Aumentar el patrimonio de las personas o empresas que contratan un seguro."
+    ],
+    "respuestaCorrecta": "Proteger frente a riesgos y aliviar las consecuencias económicas de contingencias."
+    },
+    {
+    "id": 163,
+    "pregunta": "En una póliza de seguro de automóvil, la responsabilidad civil voluntaria:",
+    "opciones": [
+        "Amplía la cobertura de RC obligatoria frente a terceros.",
+        "Sustituye a la obligatoria por ley.",
+        "Elimina riesgos.",
+        "Es ilegal."
+    ],
+    "respuestaCorrecta": "Amplía la cobertura de RC obligatoria frente a terceros."
+    },
+    {
+    "id": 164,
+    "pregunta": "Los seguros patrimoniales se diferencian de los personales porque:",
+    "opciones": [
+        "Buscan cubrir los riesgos que pueden provocar pérdidas económicas o daños en el patrimonio.",
+        "Son obligatorios para todos los ciudadanos que poseen un patrimonio, los seguros personales en cambio no.",
+        "Cubren exclusivamente riesgos sobre personas (vida, salud o accidentes).",
+        "Solo afectan a la capacidad de solvencia del asegurado."
+    ],
+    "respuestaCorrecta": "Buscan cubrir los riesgos que pueden provocar pérdidas económicas o daños en el patrimonio."
+    },
+    {
+    "id": 165,
+    "pregunta": "Indica cuál de las siguientes definiciones es incorrecta:",
+    "opciones": [
+        "Definimos siniestro como el hecho que ocurre cuando el riesgo sobre el objeto asegurado se materializa, lo que obliga al asegurador a cubrir los daños siempre que estén incluidos en la póliza.",
+        "La indemnización o prestación es el importe monetario que la compañía aseguradora paga a la persona beneficiaria del seguro en el caso de materializarse alguno de los riesgos asegurados o siniestro.",
+        "El riesgo es el suceso futuro e incierto que no depende exclusivamente de la voluntad de las partes tomadora, asegurada o beneficiaria, y cuya materialización da origen a la obligación de la empresa de seguros.",
+        "La prima es el precio que paga la aseguradora al asegurado tras tener lugar el siniestro, como contraprestación por la cobertura de los riesgos contemplados en la póliza, siempre que se cumplan las condiciones legales y los términos establecidos en el contrato."
+    ],
+    "respuestaCorrecta": "La prima es el precio que paga la aseguradora al asegurado tras tener lugar el siniestro, como contraprestación por la cobertura de los riesgos contemplados en la póliza, siempre que se cumplan las condiciones legales y los términos establecidos en el contrato."
+    },
+    {
+    "id": 166,
+    "pregunta": "Indica cuál de las siguientes afirmaciones es correcta en relación a la cobertura de daños en el seguro de robo:",
+    "opciones": [
+        "Cubre los daños por desaparición, destrucción o deterioro de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia o fuerza sobre dichos objetos.",
+        "Cubre los daños por desaparición o destrucción de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia, pero el deterioro de los objetos en ningún caso está cubierto.",
+        "Solo cubre los daños si los objetos asegurados son recuperados tras el robo.",
+        "Cubre los daños únicamente si el robo es perpetrado sin que se medie violencia e intimidación, ni fuerza sobre objetos."
+    ],
+    "respuestaCorrecta": "Cubre los daños por desaparición, destrucción o deterioro de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia o fuerza sobre dichos objetos."
+    },
+    {
+    "id": 167,
+    "pregunta": "El seguro de defensa jurídica es un tipo de:",
+    "opciones": [
+        "Seguro ilícito.",
+        "Seguro obligatorio.",
+        "Seguro personal.",
+        "Seguro patrimonial."
+    ],
+    "respuestaCorrecta": "Seguro patrimonial."
+    },
+    {
+    "id": 168,
+    "pregunta": "La cobertura del seguro es:",
+    "opciones": [
+        "El alcance de los riesgos protegidos.",
+        "El nombre del beneficiario del seguro.",
+        "El valor del bien asegurado.",
+        "El precio del seguro."
+    ],
+    "respuestaCorrecta": "El alcance de los riesgos protegidos."
+    },
+    {
+    "id": 169,
+    "pregunta": "Señala cuál de las siguientes afirmaciones es incorrecta en relación a las funciones del Consorcio de Compensación de Seguros:",
+    "opciones": [
+        "Indemnizar a aquellas personas cubiertas por seguros privados que sufren daños personales y materiales como consecuencia de riesgos extraordinarios excluidos en los seguros privados (riadas, inundaciones, terremotos....).",
+        "Indemnizar a aquellas personas afectadas por un siniestro cuyo causante no dispone de seguro obligatorio, o bien se desconoce su identidad.",
+        "Indemnizar a los asegurados que sufren daños materiales por causas ordinarias cubiertas por seguros privados.",
+        "Interviene en situaciones en las que una aseguradora no puede pagar las indemnizaciones porque se encuentra en quiebra o liquidación, asegurando que los afectados reciban lo que les corresponde."
+    ],
+    "respuestaCorrecta": "Indemnizar a los asegurados que sufren daños materiales por causas ordinarias cubiertas por seguros privados."
+    },
+    {
+    "id": 170,
+    "pregunta": "Señala la opción falsa respecto a los componentes del contrato de seguro:",
+    "opciones": [
+        "La parte aseguradora es la entidad o compañía de seguros que asume los riesgos previstos en el contrato y se compromete a abonar la indemnización en caso de siniestro, y es quien emite y entrega la póliza de seguro.",
+        "La parte tomadora es quien pacta y suscribe el contrato de seguro con la parte aseguradora.",
+        "La parte asegurada es la persona que suscribe el contrato de seguro y paga la prima y puede coincidir con la parte beneficiaria.",
+        "La parte beneficiaria es la persona designada para percibir la prestación del seguro contratado, y puede coincidir con la parte tomadora, asegurada o ser una persona distinta."
+    ],
+    "respuestaCorrecta": "La parte asegurada es la persona que suscribe el contrato de seguro y paga la prima y puede coincidir con la parte beneficiaria."
+    },
+    {
+    "id": 171,
+    "pregunta": "Supón que aseguras tu vivienda, cuyo valor real es de 100.000 €, pero la declaras en la póliza por 150.000 €. En caso de siniestro, ¿qué efecto tiene esta valoración sobre la indemnización?",
+    "opciones": [
+        "Se cobrará una indemnización basada en los 150.000 € declarados.",
+        "Se cobrará una indemnización superior al daño realmente sufrido, consecuencia de haber pagado una prima mayor hasta que ocurre el siniestro.",
+        "Se cobrará únicamente el daño efectivamente causado, aplicando el principio de proporcionalidad.",
+        "No se cobrará ninguna indemnización, debido a la existencia de un sobreaseguro."
+    ],
+    "respuestaCorrecta": "Se cobrará únicamente el daño efectivamente causado, aplicando el principio de proporcionalidad."
+    },
+    {
+    "id": 172,
+    "pregunta": "El Consorcio de Compensación de Seguros es:",
+    "opciones": [
+        "Una entidad privada que cubre los riesgos extraordinarios que no asumen las aseguradoras privadas.",
+        "Un organismo público que garantiza la cobertura de riesgos extraordinarios que las aseguradoras privadas no asuman o que exceden su capacidad de cobertura.",
+        "Una aseguradora financiada con fondos públicos que ofrece seguros más competitivos que las compañías privadas.",
+        "Es el organismo público encargado de definir la obligatoriedad de las coberturas en las distintas modalidades de seguros."
+    ],
+    "respuestaCorrecta": "Un organismo público que garantiza la cobertura de riesgos extraordinarios que las aseguradoras privadas no asuman o que exceden su capacidad de cobertura."
+    },
+    {
+    "id": 173,
+    "pregunta": "¿Cuál de las siguientes opciones corresponde a la definición de seguro?",
+    "opciones": [
+        "Aquel contrato por el que la parte aseguradora asume cualquier tipo de riesgo sin necesidad de establecer condiciones, garantizando que la parte asegurada recibirá una indemnización por cualquier eventualidad, incluso si no está relacionada con los términos del contrato firmado previamente.",
+        "Aquel contrato por el que la parte aseguradora se obliga, mediante el cobro de una prima y para el caso de que se produzca el evento cuyo riesgo es objeto de cobertura, a indemnizar, dentro de los límites pactados, el daño producido a la parte asegurada o a satisfacer un capital, una renta u otras prestaciones convenidas.",
+        "Aquel contrato que garantiza la eliminación total y absoluta de todos los riesgos posibles que puedan afectar a la parte asegurada, asegurando que nunca sufrirá ninguna pérdida ni daño a cambio de una prima establecida al inicio del acuerdo.",
+        "Aquel contrato mediante el cual la parte aseguradora se compromete a ofrecer asesoramiento financiero y servicios relacionados, sin que exista obligación alguna de indemnizar daños o cubrir riesgos específicos vinculados a la vida o el patrimonio de la parte asegurada."
+    ],
+    "respuestaCorrecta": "Aquel contrato por el que la parte aseguradora se obliga, mediante el cobro de una prima y para el caso de que se produzca el evento cuyo riesgo es objeto de cobertura, a indemnizar, dentro de los límites pactados, el daño producido a la parte asegurada o a satisfacer un capital, una renta u otras prestaciones convenidas."
+    },
+    {
+    "id": 174,
+    "pregunta": "En el contexto de los seguros, ¿qué se entiende por interés asegurable?",
+    "opciones": [
+        "Es el beneficio económico que obtiene el asegurado al contratar un seguro.",
+        "Es el interés económico que tiene el asegurado en conservar el bien, de modo que sufriría una pérdida si éste se daña o desaparece.",
+        "Representa el valor sentimental que el asegurado siente por el bien asegurado y que motiva al mismo a la contratación de un seguro.",
+        "Se refiere al importe de la prima que se debe pagar para cubrir el riesgo."
+    ],
+    "respuestaCorrecta": "Es el interés económico que tiene el asegurado en conservar el bien, de modo que sufriría una pérdida si éste se daña o desaparece."
+    },
+    {
+    "id": 175,
+    "pregunta": "El contrato de seguro se denomina:",
+    "opciones": [
+        "Póliza.",
+        "Recibo.",
+        "Factura",
+        "Aval."
+    ],
+    "respuestaCorrecta": "Póliza."
+    },
+    {
+    "id": 176,
+    "pregunta": "Si un daño ocurre debido a la intencionalidad del asegurado frente a un riesgo, ¿qué ocurre con respecto a la cobertura?",
+    "opciones": [
+        "El seguro cubre el daño como cualquier otro siniestro, por lo que es indiferente frente al mismo.",
+        "El daño no queda cubierto, porque los seguros excluyen pérdidas provocadas intencionadamente por el asegurado.",
+        "Se paga la mitad de la indemnización, como penalización.",
+        "Las posteriores primas del seguro se aumentan, como compensación a la compañía aseguradora por asumir la culpa."
+    ],
+    "respuestaCorrecta": "El daño no queda cubierto, porque los seguros excluyen pérdidas provocadas intencionadamente por el asegurado."
+    },
+    {
+    "id": 177,
+    "pregunta": "Indica la opción correcta respecto a los seguros obligatorios:",
+    "opciones": [
+        "Son exigidos por la ley.",
+        "Son gratuitos y financiados por el Consorcio de Seguros.",
+        "Son contratados siempre por decisión voluntaria del cliente.",
+        "Son seguros que solo cubren daños propios, sin responsabilidad frente a terceros."
+    ],
+    "respuestaCorrecta": "Son exigidos por la ley."
+    },
+    {
+    "id": 178,
+    "pregunta": "Como se denomina el seguro donde la parte aseguradora se obliga, en caso de incumplimiento por la tomadora del seguro de sus obligaciones legales o contractuales a indemnizar a la parte asegurada a título de resarcimiento o penalidad los daños patrimoniales sufridos.",
+    "opciones": [
+        "Seguro de crédito.",
+        "Seguro de caución.",
+        "Seguro de lucro cesante.",
+        "Seguro de empresas."
+    ],
+    "respuestaCorrecta": "Seguro de caución."
+    },
+    {
+    "id": 179,
+    "pregunta": "Indica cuál de las siguientes afirmaciones es falsa en relación al seguro de hogar y empresa:",
+    "opciones": [
+        "Se trata de un seguro de la rama de multirriesgo, dado que la misma póliza cubre tanto riesgos personales como patrimoniales.",
+        "El continente incluye los elementos constructivos y estructurales de un edificio, vivienda o local, como las instalaciones de agua, saneamiento, electricidad y la parte estructural, entre otros aspectos.",
+        "El contenido incluye muebles, electrodomésticos, ropa, maquinaria, joyas u otros elementos que se encuentren dentro de la vivienda o local asegurado, cuyo valor influye en la prima de la póliza.",
+        "Es obligatorio contratar tanto el continente como el contenido en todas las pólizas de hogar y empresa, sin posibilidad de asegurarlos por separado."
+    ],
+    "respuestaCorrecta": "Es obligatorio contratar tanto el continente como el contenido en todas las pólizas de hogar y empresa, sin posibilidad de asegurarlos por separado."
+    },
+    {
+    "id": 180,
+    "pregunta": "Como se denomina el seguro donde la parte aseguradora se obliga a indemnizar a la asegurada las pérdidas finales que experimente como consecuencia de la insolvencia definitiva de sus deudores.",
+    "opciones": [
+        "Seguro de caución.",
+        "Seguro de empresa.",
+        "Seguro de lucro cesante.",
+        "Seguro de crédito."
+    ],
+    "respuestaCorrecta": "Seguro de crédito."
+    },
+    {
+    "id": 181,
+    "pregunta": "En caso de siniestro en el coaseguro:",
+    "opciones": [
+        "No se paga nada.",
+        "Paga el Consorcio de Seguros.",
+        "Paga la aseguradora principal.",
+        "Cada aseguradora paga su parte proporcional."
+    ],
+    "respuestaCorrecta": "Cada aseguradora paga su parte proporcional."
+    },
+    {
+    "id": 182,
+    "pregunta": "Señala la opción correcta con relación al seguro de decesos:",
+    "opciones": [
+        "El seguro de decesos cubre únicamente los gastos derivados de la incineración de la persona asegurada, dejando fuera otros servicios funerarios.",
+        "El seguro de decesos tiene como objetivo principal indemnizar a los herederos de la persona asegurada para que gestionen los gastos del funeral.",
+        "Este seguro no cubre los costes del funeral, ya que se enfoca exclusivamente de gestionar el sepelio en un momento tan delicado y difícil para los familiares de la persona fallecida.",
+        "La contratación de este seguro está limitada a personas que hayan declarado explícitamente su deseo de ser enterradas, excluyendo la casuística de incineración alguna."
+    ],
+    "respuestaCorrecta": "Este seguro no cubre los costes del funeral, ya que se enfoca exclusivamente de gestionar el sepelio en un momento tan delicado y difícil para los familiares de la persona fallecida."
+    },
+    {
+    "id": 183,
+    "pregunta": "Señala la opción correcta en relación al seguro de vida:",
+    "opciones": [
+        "El seguro de vida nunca incluye una cobertura por incapacidad, solo por fallecimiento.",
+        "En un seguro de vida, la indemnización puede ser pagada al asegurado mismo si el seguro es de vida-ahorro o a otras personas si el seguro es de vida-riesgo.",
+        "El seguro de vida-riesgo cubre únicamente el ahorro del asegurado para cuando llegue a la edad de jubilación, sin incluir la cobertura por fallecimiento.",
+        "El seguro de vida-riesgo se utiliza únicamente para cubrir los gastos del asegurado en caso de incapacidad, sin incluir el fallecimiento."
+    ],
+    "respuestaCorrecta": "En un seguro de vida, la indemnización puede ser pagada al asegurado mismo si el seguro es de vida-ahorro o a otras personas si el seguro es de vida-riesgo."
+    },
+    {
+    "id": 184,
+    "pregunta": "El copago de un seguro de salud tiene como efecto:",
+    "opciones": [
+        "Aumentar la prima.",
+        "Reducir la prima.",
+        "Aumentar las coberturas.",
+        "Evitar utilizar al máximo sus coberturas en los primeros meses y darse de baja rápidamente."
+    ],
+    "respuestaCorrecta": "Reducir la prima."
+    },
+    {
+    "id": 185,
+    "pregunta": "Indica cuál de las siguientes afirmaciones sobre los seguros de transporte es incorrecta:",
+    "opciones": [
+        "El seguro de transporte cubre los daños materiales que puedan sufrir las mercancías, el medio de transporte utilizado u otros bienes asegurados durante el traslado.",
+        "Si en un transporte multimodal no se puede determinar el momento en que ocurrió el siniestro y el transporte terrestre constituye la parte más importante, se aplicarán las normas del seguro de transporte terrestre.",
+        "En los casos donde el transporte terrestre sea accesorio de uno marítimo o aéreo, las normas del seguro terrestre se aplican a todo el transporte.",
+        "El seguro de transporte es esencial para cubrir los riesgos asociados al traslado de mercancías por carretera, barco o avión."
+    ],
+    "respuestaCorrecta": "En los casos donde el transporte terrestre sea accesorio de uno marítimo o aéreo, las normas del seguro terrestre se aplican a todo el transporte."
+    },
+    {
+    "id": 186,
+    "pregunta": "Un seguro colectivo es contratado por:",
+    "opciones": [
+        "Empresas o asociaciones para varias personas.",
+        "Una sola persona.",
+        "El Estado.",
+        "Varias aseguradoras para compartir riesgo."
+    ],
+    "respuestaCorrecta": "Empresas o asociaciones para varias personas."
+    },
+    {
+    "id": 187,
+    "pregunta": "Indica cuál de las siguientes afirmaciones sobre los seguros de vehículos es incorrecta:",
+    "opciones": [
+        "El seguro obligatorio de vehículos solo cubre la responsabilidad civil de la persona propietaria o conductora por los daños causados a terceros debido a la circulación.",
+        "Un seguro a todo riesgo incluye la reparación de todos los daños del coche asegurado, con la posibilidad de contratarlo con franquicia o sin franquicia, dependiendo de lo pactado en el contrato.",
+        "Los seguros multirriesgo para vehículos pueden incluir coberturas adicionales como daños al propio automóvil, responsabilidad civil voluntaria y seguro de vida y accidente para la persona conductora.",
+        "La franquicia de un seguro es la cantidad de dinero que la aseguradora asume automáticamente en caso de siniestro, sin que el asegurado deba aportar ninguna cantidad."
+    ],
+    "respuestaCorrecta": "La franquicia de un seguro es la cantidad de dinero que la aseguradora asume automáticamente en caso de siniestro, sin que el asegurado deba aportar ninguna cantidad."
+    },
+    {
+    "id": 188,
+    "pregunta": "Cuando el capital asegurado es igual al interés asegurable:",
+    "opciones": [
+        "Es un seguro óptimo.",
+        "Hay sobreseguro.",
+        "Hay infraseguro.",
+        "Esta situación nunca se podrá dar."
+    ],
+    "respuestaCorrecta": "Es un seguro óptimo."
+    },
+    {
+    "id": 189,
+    "pregunta": "¿Cómo se denomina el tipo de seguro en el que el asegurador compensa económicamente el daño realmente sufrido?",
+    "opciones": [
+        "Seguro de suma.",
+        "Seguro de indemnización.",
+        "Seguro patrimonial.",
+        "Todas las tipologías de seguros compensan económicamente únicamente el daño real sufrido."
+    ],
+    "respuestaCorrecta": "Seguro de indemnización."
+    },
+    {
+    "id": 190,
+    "pregunta": "En los seguros de suma:",
+    "opciones": [
+        "Se paga según el daño real.",
+        "Se paga una cantidad previamente pactada.",
+        "Se paga menos de lo contratado.",
+        "Se paga la suma total del riesgo asumido."
+    ],
+    "respuestaCorrecta": "Se paga una cantidad previamente pactada."
+    },
+    {
+    "id": 191,
+    "pregunta": "El seguro de incendio suele incluirse en:",
+    "opciones": [
+        "Seguros personales.",
+        "Seguros multirriesgo.",
+        "Seguros de responsabilidad civil.",
+        "Seguros obligatorios."
+    ],
+    "respuestaCorrecta": "Seguros multirriesgo."
+    },
+    {
+    "id": 192,
+    "pregunta": "¿Cuál de las siguientes situaciones impediría la existencia válida de un contrato de seguro por falta de un requisito esencial?",
+    "opciones": [
+        "Asegurar una vivienda por un valor inferior a su valor de mercado.",
+        "Asegurar un vehículo cuyo valor pueda estimarse económicamente.",
+        "Asegurar un bien sobre el que el tomador no tiene ningún interés en conservar.",
+        "Asegurar un bien con una cobertura limitada en la póliza."
+    ],
+    "respuestaCorrecta": "Asegurar un bien sobre el que el tomador no tiene ningún interés en conservar."
+    },
+    {
+    "id": 193,
+    "pregunta": "Una persona tiene un seguro a todo riesgo con franquicia. Se produce un accidente en el que se dañan su coche y el de un tercero. ¿Qué opción describe correctamente la cobertura?",
+    "opciones": [
+        "La aseguradora cubre todos los daños del coche del asegurado en su totalidad.",
+        "El asegurado paga la franquicia por los daños de su coche y la aseguradora cubre el resto.",
+        "La franquicia se aplica a los daños del tercero pero no a los del coche propio.",
+        "La franquicia solo se aplica si el accidente no tiene culpable identificado."
+    ],
+    "respuestaCorrecta": "El asegurado paga la franquicia por los daños de su coche y la aseguradora cubre el resto."
+    },
+    {
+    "id": 194,
+    "pregunta": "Se produce sobreseguro cuando:",
+    "opciones": [
+        "La prima pagada es superior al riesgo asumido.",
+        "La prima pagada es inferior al valor del interés asegurable.",
+        "El capital asegurado es inferior al valor real del interés asegurable.",
+        "El capital asegurado es superior al valor real del interés asegurable."
+    ],
+    "respuestaCorrecta": "El capital asegurado es superior al valor real del interés asegurable."
+    },
+    {
+    "id": 195,
+    "pregunta": "¿Cuál de las siguientes situaciones no se considera una característica del seguro de decesos?",
+    "opciones": [
+        "Reduce el impacto económico que supone un sepelio.",
+        "Facilita la realización de gestiones que podrían resultar complejas para los familiares.",
+        "Incluye la organización completa del funeral como posible prestación.",
+        "Cubre los daños causados a terceros durante el acto del enterramiento."
+    ],
+    "respuestaCorrecta": "Cubre los daños causados a terceros durante el acto del enterramiento."
+    },
+    {
+    "id": 196,
+    "pregunta": "¿Por qué es recomendable elaborar un listado detallado de objetos relevantes al asegurar el contenido?",
+    "opciones": [
+        "Para evitar que el contenido quede cubierto también como continente y se dupliquen coberturas.",
+        "Para que la aseguradora pueda aplicar una prima más baja sin incrementar riesgos.",
+        "Para permitir a la aseguradora asegurarlo correctamente y evitar infraseguro o sobreseguro.",
+        "Para que los bienes pasen automáticamente a considerarse parte estructural de la propiedad."
+    ],
+    "respuestaCorrecta": "Para permitir a la aseguradora asegurarlo correctamente y evitar infraseguro o sobreseguro."
+    },
+    {
+    "id": 197,
+    "pregunta": "¿Cuál de las siguientes situaciones no sería cubierta normalmente por un seguro de robo?",
+    "opciones": [
+        "Sustracción mediante intimidación sobre la persona.",
+        "Sustracción mediante rotura de una puerta.",
+        "Sustracción sin fuerza ni violencia.",
+        "Robo con fuerza en una ventana."
+    ],
+    "respuestaCorrecta": "Sustracción sin fuerza ni violencia."
+    },
+    {
+    "id": 198,
+    "pregunta": "En un seguro de salud, el plazo de carencia tiene como finalidad principal:",
+    "opciones": [
+        "Permitir que la aseguradora evalúe los riesgos del asegurado durante ese periodo.",
+        "Evitar que el asegurado utilice inmediatamente determinadas coberturas tras contratar el seguro.",
+        "Reducir el precio de la prima del seguro.",
+        "Garantizar la cobertura de enfermedades preexistentes."
+    ],
+    "respuestaCorrecta": "Evitar que el asegurado utilice inmediatamente determinadas coberturas tras contratar el seguro."
+    },
+    {
+    "id": 199,
+    "pregunta": "¿Cuál de las siguientes coberturas es característica de un seguro de accidentes?",
+    "opciones": [
+        "Indemnización diaria por incapacidad temporal.",
+        "Capital garantizado por jubilación.",
+        "Pago de una renta vitalicia al asegurado.",
+        "Compensación por enfermedades comunes."
+    ],
+    "respuestaCorrecta": "Indemnización diaria por incapacidad temporal."
+    },
+    {
+    "id": 200,
+    "pregunta": "¿Cuál es la limitación principal del seguro obligatorio de vehículos?",
+    "opciones": [
+        "Solo cubre daños materiales producidos por el vehículo asegurado.",
+        "Solo cubre los daños sufridos en el vehículo asegurado.",
+        "Solo cubre la responsabilidad civil frente a terceros derivada de la circulación.",
+        "Solo cubre los daños causados por el propietario del vehículo."
+    ],
+    "respuestaCorrecta": "Solo cubre la responsabilidad civil frente a terceros derivada de la circulación."
     }
 ]

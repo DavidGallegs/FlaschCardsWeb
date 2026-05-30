@@ -878,5 +878,445 @@
         "4 años."
     ],
     "respuestaCorrecta": "2 años."
+    },
+    {
+    "id": 81,
+    "pregunta": "¿Cuál es el TIE anual equivalente a un TIN del 12% capitalizable trimestralmente?",
+    "opciones": [
+        "3%",
+        "24%",
+        "12,55%",
+        "5,73%"
+    ],
+    "respuestaCorrecta": "12,55%"
+    },
+    {
+    "id": 82,
+    "pregunta": "Si adquirimos un préstamo a un tipo de interés variable con revisión anual, cuyo índice de referencia es el Euribor y tiene un diferencial del 3%, ¿qué tipo de interés se aplicará al préstamo, a partir de una revisión, si el Euribor se encuentra al 0% debido a las condiciones del mercado?",
+    "opciones": [
+        "El tipo de interés aplicado para ese periodo será del 0%.",
+        "Solo se aplicará el diferencial del 3% durante ese período.",
+        "Durante ese periodo, el tipo de interés se corresponde a la media de ambas variables, es decir, el 1,5%.",
+        "Ninguna de las anteriores es correcta."
+    ],
+    "respuestaCorrecta": "Solo se aplicará el diferencial del 3% durante ese período."
+    },
+    {
+    "id": 83,
+    "pregunta": "¿Cuál de las siguientes comisiones se aplica en una operación de préstamo cuando el prestatario decide amortizar parte del capital pendiente antes de la fecha de vencimiento acordada?",
+    "opciones": [
+        "Comisión de estudio.",
+        "Comisión de liquidación por previo vencimiento.",
+        "Comisión por amortización anticipada.",
+        "Comisión por cancelación anticipada."
+    ],
+    "respuestaCorrecta": "Comisión por amortización anticipada."
+    },
+    {
+    "id": 84,
+    "pregunta": "¿Qué implica una operación de descuento comercial de efectos?",
+    "opciones": [
+        "Se trata de una operación de pasivo con la que la empresa podrá obtener financiación.",
+        "Presentar títulos cambiarios en el banco para recibir su importe antes de su fecha de vencimiento.",
+        "Invertir dinero a largo plazo para obtener rendimiento en forma de descuentos en facturas pagadas con pagarés o letras de cambio.",
+        "Obtener un beneficio económico en las facturas otorgado por la relación continuada con el cliente."
+    ],
+    "respuestaCorrecta": "Invertir dinero a largo plazo para obtener rendimiento en forma de descuentos en facturas pagadas con pagarés o letras de cambio."
+    },
+    {
+    "id": 85,
+    "pregunta": "¿Cuál es la principal característica que distingue operativamente un préstamo de una cuenta de crédito?",
+    "opciones": [
+        "En la cuenta de crédito no se pagan intereses, solo comisiones.",
+        "En la cuenta de crédito se entrega todo el dinero al inicio.",
+        "En la cuenta de crédito el cliente dispone del dinero según lo necesita.",
+        "La diferencia tiene origen en el diseño del propio producto dentro de la estrategia comercial del banco."
+    ],
+    "respuestaCorrecta": "En la cuenta de crédito el cliente dispone del dinero según lo necesita."
+    },
+    {
+    "id": 86,
+    "pregunta": "¿Qué tipo de registro utilizan las entidades financieras para obtener información sobre los riesgos de sus clientes relacionados con las operaciones de activo que tienen en otras entidades?",
+    "opciones": [
+        "Registro de la Propiedad Inmobiliaria.",
+        "CIRBE.",
+        "Registro Mercantil.",
+        "Registros de morosos."
+    ],
+    "respuestaCorrecta": "CIRBE."
+    },
+    {
+    "id": 87,
+    "pregunta": "Una empresa tiene varias facturas pendientes de cobro de sus clientes. Para obtener liquidez antes de su vencimiento, las cede a una entidad financiera, que le adelanta su importe y se encarga posteriormente de gestionar el cobro a dichos clientes en la fecha de vencimiento. ¿Cómo se denomina el producto financiero de activo que está utilizando la empresa?",
+    "opciones": [
+        "Renting.",
+        "Leasing.",
+        "Factoring.",
+        "Confirming."
+    ],
+    "respuestaCorrecta": "Factoring."
+    },
+    {
+    "id": 88,
+    "pregunta": "Una empresa desea gestionar el pago de las facturas de sus proveedores a través de una entidad financiera. Mediante este sistema, los proveedores pueden elegir entre cobrar en la fecha de vencimiento o anticipar el cobro antes de dicha fecha. ¿Qué producto financiero de activo bancario está utilizando la empresa?",
+    "opciones": [
+        "Renting.",
+        "Leasing.",
+        "Factoring.",
+        "Confirming."
+    ],
+    "respuestaCorrecta": "Confirming."
+    },
+    {
+    "id": 89,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la figura del avalista en una operación de activo es correcta?",
+    "opciones": [
+        "Es la figura de propia entidad bancaria en una operación de activo, pues es esta figura la que asume el riesgo.",
+        "Es obligatorio en todas las operaciones de activo.",
+        "Recibe la financiación para invertirla.",
+        "Responde con su patrimonio personal en caso de impago del prestatario."
+    ],
+    "respuestaCorrecta": "Responde con su patrimonio personal en caso de impago del prestatario."
+    },
+    {
+    "id": 90,
+    "pregunta": "Indica cuál de los siguientes es un registro de morosos que contiene información sobre personas o empresas con deudas ciertas, vencidas y exigibles que no han sido pagadas.",
+    "opciones": [
+        "CIRBE.",
+        "FGD.",
+        "FOGASA.",
+        "ASNEF."
+    ],
+    "respuestaCorrecta": "ASNEF."
+    },
+    {
+    "id": 91,
+    "pregunta": "¿Cómo se denomina el instrumento financiero de activo bancario que se utiliza en operaciones de comercio internacional para garantizar el pago entre comprador y vendedor?",
+    "opciones": [
+        "Préstamo multibancario.",
+        "Aval bancario.",
+        "Línea de crédito.",
+        "Crédito documentario."
+    ],
+    "respuestaCorrecta": "Crédito documentario."
+    },
+    {
+    "id": 92,
+    "pregunta": "¿Qué representa el activo bancario para un banco?",
+    "opciones": [
+        "Las obligaciones de pago que tiene el banco con sus clientes.",
+        "Los derechos de crédito que tiene el banco sobre su clientela.",
+        "La suma de todos los depósitos de los clientes.",
+        "Los bienes inmuebles del banco."
+    ],
+    "respuestaCorrecta": "Los derechos de crédito que tiene el banco sobre su clientela."
+    },
+    {
+    "id": 93,
+    "pregunta": "¿Qué tipo de garantía corresponde a la obligación prendataria?",
+    "opciones": [
+        "Responder con patrimonio del avalista.",
+        "Garantizar con bienes inmuebles.",
+        "Garantizar con bienes muebles.",
+        "Garantizar con nóminas y declaraciones de IRPF."
+    ],
+    "respuestaCorrecta": "Garantizar con bienes muebles."
+    },
+    {
+    "id": 94,
+    "pregunta": "¿Cómo se denomina el producto de activo bancario mediante el cual una entidad financiera se compromete a responder de las obligaciones económicas contraídas por su cliente frente a un tercero, en caso de que dicho cliente no las cumpla?",
+    "opciones": [
+        "Copago.",
+        "Aval bancario.",
+        "Préstamo cedido.",
+        "Préstamo a terceros."
+    ],
+    "respuestaCorrecta": "Aval bancario."
+    },
+    {
+    "id": 95,
+    "pregunta": "En la garantía personal de terceros de una operación de activo bancario, ¿quién responde frente al banco?",
+    "opciones": [
+        "El titular o titulares.",
+        "El Avalista o fiador.",
+        "La entidad bancaria.",
+        "La administración pública."
+    ],
+    "respuestaCorrecta": "El Avalista o fiador."
+    },
+    {
+    "id": 96,
+    "pregunta": "¿Qué se entiende por un crédito al consumo?",
+    "opciones": [
+        "Un préstamo concedido a empresas para financiar su actividad.",
+        "Un préstamo concedido a particulares para la adquisición de bienes o servicios de uso personal o familiar.",
+        "Un préstamo concedido a autónomos para el desarrollo de su actividad profesional.",
+        "Un préstamo destinado indistintamente a empresas, autónomos y particulares."
+    ],
+    "respuestaCorrecta": "Un préstamo concedido a particulares para la adquisición de bienes o servicios de uso personal o familiar."
+    },
+    {
+    "id": 97,
+    "pregunta": "¿Por qué las entidades financieras realizan un estudio previo antes de conceder un crédito?",
+    "opciones": [
+        "Para cumplir con la normativa bancaria vigente.",
+        "Para analizar la solvencia del cliente y reducir el riesgo de impago.",
+        "Para calcular las comisiones aplicables y maximizar la rentabilidad de la operación.",
+        "Para analizar los hábitos de consumo del cliente y determinar la parte de su presupuesto que no destina al ahorro."
+    ],
+    "respuestaCorrecta": "Para analizar la solvencia del cliente y reducir el riesgo de impago."
+    },
+    {
+    "id": 98,
+    "pregunta": "¿Qué se entiende por un contrato de leasing o arrendamiento financiero?",
+    "opciones": [
+        "Un contrato o póliza de préstamo concedido a tipo de interés fijo.",
+        "Un contrato mediante el cual la entidad financiera vende un bien al contado al cliente y obtiene como beneficio el cobro de intereses por la operación.",
+        "Un contrato que permite el uso de un bien a cambio del pago de cuotas periódicas, con posibilidad de adquirirlo al finalizar el contrato.",
+        "Un contrato de seguro sobre bienes muebles o inmuebles cuya vigencia se mantiene hasta la adquisición de la propiedad del bien."
+    ],
+    "respuestaCorrecta": "Un contrato que permite el uso de un bien a cambio del pago de cuotas periódicas, con posibilidad de adquirirlo al finalizar el contrato."
+    },
+    {
+    "id": 99,
+    "pregunta": "¿Quién asume los gastos de mantenimiento, reparaciones y seguro del bien mueble objeto de un contrato de renting?",
+    "opciones": [
+        "El banco donde se carga la cuota de renting.",
+        "El proveedor del bien.",
+        "El arrendador.",
+        "El arrendatario."
+    ],
+    "respuestaCorrecta": "El arrendador."
+    },
+    {
+    "id": 100,
+    "pregunta": "¿Qué finalidad tiene una operación de activo bancario cuyo objetivo es financiar la compra de una lavadora?",
+    "opciones": [
+        "De inversión empresarial.",
+        "De producción.",
+        "De consumo.",
+        "Hipotecario."
+    ],
+    "respuestaCorrecta": "De consumo."
+    },
+    {
+    "id": 101,
+    "pregunta": "¿Cómo se denomina la comisión asociada a un préstamo que se cobra al titular cuando la operación se traslada de una entidad financiera a otra?",
+    "opciones": [
+        "Comisión de traspaso.",
+        "Comisión de cancelación anticipada.",
+        "Comisión de subrogación.",
+        "Comisión de novación."
+    ],
+    "respuestaCorrecta": "Comisión de subrogación."
+    },
+    {
+    "id": 102,
+    "pregunta": "¿Qué diferencia principal hay entre bonos y obligaciones del Estado respecto a las letras del Tesoro?",
+    "opciones": [
+        "Los bonos y obligaciones pagan intereses periódicos explícitos mediante cupones, mientras que las letras tienen intereses implícitos.",
+        "Los bonos y obligaciones no tienen vencimiento, mientras que las letras sí.",
+        "Las letras se emiten solo por bancos privados, mientras que los bonos y obligaciones son emitidos por el Estado.",
+        "Los bonos y obligaciones se emiten a corto plazo, mientras que las letras del tesoro a largo plazo."
+    ],
+    "respuestaCorrecta": "Los bonos y obligaciones pagan intereses periódicos explícitos mediante cupones, mientras que las letras tienen intereses implícitos."
+    },
+    {
+    "id": 103,
+    "pregunta": "Señala la afirmación incorrecta respecto a la normativa MiFID:",
+    "opciones": [
+        "Surge como necesidad de regular la desaparición de los mercados tradicionales en el sector financiero.",
+        "Surge debido a la creciente complejidad de los mercados financieros.",
+        "Nace con el objetivo de proteger a los inversores minoristas.",
+        "Obliga a las entidades de inversión a conocer a sus clientes evaluándolos a través de diferentes test."
+    ],
+    "respuestaCorrecta": "Surge como necesidad de regular la desaparición de los mercados tradicionales en el sector financiero."
+    },
+    {
+    "id": 104,
+    "pregunta": "¿Qué es el IBEX 35?",
+    "opciones": [
+        "El índice europeo de referencia para el mercado bursátil español.",
+        "El indice oficial del mercado continuo español.",
+        "El índice que agrupa a todas las acciones españolas.",
+        "Un índice exclusivo del sector bancario."
+    ],
+    "respuestaCorrecta": "El indice oficial del mercado continuo español."
+    },
+    {
+    "id": 105,
+    "pregunta": "¿Cuáles son las bolsas de valores que existen en España?",
+    "opciones": [
+        "Madrid, Sevilla, Bilbao y Valencia.",
+        "Madrid, Barcelona, Bilbao y Valencia.",
+        "Madrid, Barcelona, Zaragoza y Valencia.",
+        "Madrid, Barcelona, Bilbao y Málaga."
+    ],
+    "respuestaCorrecta": "Madrid, Barcelona, Bilbao y Valencia."
+    },
+    {
+    "id": 106,
+    "pregunta": "¿Cuál es la función principal de BME?",
+    "opciones": [
+        "Recoger las órdenes de la compra y la venta de acciones en el mercado de valores.",
+        "Gestionar y coordinar todos los mercados financieros españoles estableciendo las normas, sistemas e infraestructuras necesarias.",
+        "Garantizar la rentabilidad de las inversiones que tienen lugar en el mercado de valores.",
+        "Garantizar la transparencia de los mercados y la correcta formación de los precios, con el fin de proteger a los inversores."
+    ],
+    "respuestaCorrecta": "Gestionar y coordinar todos los mercados financieros españoles estableciendo las normas, sistemas e infraestructuras necesarias."
+    },
+    {
+    "id": 107,
+    "pregunta": "Invertir con el objetivo de conservar el valor del dinero significa:",
+    "opciones": [
+        "Aumentar el riesgo de la inversión.",
+        "Evitar la inflación.",
+        "Gastar el dinero rápidamente.",
+        "Obtener liquidez inmediata."
+    ],
+    "respuestaCorrecta": "Evitar la inflación."
+    },
+    {
+    "id": 108,
+    "pregunta": "¿Cuál es la función principal de Iberclear?",
+    "opciones": [
+        "Asegurar el buen funcionamiento de la plataforma informática donde tiene lugar la compra y venta de acciones.",
+        "Gestionar la liquidación y compensación de las operaciones pactadas.",
+        "Actuar como garante de los derivados financieros.",
+        "Vigilar el correcto funcionamiento de los mercados de valores."
+    ],
+    "respuestaCorrecta": "Gestionar la liquidación y compensación de las operaciones pactadas."
+    },
+    {
+    "id": 109,
+    "pregunta": "¿Cuál de las siguientes entidades no es un intermediario autorizado del mercado de valores?",
+    "opciones": [
+        "Las sociedades de valores.",
+        "Las entidades financieras.",
+        "Las compañías aseguradoras.",
+        "Las sociedades gestoras de carteras."
+    ],
+    "respuestaCorrecta": "Las compañías aseguradoras."
+    },
+    {
+    "id": 110,
+    "pregunta": "Indica la opción incorrecta respecto a los productos derivados:",
+    "opciones": [
+        "Son instrumentos financieros cuyo valor depende del precio de otro activo, llamado activo subyacente.",
+        "Su finalidad es protegerse de riesgos (cobertura) o aprovechar cambios de precio para ganar dinero (especulación).",
+        "Son productos que implican siempre un alto riesgo para el vendedor y un bajo riesgo para el inversor.",
+        "Son productos derivados las opciones y los futuros."
+    ],
+    "respuestaCorrecta": "Son productos que implican siempre un alto riesgo para el vendedor y un bajo riesgo para el inversor."
+    },
+    {
+    "id": 111,
+    "pregunta": "¿Qué tipo de instrumento de deuda privada es un híbrido entre acciones y bonos?",
+    "opciones": [
+        "Obligaciones simples.",
+        "Obligaciones subordinadas.",
+        "Participaciones preferentes.",
+        "Bonos simples."
+    ],
+    "respuestaCorrecta": "Participaciones preferentes."
+    },
+    {
+    "id": 112,
+    "pregunta": "Las letras del Tesoro se caracterizan por:",
+    "opciones": [
+        "Emitirse a largo plazo con intereses periódicos explícitos.",
+        "Emitirse al descuento con intereses implícitos y vencimientos cortos.",
+        "Ser instrumentos de renta variable.",
+        "Es un instrumento financiero de deuda privada"
+    ],
+    "respuestaCorrecta": "Emitirse al descuento con intereses implícitos y vencimientos cortos."
+    },
+    {
+    "id": 113,
+    "pregunta": "Dentro del triángulo básico de la inversión, la rentabilidad se refiere a:",
+    "opciones": [
+        "El dinero que se invierte inicialmente.",
+        "La facilidad para convertir la inversión en dinero.",
+        "El beneficio que se espera obtener.",
+        "La probabilidad de perder el capital."
+    ],
+    "respuestaCorrecta": "El beneficio que se espera obtener."
+    },
+    {
+    "id": 114,
+    "pregunta": "Señala la afirmación incorrecta respecto al mercado de valores:",
+    "opciones": [
+        "Pone en contacto a los demandantes de capital y a los oferentes de recursos financieros.",
+        "Garantiza que todas las inversiones sean seguras y sin riesgo.",
+        "Contribuye al crecimiento económico y al incremento del ahorro para los inversores.",
+        "Permite que los demandantes obtengan financiación."
+    ],
+    "respuestaCorrecta": "Garantiza que todas las inversiones sean seguras y sin riesgo."
+    },
+    {
+    "id": 115,
+    "pregunta": "¿Cómo se denomina el instrumentos financiero que supone un contrato que da el derecho, pero no la obligación, de comprar o vender un activo a un precio preestablecido en el futuro?",
+    "opciones": [
+        "Obligaciones.",
+        "Futuros.",
+        "Opciones.",
+        "Ninguna de la anterior es correcta."
+    ],
+    "respuestaCorrecta": "Opciones."
+    },
+    {
+    "id": 116,
+    "pregunta": "¿Cómo se denomina el instrumento financiero que supone un contrato en el que dos partes acuerdan comprar o vender un activo a un precio fijado hoy, con entrega y pago en una fecha futura?",
+    "opciones": [
+        "Obligaciones.",
+        "Futuros.",
+        "Opciones.",
+        "Ninguna de la anterior es correcta."
+    ],
+    "respuestaCorrecta": "Futuros."
+    },
+    {
+    "id": 117,
+    "pregunta": "¿Cómo se denomina el mercado unificado en el que se negocian las principales acciones españolas?",
+    "opciones": [
+        "Mercado Primario.",
+        "Mercado Ibérico.",
+        "Mercado Interbancario.",
+        "Mercado Continuo."
+    ],
+    "respuestaCorrecta": "Mercado Continuo."
+    },
+    {
+    "id": 118,
+    "pregunta": "¿Qué son los valores mobiliarios?",
+    "opciones": [
+        "Bienes materiales propiedad de una empresa cuya adquisición supone una gran inversión financiera.",
+        "Instrumentos financieros que representan deuda o capital de una empresa.",
+        "Préstamos bancarios a corto plazo que encontramos en el mercado interbancario.",
+        "Servicios financieros que ofrecen los intermediarios que componen el mercado de valores."
+    ],
+    "respuestaCorrecta": "Instrumentos financieros que representan deuda o capital de una empresa."
+    },
+    {
+    "id": 119,
+    "pregunta": "A través de SIBE:",
+    "opciones": [
+        "Se pagan y entregan los valores negociados a los emisores y compradores de las acciones negociadas.",
+        "Se compran bonos y obligaciones por los agentes intervinientes en el mercado bursátil español.",
+        "Se determina el precio de las acciones cuando coinciden en precio y cantidad las órdenes de compra y venta.",
+        "Se otorgan dividendos y plusvalías a los accionistas del mercado español."
+    ],
+    "respuestaCorrecta": "Se determina el precio de las acciones cuando coinciden en precio y cantidad las órdenes de compra y venta."
+    },
+    {
+    "id": 120,
+    "pregunta": "¿Cuál es la función principal de la Bolsa de Valores?",
+    "opciones": [
+        "Controlar el sistema financiero español en su totalidad.",
+        "Transferir el exceso de liquidez hacia la inversión.",
+        "Fijar los tipos de interés oficiales.",
+        "Garantizar beneficios a los inversores."
+    ],
+    "respuestaCorrecta": "Transferir el exceso de liquidez hacia la inversión."
     }
 ]

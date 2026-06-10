@@ -1,0 +1,605 @@
+[
+    {
+        "id": 1,
+        "pregunta": "La diferencia básica entre coste fijo y coste variable está en que:",
+        "opciones": [
+            "Los fijos dependen del nivel de actividad y los variables no.",
+            "Los fijos no dependen del nivel de actividad y los variables sí.",
+            "Ambas son falsas."
+        ],
+        "respuestaCorrecta": "Los fijos no dependen del nivel de actividad y los variables sí."
+    },
+    {
+        "id": 2,
+        "pregunta": "Respecto a los costes fijos y variables es cierto que:",
+        "opciones": [
+            "Los costes fijos siempre son fijos y no pueden cambiar.",
+            "Los costes fijos llega un momento en que pueden variar si hay un cambio importante en la producción, por eso también se llaman semi-fijos.",
+            "Los costes fijos y variables son los mismos para todas las empresas.",
+            "Una tendencia de las empresas es a disminuir especialmente sus costes variables subcontratando con otras empresas."
+        ],
+        "respuestaCorrecta": "Los costes fijos llega un momento en que pueden variar si hay un cambio importante en la producción, por eso también se llaman semi-fijos."
+    },
+    {
+        "id": 3,
+        "pregunta": "El umbral de rentabilidad es:",
+        "opciones": [
+            "El nivel de ventas con el que se obtienen beneficios.",
+            "El nivel de ventas con el que el beneficio es cero.",
+            "El beneficio que se obtiene por vender toda la producción.",
+            "El margen que se obtiene al aplicar un porcentaje al precio técnico."
+        ],
+        "respuestaCorrecta": "El nivel de ventas con el que el beneficio es cero."
+    },
+    {
+        "id": 4,
+        "pregunta": "El umbral de rentabilidad se ve en la gráfica:",
+        "opciones": [
+            "En la recta de los costes fijos.",
+            "En la curva de los costes variables cuando se corta con los ingresos totales.",
+            "En la curva de los costes totales cuando se corta con los ingresos totales."
+        ],
+        "respuestaCorrecta": "En la curva de los costes totales cuando se corta con los ingresos totales."
+    },
+    {
+        "id": 5,
+        "pregunta": "No es cierto que:",
+        "opciones": [
+            "El umbral de rentabilidad sirva para saber cuántas unidades hay que vender para cubrir todos los gastos.",
+            "El precio técnico es el precio de venta para cubrir los costes fijos.",
+            "El precio de venta se calcula sumándole un margen al precio técnico.",
+            "En el umbral de rentabilidad no hay beneficios ni pérdidas."
+        ],
+        "respuestaCorrecta": "El precio técnico es el precio de venta para cubrir los costes fijos."
+    },
+    {
+        "id": 6,
+        "pregunta": "Para calcular los costes totales debemos:",
+        "opciones": [
+            "Sumar el precio de venta a los costes variables.",
+            "Sumar los costes fijos y los costes variables unitarios.",
+            "Sumar los costes fijos y los variables unitarios por la cantidad de producción."
+        ],
+        "respuestaCorrecta": "Sumar los costes fijos y los variables unitarios por la cantidad de producción."
+    },
+    {
+        "id": 7,
+        "pregunta": "No es un bien de inversión cuya duración sea mayor de un año:",
+        "opciones": [
+            "Las instalaciones y mejoras en el local.",
+            "El mobiliario.",
+            "El material de oficina.",
+            "Los programas informáticos."
+        ],
+        "respuestaCorrecta": "El material de oficina."
+    },
+    {
+        "id": 8,
+        "pregunta": "La diferencia entre un inversor informal (FFF) y un business angel es que:",
+        "opciones": [
+            "El inversor informal suele tener una relación familiar o de amistad y el business angel no tiene ninguna relación previa.",
+            "El inversor informal suele ser más desinteresado, y el business angel busca una rentabilidad económica dentro de unos años.",
+            "El inversor informal solo aporta dinero, mientras que el business angel aporta dinero y también sus conocimientos y experiencia.",
+            "Todas son diferencias."
+        ],
+        "respuestaCorrecta": "Todas son diferencias."
+    },
+    {
+        "id": 9,
+        "pregunta": "Una amortización es:",
+        "opciones": [
+            "La pérdida de valor de la empresa cuando tiene pérdidas y no beneficios.",
+            "La parte del beneficio que se deja en reservas en la empresa.",
+            "La pérdida de valor de un bien de inversión por su uso o porque queda obsoleto."
+        ],
+        "respuestaCorrecta": "La pérdida de valor de un bien de inversión por su uso o porque queda obsoleto."
+    },
+    {
+        "id": 10,
+        "pregunta": "Indica respecto a un préstamo qué no es cierto:",
+        "opciones": [
+            "Lo importante no es saber el tipo de interés sino el T.A.E.",
+            "En el sistema francés que utilizamos para calcular los préstamos y las cuotas, los intereses pagados son constantes a lo largo del tiempo.",
+            "Un préstamo suele llevar una comisión de apertura y estudio."
+        ],
+        "respuestaCorrecta": "En el sistema francés que utilizamos para calcular los préstamos y las cuotas, los intereses pagados son constantes a lo largo del tiempo."
+    },
+    {
+        "id": 11,
+        "pregunta": "La diferencia entre leasing y renting es:",
+        "opciones": [
+            "En uno se alquila un bien y en otro se compra directamente.",
+            "El leasing incluye mantenimiento, reparaciones y seguros, y el renting no.",
+            "El renting incluye mantenimiento, reparaciones y seguros, y el leasing no."
+        ],
+        "respuestaCorrecta": "El renting incluye mantenimiento, reparaciones y seguros, y el leasing no."
+    },
+    {
+        "id": 12,
+        "pregunta": "La diferencia entre el factoring y el confirming es:",
+        "opciones": [
+            "El factoring se aplica a los créditos comerciales de los clientes de la empresa y el confirming a los proveedores de la empresa.",
+            "El factoring no se hace cargo de los impagados y el confirming sí.",
+            "Ninguna es cierta."
+        ],
+        "respuestaCorrecta": "El factoring se aplica a los créditos comerciales de los clientes de la empresa y el confirming a los proveedores de la empresa."
+    },
+    {
+        "id": 13,
+        "pregunta": "En el crowdfunding existen los siguientes tipos:",
+        "opciones": [
+            "El de recompensa, el de donación, el de préstamo y el de intereses.",
+            "El de recompensa, el de donación, el de inversión y el de préstamo.",
+            "El de recompensa, el de donación, el de préstamo y el de financiación ajena.",
+            "El de recompensa, el de donación y el de préstamo."
+        ],
+        "respuestaCorrecta": "El de recompensa, el de donación, el de inversión y el de préstamo."
+    },
+    {
+        "id": 14,
+        "pregunta": "El pasivo hace referencia:",
+        "opciones": [
+            "A las deudas que tiene la empresa a corto y largo plazo.",
+            "A los bienes y derechos que posee la empresa.",
+            "Al capital que aportan los socios para financiar la empresa."
+        ],
+        "respuestaCorrecta": "A las deudas que tiene la empresa a corto y largo plazo."
+    },
+    {
+        "id": 15,
+        "pregunta": "El activo no corriente comprende:",
+        "opciones": [
+            "El activo corriente y el activo fijo.",
+            "El inmovilizado material e inmaterial que son bienes de inversión.",
+            "El inmovilizado material, inmaterial y financiero, además de las inversiones inmobiliarias.",
+            "Ninguna es correcta."
+        ],
+        "respuestaCorrecta": "El inmovilizado material, inmaterial y financiero, además de las inversiones inmobiliarias."
+    },
+    {
+        "id": 16,
+        "pregunta": "En el patrimonio neto es cierto que:",
+        "opciones": [
+            "Incluye todos los activos de la empresa.",
+            "Equivale al capital aportado por los socios.",
+            "Al sumarse con el activo da igual al pasivo.",
+            "Equivale a las fuentes de financiación internas de la empresa, como capital y reservas, o el resultado pendiente de repartir."
+        ],
+        "respuestaCorrecta": "Equivale a las fuentes de financiación internas de la empresa, como capital y reservas, o el resultado pendiente de repartir."
+    },
+    {
+        "id": 17,
+        "pregunta": "La cuenta de proveedores y de clientes se encuentran en:",
+        "opciones": [
+            "Ambas en el activo.",
+            "Ambas en el pasivo.",
+            "La primera en el pasivo y la segunda en el activo.",
+            "No se encuentran ni en activo ni en pasivo pues son gastos."
+        ],
+        "respuestaCorrecta": "La primera en el pasivo y la segunda en el activo."
+    },
+    {
+        "id": 18,
+        "pregunta": "Para calcular la cuenta de resultados:",
+        "opciones": [
+            "Sumaremos todos los ingresos y le restaremos todos los gastos.",
+            "Se procederá por pasos, primero el resultado de explotación, después el financiero, después antes de impuestos y por último el resultado del ejercicio.",
+            "Se procederá por pasos, primero el resultado de explotación, después el resultado antes de impuestos y por el último el resultado del ejercicio.",
+            "Ninguna es cierta."
+        ],
+        "respuestaCorrecta": "Se procederá por pasos, primero el resultado de explotación, después el financiero, después antes de impuestos y por último el resultado del ejercicio."
+    },
+    {
+        "id": 19,
+        "pregunta": "Respecto al plan de tesorería:",
+        "opciones": [
+            "Su finalidad es que la empresa no tenga problemas de liquidez y pueda hacer frente a los pagos.",
+            "Anotaremos todos los cobros y pagos incluidos los gastos de amortización.",
+            "Es recomendable elaborarla para los 3 primeros meses del negocio."
+        ],
+        "respuestaCorrecta": "Su finalidad es que la empresa no tenga problemas de liquidez y pueda hacer frente a los pagos."
+    },
+    {
+        "id": 20,
+        "pregunta": "Respecto al fondo de maniobra es falso que:",
+        "opciones": [
+            "Se utilice para saber si habrá problemas de liquidez para hacer frente a las deudas a corto plazo.",
+            "Es el activo corriente menos el pasivo corriente.",
+            "Debe complementarse con el ratio de liquidez.",
+            "Todas son ciertas."
+        ],
+        "respuestaCorrecta": "Todas son ciertas."
+    },
+    {
+        "id": 21,
+        "pregunta": "En el ratio de endeudamiento:",
+        "opciones": [
+            "Se define por la división entre el pasivo corriente y el pasivo no corriente.",
+            "Se define como el pasivo dividido por el pasivo más el patrimonio neto.",
+            "Su valor no debe superar el 0,8, pues tendría exceso de deudas."
+        ],
+        "respuestaCorrecta": "Se define como el pasivo dividido por el pasivo más el patrimonio neto."
+    },
+    {
+        "id": 22,
+        "pregunta": "En el ratio de rentabilidad financiera:",
+        "opciones": [
+            "Sabemos lo rentable que es una empresa al dividir los beneficios netos por los activos de la empresa.",
+            "Sabemos lo rentable que es una empresa al dividir los beneficios netos por los capitales propios de la empresa como capital y reservas.",
+            "Sabemos lo rentable que es una empresa al dividir los ingresos y los gastos.",
+            "Ninguna es cierta."
+        ],
+        "respuestaCorrecta": "Sabemos lo rentable que es una empresa al dividir los beneficios netos por los capitales propios de la empresa como capital y reservas."
+    },
+    {
+        "id": 23,
+        "pregunta": "Lo que caracteriza al empresario individual es:",
+        "opciones": [
+            "Que responde con su patrimonio personal de la marcha del negocio.",
+            "Que tributa por el IRPF.",
+            "Que debe darse de alta en el régimen de autónomos.",
+            "Todas son ciertas."
+        ],
+        "respuestaCorrecta": "Todas son ciertas."
+    },
+    {
+        "id": 24,
+        "pregunta": "En las participaciones de una SL:",
+        "opciones": [
+            "Los socios las pueden vender a cualquiera.",
+            "La venta entre socios es libre, así como de estos a sus familiares.",
+            "Ninguna es cierta."
+        ],
+        "respuestaCorrecta": "La venta entre socios es libre, así como de estos a sus familiares."
+    },
+    {
+        "id": 25,
+        "pregunta": "Es cierto respecto a los órganos de gobierno de la SL:",
+        "opciones": [
+            "Que siempre existirá un único administrador de la SL.",
+            "Que puede existir un Consejo de Administración con un mínimo de 2 socios.",
+            "Que puede haber varios administradores solidarios si son varios socios los que ejercen la función de administrador.",
+            "Que nunca puede contratarse a un administrador que no sea socio."
+        ],
+        "respuestaCorrecta": "Que puede haber varios administradores solidarios si son varios socios los que ejercen la función de administrador."
+    },
+    {
+        "id": 26,
+        "pregunta": "Una de las diferencias entre la SA y la SL es:",
+        "opciones": [
+            "La SL tiene un capital mínimo de 3.000€ y la SA de 66.000€.",
+            "El capital de la SL se divide en participaciones y el capital de la SA en acciones, pudiendo los socios vender estas últimas a cualquiera.",
+            "El capital de la SA no es preciso desembolsarlo de forma completa en la constitución de la sociedad, con un 50% es suficiente."
+        ],
+        "respuestaCorrecta": "El capital de la SL se divide en participaciones y el capital de la SA en acciones, pudiendo los socios vender estas últimas a cualquiera."
+    },
+    {
+        "id": 27,
+        "pregunta": "En las sociedades laborales, ya sean limitadas o anónimas, se cumple que:",
+        "opciones": [
+            "Debe haber un mínimo de 3 socios trabajadores.",
+            "Cada socio trabajador no puede tener más del 50% del capital.",
+            "Pueden existir socios no trabajadores, pero no pueden tener el 50% del capital.",
+            "Pueden contratar a trabajadores asalariados no socios, pero con el límite del 50% de las horas trabajadas por los socios.",
+            "No pueden contratarse a trabajadores temporales, solo indefinidos a tiempo completo."
+        ],
+        "respuestaCorrecta": "Pueden existir socios no trabajadores, pero no pueden tener el 50% del capital."
+    },
+    {
+        "id": 28,
+        "pregunta": "Para constituir una sociedad no es preciso:",
+        "opciones": [
+            "Dar de alta en el IAE.",
+            "Pedir una certificación negativa del nombre social.",
+            "La escritura pública del notario.",
+            "El registro mercantil de la sociedad."
+        ],
+        "respuestaCorrecta": "Dar de alta en el IAE."
+    },
+    {
+        "id": 29,
+        "pregunta": "El IAE:",
+        "opciones": [
+            "Es un impuesto que pagan todas las empresas para comenzar su actividad.",
+            "Es un impuesto del que están exentas las empresas que facturan menos de 1 millón de euros, por lo que es un trámite de alta en una actividad más que un impuesto en sí.",
+            "Se realiza en el Registro Mercantil de la Provincia."
+        ],
+        "respuestaCorrecta": "Es un impuesto del que están exentas las empresas que facturan menos de 1 millón de euros, por lo que es un trámite de alta en una actividad más que un impuesto en sí."
+    },
+    {
+        "id": 30,
+        "pregunta": "Habrá que inscribir a la empresa en la seguridad social:",
+        "opciones": [
+            "Cuando la empresa contrate a trabajadores por cuenta ajena.",
+            "Cuando haya que darse de alta a los autónomos.",
+            "En ambos casos."
+        ],
+        "respuestaCorrecta": "Cuando la empresa contrate a trabajadores por cuenta ajena."
+    },
+    {
+        "id": 31,
+        "pregunta": "La licencia de actividad:",
+        "opciones": [
+            "Es una licencia municipal para poder realizar obras en el local.",
+            "Es una licencia como que el local o nave dispone de las condiciones legales de habitabilidad y de poder usarse para esa actividad.",
+            "El único coste que supone es el pago de las tasas municipales.",
+            "Hay de dos tipos: para actividades inocuas y para actividades peligrosas o tóxicas."
+        ],
+        "respuestaCorrecta": "Es una licencia como que el local o nave dispone de las condiciones legales de habitabilidad y de poder usarse para esa actividad."
+    },
+    {
+        "id": 32,
+        "pregunta": "Los trabajadores contratados por la empresa:",
+        "opciones": [
+            "Deben darse de alta en el régimen de autónomos.",
+            "Deben darse de alta en el régimen de autónomos el mes siguiente.",
+            "Deben darse de alta en el régimen general antes de comenzar a trabajar.",
+            "Deben darse de alta en el régimen general el mismo día de comenzar a trabajar."
+        ],
+        "respuestaCorrecta": "Deben darse de alta en el régimen general antes de comenzar a trabajar."
+    },
+    {
+        "id": 33,
+        "pregunta": "Tienen que acudir al Registro Mercantil:",
+        "opciones": [
+            "Las sociedades que tienen que registrar sus libros, como son el de actas, de registro de socios o libros contables.",
+            "Los autónomos a registrar el libro de IVA y de facturas emitidas y facturas recibidas."
+        ],
+        "respuestaCorrecta": "Las sociedades que tienen que registrar sus libros, como son el de actas, de registro de socios o libros contables."
+    },
+
+    
+
+
+    
+    {
+        "id": 34,
+        "pregunta": "Cuál de las siguientes afirmaciones no se aplica a una empresa que vende productos que permiten resolver un problema de carácter social o medioambiental (F):",
+        "opciones": [
+            "Se trata de un emprendimiento social.",
+            "Si obtiene beneficios no se considera emprendimientos social.",
+            "Puede estar desarrollando una innovación social."
+        ],
+        "respuestaCorrecta": "Si obtiene beneficios no se considera emprendimientos social."
+    },
+    {
+        "id": 35,
+        "pregunta": "En el crowdfunding social en el que el inversor recibe un producto relacionado con el proyecto se denomina (F):",
+        "opciones": [
+            "De recompensa.",
+            "De donación.",
+            "De inversión."
+        ],
+        "respuestaCorrecta": "De recompensa."
+    },
+    {
+        "id": 36,
+        "pregunta": "Cuál de las siguientes afirmaciones no es una función del Plan de Producción (F):",
+        "opciones": [
+            "Es el punto de partida para estudiar la viabilidad económico-financiera.",
+            "Permite analizar las características del mercado y los clientes.",
+            "Permite calcular el valor de las inversiones iniciales y los gastos periódicos."
+        ],
+        "respuestaCorrecta": "Permite analizar las características del mercado y los clientes."
+    },
+    {
+        "id": 37,
+        "pregunta": "Los gastos de limpieza son (F):",
+        "opciones": [
+            "Costes variables.",
+            "Costes fijos.",
+            "Pueden ser fijos o variables en función de quién los cobre y el tipo de empresa que los pague."
+        ],
+        "respuestaCorrecta": "Costes fijos."
+    },
+    {
+        "id": 38,
+        "pregunta": "El umbral de rentabilidad es (F):",
+        "opciones": [
+            "El nivel de ventas con el que se obtienen beneficios.",
+            "El beneficio que se obtiene por vender toda la producción.",
+            "El nivel de ventas con el que el beneficio es cero."
+        ],
+        "respuestaCorrecta": "El nivel de ventas con el que el beneficio es cero."
+    },
+    {
+        "id": 39,
+        "pregunta": "A la hora de fijar el precio de un producto la empresa debe considerar a la vez tres factores. ¿Cuál de las siguientes afirmaciones contiene los tres factores correctos? (F):",
+        "opciones": [
+            "Lo que están dispuestos a pagar los consumidores, los costes de fabricación y el precio de la competencia.",
+            "Los costes de la empresa, el precio de la competencia y los descuentos que aceptarán los clientes.",
+            "Los costes de la empresa, el precio de la competencia y los precios que a nivel psicológico más atraigan a los clientes."
+        ],
+        "respuestaCorrecta": "Lo que están dispuestos a pagar los consumidores, los costes de fabricación y el precio de la competencia."
+    },
+    {
+        "id": 40,
+        "pregunta": "Para calcular los costes totales debemos (F):",
+        "opciones": [
+            "Sumar el precio de venta a los costes variables.",
+            "Sumar los costes fijos y los variables unitarios multiplicados por la cantidad de producción.",
+            "Sumar los costes fijos y los costes variables unitarios."
+        ],
+        "respuestaCorrecta": "Sumar los costes fijos y los variables unitarios multiplicados por la cantidad de producción."
+    },
+    {
+        "id": 41,
+        "pregunta": "Cuál de las siguientes opciones no es inversión (F):",
+        "opciones": [
+            "Las instalaciones para trabajar.",
+            "La publicidad y promoción de los productos.",
+            "La mejora de las instalaciones mediante una obra de adaptación de un baño."
+        ],
+        "respuestaCorrecta": "La publicidad y promoción de los productos."
+    },
+    {
+        "id": 42,
+        "pregunta": "El patrimonio de una empresa se compone de (F):",
+        "opciones": [
+            "Bienes.",
+            "Bienes y derechos.",
+            "Bienes, derechos y obligaciones."
+        ],
+        "respuestaCorrecta": "Bienes, derechos y obligaciones."
+    },
+    {
+        "id": 43,
+        "pregunta": "La Cuenta de Resultados refleja (F):",
+        "opciones": [
+            "La situación patrimonial de la empresa en un momento dado.",
+            "El beneficio o pérdida que la empresa ha obtenido en un periodo de tiempo determinado.",
+            "Los movimientos bancarios que se han producido en las cuentas de la empresa."
+        ],
+        "respuestaCorrecta": "El beneficio o pérdida que la empresa ha obtenido en un periodo de tiempo determinado."
+    },
+    {
+        "id": 44,
+        "pregunta": "Las pérdidas de valor de un bien de inversión por su uso se recogen en (F):",
+        "opciones": [
+            "Las Cuentas de amortización.",
+            "Los gastos financieros.",
+            "Las pérdidas por deterioro del inmovilizado."
+        ],
+        "respuestaCorrecta": "Las Cuentas de amortización."
+    },
+    {
+        "id": 45,
+        "pregunta": "Una empresa que presente un resultado de explotación muy elevado (F):",
+        "opciones": [
+            "Nunca puede tener un resultado del ejercicio negativo.",
+            "Si el resultado financiero es negativo, es posible que tenga pérdidas.",
+            "Tendrá un resultado antes de impuestos positivo."
+        ],
+        "respuestaCorrecta": "Si el resultado financiero es negativo, es posible que tenga pérdidas."
+    },
+    {
+        "id": 46,
+        "pregunta": "El Balance de una empresa recoge el conjunto de bienes y derechos de su propiedad en (F):",
+        "opciones": [
+            "El pasivo.",
+            "El activo.",
+            "El patrimonio neto."
+        ],
+        "respuestaCorrecta": "El activo."
+    },
+    {
+        "id": 47,
+        "pregunta": "El capital aportado por los socios y los beneficios reinvertidos en la empresa se recogen el Balance en (F):",
+        "opciones": [
+            "El pasivo.",
+            "El activo.",
+            "El patrimonio neto."
+        ],
+        "respuestaCorrecta": "El patrimonio neto."
+    },
+    {
+        "id": 48,
+        "pregunta": "La Financiación es (F):",
+        "opciones": [
+            "La obtención de medios financieros necesarios para hacer frente a los gastos de la empresa.",
+            "Aplicar medios financieros en la compra, renovación o mejora de elementos del inmovilizado.",
+            "Un plan numérico para asignar recursos a actividades específicas."
+        ],
+        "respuestaCorrecta": "La obtención de medios financieros necesarios para hacer frente a los gastos de la empresa."
+    },
+    {
+        "id": 49,
+        "pregunta": "La autofinanciación está formada por (F):",
+        "opciones": [
+            "El capital aportado por los socios.",
+            "Las ayudas que la empresa puede recibir por parte de las administraciones públicas.",
+            "Los fondos que genera la propia empresa y se destinan a la ampliación o mantenimiento de su actividad."
+        ],
+        "respuestaCorrecta": "Los fondos que genera la propia empresa y se destinan a la ampliación o mantenimiento de su actividad."
+    },
+    {
+        "id": 50,
+        "pregunta": "Una préstamo a largo plazo concedido a una empresa por un Banco es (F):",
+        "opciones": [
+            "Autofinanciación.",
+            "Aportación de capital.",
+            "Financiación ajena o pasivo."
+        ],
+        "respuestaCorrecta": "Financiación ajena o pasivo."
+    },
+    {
+        "id": 51,
+        "pregunta": "El contrato de Leasing es una operación financiera mediante la cual (F):",
+        "opciones": [
+            "Una empresa adquiere un bien y lo alquila a otra que pagará unas cuotas por su uso.",
+            "El librador cede a un tercero una letra de cambio de manera que puede obtener su importe de forma anticipada.",
+            "Una empresa cede a otra el cobro de las deudas de los clientes a cambio de su pago inmediato."
+        ],
+        "respuestaCorrecta": "Una empresa adquiere un bien y lo alquila a otra que pagará unas cuotas por su uso."
+    },
+    {
+        "id": 52,
+        "pregunta": "El contrato de Factoring es una operación financiera mediante la cual (F):",
+        "opciones": [
+            "Una empresa adquiere un bien y lo alquila a otra que pagará unas cuotas por su uso.",
+            "El librador cede a un tercero una letra de cambio de manera que puede obtener su importe de forma anticipada.",
+            "Una empresa cede a otra el cobro de las deudas de los clientes a cambio de su pago inmediato."
+        ],
+        "respuestaCorrecta": "Una empresa cede a otra el cobro de las deudas de los clientes a cambio de su pago inmediato."
+    },
+    {
+        "id": 53,
+        "pregunta": "Los créditos de proveedores son (F):",
+        "opciones": [
+            "Financiación ajena a corto plazo.",
+            "Financiación ajena a largo plazo.",
+            "Financiación propia."
+        ],
+        "respuestaCorrecta": "Financiación ajena a corto plazo."
+    },
+    {
+        "id": 54,
+        "pregunta": "Sabemos que el coste fijo de una empresa es de 96 000 euros mensuales, que el coste variable unitario del producto que elabora es de 240 euros y que el precio de venta es de 315 euros. Por lo tanto (F):",
+        "opciones": [
+            "La empresa obtendrá beneficios en todo momento, ya que el precio de venta es superior al coste medio.",
+            "Se obtendrán beneficios siempre que se venda más de 96 000 unidades mensuales.",
+            "Se obtendrán pérdidas si el número de unidades vendidas es inferior a 1.280."
+        ],
+        "respuestaCorrecta": "Se obtendrán pérdidas si el número de unidades vendidas es inferior a 1.280."
+    },
+    {
+        "id": 55,
+        "pregunta": "Respecto al fondo de maniobra, es falso que (F):",
+        "opciones": [
+            "Se utiliza para saber si habrá problemas de liquidez para hacer frente a las deudas a corto plazo.",
+            "Se utiliza para saber si habrá problemas para pagar las deudas a largo plazo.",
+            "Se define como el activo corriente menos el pasivo corriente."
+        ],
+        "respuestaCorrecta": "Se utiliza para saber si habrá problemas para pagar las deudas a largo plazo."
+    },
+    {
+        "id": 56,
+        "pregunta": "El ratio de endeudamiento (F):",
+        "opciones": [
+            "Se calcula dividiendo el pasivo entre el patrimonio neto más el pasivo.",
+            "Se calcula dividiendo el pasivo corriente entre el pasivo no corriente.",
+            "Su valor no debe superar 0,8 porque, en eses caso, la empresa tendría demasiadas deudas."
+        ],
+        "respuestaCorrecta": "Se calcula dividiendo el pasivo entre el patrimonio neto más el pasivo."
+    },
+    {
+        "id": 57,
+        "pregunta": "Cuál de las siguientes afirmaciones no se aplica al empresario individual (F):",
+        "opciones": [
+            "Debe utilizar su propio nombre para identificarse en la actividad laboral.",
+            "Siempre debe darse de alta en el Régimen especial de Trabajadores Autónomos de la Seguridad Social.",
+            "No necesita ningún capital mínimo para constituir su empresa."
+        ],
+        "respuestaCorrecta": "Debe utilizar su propio nombre para identificarse en la actividad laboral."
+    },
+    {
+        "id": 58,
+        "pregunta": "Si constituyes una sociedad de responsabilidad limitada (F):",
+        "opciones": [
+            "No tendrás obligación de pagar todas las deudas de la sociedad.",
+            "Responderás sólo con tu aportación.",
+            "Te quedarás siempre con todos los beneficios."
+        ],
+        "respuestaCorrecta": "Responderás sólo con tu aportación."
+    }
+]

@@ -18,5 +18,3 @@ docker build -t quiz-app .
 docker run -d --name contenedor-quiz -p 80:80 quiz-app
 
 ~~~
-
-IP WEB: <http://13.38.12.158>

@@ -1,0 +1,2202 @@
+[
+    {
+    "id": 1,
+    "pregunta": "¿Cuál es la entidad pública empresarial que actúa como agencia financiera del Estado y no dispone de una red de sucursales para realizar su labor financiera?",
+    "opciones": [
+        "El Banco Central Europeo (BCE).",
+        "La Comisión Nacional del Mercado de Valores (CNMV).",
+        "El Instituto de Crédito Oficial (ICO).",
+        "El Banco de España."
+    ],
+    "respuestaCorrecta": "El Instituto de Crédito Oficial (ICO)."
+    },
+    {
+    "id": 2,
+    "pregunta": "¿Cuáles son los tres elementos básicos de los que se compone todo sistema financiero?",
+    "opciones": [
+        "Activo bancario, pasivo bancario y servicios bancarios.",
+        "Productos financieros, mercados financieros e intermediarios financieros.",
+        "Políticas monetarias, agentes económicos y moneda en circulación.",
+        "Política financiera, organismos supervisores e instituciones bancarias."
+    ],
+    "respuestaCorrecta": "Productos financieros, mercados financieros e intermediarios financieros."
+    },
+    {
+    "id": 3,
+    "pregunta": "Indica la respuesta incorrecta en cuanto a cómo se caracterizan las Letras del Tesoro en términos de rentabilidad, riesgo y liquidez:",
+    "opciones": [
+        "El riesgo es bajo, al garantizar la inversión el Estado.",
+        "La liquidez es elevada, al tratarse de productos a corto plazo.",
+        "La liquidez es elevada, ya que cuentan con el respaldo del Estado y un mercado secundario activo.",
+        "Su rentabilidad es alta, puesto que el Estado necesita captar fondos y está dispuesto a pagar intereses elevados."
+    ],
+    "respuestaCorrecta": "Su rentabilidad es alta, puesto que el Estado necesita captar fondos y está dispuesto a pagar intereses elevados."
+    },
+    {
+    "id": 4,
+    "pregunta": "¿En qué categoría de productos financieros se incluyen aquellos mediante los cuales las entidades financieras proporcionan financiación a empresas y particulares?",
+    "opciones": [
+        "Productos de pasivo.",
+        "Productos de activo.",
+        "Productos de renta fija.",
+        "Productos de renta variable."
+    ],
+    "respuestaCorrecta": "Productos de activo."
+    },
+    {
+    "id": 5,
+    "pregunta": "Identifica cuál de las siguientes opciones no justifica la necesidad de la existencia del sistema financiero:",
+    "opciones": [
+        "La importancia de contar con un mercado que permita a las empresas del sector financiero obtener rentabilidad.",
+        "La falta de coincidencia entre quienes ahorran y quienes invierten, es decir, las unidades con déficit no suelen conocer a las que tienen superávit.",
+        "Los deseos de liquidez y rentabilidad de los ahorradores no coinciden, en general, con los de los inversores.",
+        "La falta de confianza entre ahorradores e inversores hace necesaria la regulación y supervisión a través del sistema financiero para garantizar la seguridad y transparencia de las operaciones."
+    ],
+    "respuestaCorrecta": "La importancia de contar con un mercado que permita a las empresas del sector financiero obtener rentabilidad."
+    },
+    {
+    "id": 6,
+    "pregunta": "Indica cuales son las 5 características esenciales que todo mercado financiero debe cumplir:",
+    "opciones": [
+        "Accesibilidad, liquidez, seguridad, eficiencia y competitividad.",
+        "Libertad, profundidad, transparencia, flexibilidad y amplitud.",
+        "Opacidad, rigidez, exclusión, improvisación y arbitrariedad.",
+        "Confianza, especialización, agilidad, diversificación y coherencia normativa."
+    ],
+    "respuestaCorrecta": "Libertad, profundidad, transparencia, flexibilidad y amplitud."
+    },
+    {
+    "id": 7,
+    "pregunta": "Cuando una empresa, mediante una oferta pública, emite acciones por primera vez en bolsa, ¿en qué mercado se colocan dichos títulos?",
+    "opciones": [
+        "Mercados primarios.",
+        "Mercado libre.",
+        "Mercados secundarios.",
+        "Mercado al contado o spot."
+    ],
+    "respuestaCorrecta": "Mercados primarios."
+    },
+    {
+    "id": 8,
+    "pregunta": "¿Cómo se llama la institución que actúa como mecanismo de protección a los clientes de servicios de inversión en caso de que una sociedad de valores o agencia de valores no pueda devolverles el dinero o los valores depositados?",
+    "opciones": [
+        "FOGASA",
+        "FOGAIN",
+        "FGD",
+        "FMI"
+    ],
+    "respuestaCorrecta": "FOGAIN"
+    },
+    {
+    "id": 9,
+    "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la diferencia principal entre la banca privada y las cooperativas de crédito?",
+    "opciones": [
+        "Las cooperativas de crédito no pueden captar depósitos del público, mientras que la banca privada sí.",
+        "Las cooperativas de crédito no pueden ofrecer servicios de activo, mientras que la banca privada sí.",
+        "La banca privada y las cooperativas de crédito tienen exactamente los mismos objetivos y funcionamiento, solo cambia su estructura y el nombre de los órganos sociales.",
+        "La banca privada busca obtener un beneficio para sus accionistas, mientras que las cooperativas de crédito persiguen fines cooperativistas y atienden principalmente a las necesidades de sus miembros."
+    ],
+    "respuestaCorrecta": "La banca privada busca obtener un beneficio para sus accionistas, mientras que las cooperativas de crédito persiguen fines cooperativistas y atienden principalmente a las necesidades de sus miembros."
+    },
+    {
+    "id": 10,
+    "pregunta": "Señala cuál de las siguientes afirmaciones corresponde a una de las funciones principales que cumplen los mercados financieros:",
+    "opciones": [
+        "Poner en contacto al colectivo de agentes que intervienen en ellos.",
+        "Garantizar que todas las inversiones tengan un rendimiento fijo asegurado.",
+        "Obligar a los participantes a mantener sus inversiones durante un periodo mínimo.",
+        "Limitar la negociación de activos a un único intermediario."
+    ],
+    "respuestaCorrecta": "Poner en contacto al colectivo de agentes que intervienen en ellos."
+    },
+    {
+    "id": 11,
+    "pregunta": "La familia Fernández tiene unos ingresos anuales de 80.000€. Durante el año, han decidido realizar varias inversiones y gastos que suman 78.000€, incluyendo educación de los hijos, alimentación, ocio y entretenimiento, gastos de vivienda y ahorros. ¿Cuál es la situación financiera de la familia?",
+    "opciones": [
+        "Equilibrio presupuestario.",
+        "Déficit.",
+        "Superávit.",
+        "Período de ajuste presupuestario."
+    ],
+    "respuestaCorrecta": "Superávit."
+    },
+    {
+    "id": 12,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Fondo de Garantía de Depósitos (FGD) es correcta?",
+    "opciones": [
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona, considerando el importe total que el depositando tiene en todas las entidades.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por cuenta en la entidad, independientemente de los titulares que dicha cuenta tenga.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona y por entidad.",
+        "Protege los fondos depositados en cuentas bancarias, cubriendo un máximo de 100.000 € por entidad, pero solo si el titular es una persona física."
+    ],
+    "respuestaCorrecta": "Protege los fondos depositados en cuentas bancarias, cubriendo hasta un máximo de 100.000€ por persona y por entidad."
+    },
+    {
+    "id": 13,
+    "pregunta": "En términos de vencimiento de los instrumentos financieros, ¿cómo se denominan los mercados donde se negocian instrumentos a largo plazo, con vencimientos superiores a un año?",
+    "opciones": [
+        "Mercados monetarios.",
+        "Mercados primarios.",
+        "Mercados secundarios.",
+        "Mercados de capitales."
+    ],
+    "respuestaCorrecta": "Mercados de capitales."
+    },
+    {
+    "id": 14,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre las funciones del sistema financiero es incorrecta?",
+    "opciones": [
+        "El sistema financiero debe incentivar el ahorro de los individuos y empresas, y canalizar esos ahorros hacia proyectos de inversión que generen rendimientos para los ahorradores.",
+        "La función principal del sistema financiero es asegurar que todos los ahorradores reciban rendimientos elevados y constantes, independientemente del tipo de inversión realizada.",
+        "El sistema financiero debe promover la estabilidad financiera, manteniendo la flexibilidad necesaria que posibilite adaptarse rápidamente a los cambios.",
+        "El sistema financiero impulsa el crecimiento económico, puesto que facilita el acceso al crédito y la inversión en proyectos que aumentan la producción, la innovación y el empleo."
+    ],
+    "respuestaCorrecta": "La función principal del sistema financiero es asegurar que todos los ahorradores reciban rendimientos elevados y constantes, independientemente del tipo de inversión realizada."
+    },
+    {
+    "id": 15,
+    "pregunta": "¿Qué tipo de entidades son las cajas rurales?",
+    "opciones": [
+        "Establecimientos financieros de crédito.",
+        "Bancos comerciales.",
+        "Cooperativas de crédito.",
+        "Sociedades de valores."
+    ],
+    "respuestaCorrecta": "Cooperativas de crédito."
+    },
+    {
+    "id": 16,
+    "pregunta": "¿Cómo se caracterizan las cuentas corrientes en términos de rentabilidad, riesgo y liquidez?",
+    "opciones": [
+        "Las cuentas corrientes son un producto financiero de alta rentabilidad, bajo riesgo y baja liquidez.",
+        "Las cuentas corrientes son un producto financiero con baja rentabilidad, bajo riesgo y alta liquidez.",
+        "Las cuentas corrientes son un producto financiero con alta rentabilidad, alto riesgo y alta liquidez.",
+        "Las cuentas corrientes son un producto financiero sin riesgo, con rentabilidad moderada y baja liquidez."
+    ],
+    "respuestaCorrecta": "Las cuentas corrientes son un producto financiero con baja rentabilidad, bajo riesgo y alta liquidez."
+    },
+    {
+    "id": 17,
+    "pregunta": "¿Cuál de las siguientes entidades supervisa la solvencia y el cumplimiento de la normativa específica de las entidades de crédito en España siguiendo las directrices de Europa?",
+    "opciones": [
+        "El Banco Central Europeo (BCE).",
+        "La Comisión Nacional del Mercado de Valores (CNMV).",
+        "El Instituto de Crédito Oficial (ICO).",
+        "El Banco de España."
+    ],
+    "respuestaCorrecta": "El Banco de España."
+    },
+    {
+    "id": 18,
+    "pregunta": "¿Qué tipo de mercado se caracteriza porque en la operación de compraventa de activos participa al menos un intermediario financiero, cuya función es poner en contacto a oferentes y demandantes de fondos a cambio de una comisión?",
+    "opciones": [
+        "Mercados directos.",
+        "Mercados libres.",
+        "Mercados intermediados.",
+        "Mercados secundarios."
+    ],
+    "respuestaCorrecta": "Mercados intermediados."
+    },
+    {
+    "id": 19,
+    "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la diferencia entre el Consorcio de Compensación de Seguros (CCS) y una reaseguradora?",
+    "opciones": [
+        "El CCS cubre a las aseguradoras en operaciones normales y la reaseguradora cubre a los asegurados en riesgos extraordinarios.",
+        "El CCS actúa directamente sobre los asegurados en casos excepcionales, mientras que la reaseguradora respalda a las aseguradoras para repartir riesgos.",
+        "Ambos actúan directamente sobre los asegurados, pero en distintos tipos de riesgos.",
+        "Ambos contribuyen a la estabilidad del sistema asegurador, pero el Consorcio opera en situaciones con alcance europeo y la reaseguradora se centra en riesgos del mercado asegurador español."
+    ],
+    "respuestaCorrecta": "El CCS actúa directamente sobre los asegurados en casos excepcionales, mientras que la reaseguradora respalda a las aseguradoras para repartir riesgos."
+    },
+    {
+    "id": 20,
+    "pregunta": "En las cooperativas de crédito, ¿quiénes pueden acceder a las operaciones de activo?",
+    "opciones": [
+        "Cualquier persona que abra una cuenta en la cooperativa.",
+        "Únicamente los cooperativistas o miembros de la cooperativa.",
+        "Solo agricultores y ganaderos de la zona donde opera la cooperativa.",
+        "Todos los clientes, siguiendo los mismos procedimientos que en la banca privada."
+    ],
+    "respuestaCorrecta": "Únicamente los cooperativistas o miembros de la cooperativa."
+    },
+    {
+    "id": 21,
+    "pregunta": "Si un país pertenece a la Unión Europea pero no utiliza el euro como moneda oficial, ¿cuál de las siguientes opciones refleja mejor su relación con el Banco Central Europeo?",
+    "opciones": [
+        "Forma parte del Eurosistema, por lo que debe aplicar la política monetaria del BCE y gestionar los sistemas de pago siguiendo sus directrices.",
+        "No forma parte del Eurosistema, por lo que mantiene su propia política monetaria y colabora con el BCE, intentando alinearse con sus medidas.",
+        "No forma parte ni del Eurosistema ni del SEBC, por lo que no tiene ninguna relación con el BCE.",
+        "Forma parte del SEBC, por lo que debe ceder el control de su propia moneda y ajustarse a las decisiones vinculadas al euro."
+    ],
+    "respuestaCorrecta": "No forma parte del Eurosistema, por lo que mantiene su propia política monetaria y colabora con el BCE, intentando alinearse con sus medidas."
+    },
+    {
+    "id": 22,
+    "pregunta": "¿Cuál de las siguientes es una función del Banco de España como miembro del SEBC?",
+    "opciones": [
+        "Definir y ejecutar la política monetaria.",
+        "Supervisar la solvencia de las entidades de crédito.",
+        "Asesorar al Gobierno mediante informes y estudios.",
+        "Elaborar y publicar estadísticas relacionadas con sus funciones."
+    ],
+    "respuestaCorrecta": "Definir y ejecutar la política monetaria."
+    },
+    {
+    "id": 23,
+    "pregunta": "Selecciona la respuesta incorrecta sobre los intermediarios financieros:",
+    "opciones": [
+        "Se dividen en bancarios y no bancarios, según tengan o no licencia bancaria del Banco de España y según las operaciones que realicen.",
+        "Los intermediarios financieros bancarios captan dinero del público (depósitos) y lo prestan.",
+        "Los intermediarios financieros no bancarios también captan depósitos del público y prestan dinero.",
+        "Los intermediarios financieros son entidades que actúan como puente entre quienes tienen dinero y quienes lo necesitan, canalizando el ahorro hacia la inversión."
+    ],
+    "respuestaCorrecta": "Los intermediarios financieros no bancarios también captan depósitos del público y prestan dinero."
+    },
+    {
+    "id": 24,
+    "pregunta": "Señala cuál de las siguientes afirmaciones NO corresponde a una función principal de los mercados financieros:",
+    "opciones": [
+        "Ser un mecanismo apropiado para la fijación del precio de los activos.",
+        "Proporcionar liquidez a los activos, logrando una mayor facilidad para convertirlos en dinero.",
+        "Evitar que los agentes puedan comprar o vender activos libremente.",
+        "Reducir los plazos y los costes de intermediación, al ser el cauce adecuado para un rápido contacto entre agentes que participan en dichos mercados."
+    ],
+    "respuestaCorrecta": "Evitar que los agentes puedan comprar o vender activos libremente."
+    },
+    {
+    "id": 25,
+    "pregunta": "En función del grado de intervención de las autoridades, ¿en qué mercado las autoridades intervienen en cuanto al precio y al número de activos financieros en circulación?",
+    "opciones": [
+        "Mercados organizados.",
+        "Mercados no organizados.",
+        "Mercado libre.",
+        "Mercado regulado."
+    ],
+    "respuestaCorrecta": "Mercado regulado."
+    },
+    {
+    "id": 26,
+    "pregunta": "¿De qué depende la forma de relación entre un banco central nacional y el Banco Central Europeo (BCE)?",
+    "opciones": [
+        "Del tamaño de la economía del país.",
+        "De si el país pertenece a la OTAN.",
+        "De si el país tiene el euro como moneda oficial.",
+        "De la localización geográfica del país en Europa."
+    ],
+    "respuestaCorrecta": "De si el país tiene el euro como moneda oficial."
+    },
+    {
+    "id": 27,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Consorcio de Compensación de Seguros es correcta?",
+    "opciones": [
+        "Es un organismo privado que cubre cualquier pérdida por mala gestión de la aseguradora.",
+        "Garantiza la cobertura cuando aseguradora y asegurado no se ponen de acuerdo sobre el importe a pagar por motivo del siniestro.",
+        "Es un organismo público que actúa como seguro de último recurso cuando una aseguradora no puede cumplir sus obligaciones.",
+        "Solo cubre los siniestros relacionados con seguros de vida y accidentes."
+    ],
+    "respuestaCorrecta": "Es un organismo público que actúa como seguro de último recurso cuando una aseguradora no puede cumplir sus obligaciones."
+    },
+    {
+    "id": 28,
+    "pregunta": "¿Cuál es la diferencia principal entre una Sociedad de Valores y una Agencia de Valores?",
+    "opciones": [
+        "La Sociedad de Valores puede operar tanto por cuenta propia como por cuenta de clientes, mientras que la Agencia de Valores solo actúa por cuenta de clientes.",
+        "La Agencia de Valores puede invertir sus propios fondos en el mercado, mientras que la Sociedad de Valores solo gestiona las órdenes de los clientes.",
+        "Ambas tienen exactamente las mismas funciones, solo se diferencian en el tamaño de la entidad.",
+        "La Sociedad de Valores no necesita autorización para prestar servicios de inversión, mientras que la Agencia de Valores sí."
+    ],
+    "respuestaCorrecta": "La Sociedad de Valores puede operar tanto por cuenta propia como por cuenta de clientes, mientras que la Agencia de Valores solo actúa por cuenta de clientes."
+    },
+    {
+    "id": 29,
+    "pregunta": "¿Qué son los productos financieros de pasivo?",
+    "opciones": [
+        "Aquellos mediante los cuales las entidades financieras conceden préstamos a sus clientes.",
+        "Aquellos mediante los cuales los clientes depositan dinero en las entidades financieras.",
+        "Aquellos que se utilizan para invertir en bolsa.",
+        "Aquellos que generan intereses a favor del banco."
+    ],
+    "respuestaCorrecta": "Aquellos mediante los cuales los clientes depositan dinero en las entidades financieras."
+    },
+    {
+    "id": 30,
+    "pregunta": "La fecha operación es:",
+    "opciones": [
+        "El último día hábil del mes.",
+        "La fecha valor.",
+        "El día en que el banco tiene en cuenta el saldo para liquidar los intereses.",
+        "El día en que se registró la operación bancaria."
+    ],
+    "respuestaCorrecta": "El día en que se registró la operación bancaria."
+    },
+    {
+    "id": 31,
+    "pregunta": "¿Qué se entiende por importe mínimo en un depósito a plazo?",
+    "opciones": [
+        "El capital que se devuelve al final del plazo.",
+        "La cantidad mínima que la entidad exige para realizar la imposición.",
+        "La comisión que cobra el banco al cliente.",
+        "La rentabilidad garantizada del depósito."
+    ],
+    "respuestaCorrecta": "La cantidad mínima que la entidad exige para realizar la imposición."
+    },
+    {
+    "id": 32,
+    "pregunta": "Si la Sociedad Cooperativa EcoVerde, dedicada a la producción y distribución de productos ecológicos, desea abrir una cuenta de ahorro en el banco, ¿quién está capacitado para gestionar esta operación?",
+    "opciones": [
+        "El presidente de la cooperativa.",
+        "Los representantes legales o apoderados de la cooperativa.",
+        "Cualquier cooperativista autorizado.",
+        "El contable o tesorero de la cooperativa."
+    ],
+    "respuestaCorrecta": "Los representantes legales o apoderados de la cooperativa."
+    },
+    {
+    "id": 33,
+    "pregunta": "¿Qué se entiende por reintegro?",
+    "opciones": [
+        "La devolución de una comisión bancaria.",
+        "La disposición de dinero en efectivo desde la cuenta.",
+        "La anulación de un apunte erróneo.",
+        "El cargo que se produce tras un pago con tarjeta."
+    ],
+    "respuestaCorrecta": "La disposición de dinero en efectivo desde la cuenta."
+    },
+    {
+    "id": 34,
+    "pregunta": "¿Qué tipo de cuenta bancaria tiene varios titulares y solo se requiere la firma de uno de ellos para poder disponer de los fondos?",
+    "opciones": [
+        "Cuenta corriente con titularidad individual.",
+        "Cuenta corriente colectiva con firma indistinta.",
+        "Cuenta corriente colectiva con firma mancomunada.",
+        "Cuenta corriente colectiva con firma conjunta."
+    ],
+    "respuestaCorrecta": "Cuenta corriente colectiva con firma indistinta."
+    },
+    {
+    "id": 35,
+    "pregunta": "¿Cuáles son los tres parámetros que suelen variar en las distintas ofertas de depósitos a plazo?",
+    "opciones": [
+        "Comisión, divisa y riesgo.",
+        "Interés, importe mínimo y tiempo.",
+        "Capital, entidad financiera y país.",
+        "Liquidación de intereses, riesgo y liquidez."
+    ],
+    "respuestaCorrecta": "Interés, importe mínimo y tiempo."
+    },
+    {
+    "id": 36,
+    "pregunta": "¿En cuál de las siguientes situaciones el banco puede proceder a la cancelación unilateral de una cuenta?",
+    "opciones": [
+        "Si el titular cambia de domicilio y no lo comunica, pues le impediría al banco remitirle notificaciones y posibles modificaciones de las condiciones contractuales.",
+        "Si el titular modifica su situación laboral y no informa al banco de dicho cambio, dado que esto afecta a la evaluación de riesgo vinculada a los justificantes de ingresos proporcionados en la apertura.",
+        "En caso de fallecimiento del titular, disolución de la persona jurídica titular o incluso presentación reiterada de cheques sin fondos.",
+        "Si el cliente mantiene un saldo positivo en la cuenta pero realiza retiradas frecuentes de manera constante, lo que podría afectar a la planificación del uso de los fondos por parte de la entidad."
+    ],
+    "respuestaCorrecta": "En caso de fallecimiento del titular, disolución de la persona jurídica titular o incluso presentación reiterada de cheques sin fondos."
+    },
+    {
+    "id": 37,
+    "pregunta": "EI IBAN es un código que está formado por:",
+    "opciones": [
+        "22 caracteres, los dos primeros dígitos son de carácter alfabético.",
+        "24 caracteres, y los últimos veinte dígitos identifican al código cuenta cliente.",
+        "25 caracteres, donde los dos primeros son de control y los siguientes 23 identifican al código cuenta cliente.",
+        "26 caracteres, los dos primeros dígitos son de control, los cuales están seguidos por la identificación del país."
+    ],
+    "respuestaCorrecta": "24 caracteres, y los últimos veinte dígitos identifican al código cuenta cliente."
+    },
+    {
+    "id": 38,
+    "pregunta": "¿Cómo se denomina la comisión que aplica el banco en una cuenta a la vista cuando el titular dispone de más fondos de los que tiene depositados, y que suele ser un porcentaje previamente pactado sobre el saldo deudor?",
+    "opciones": [
+        "Comisión de administración.",
+        "Comisión de descubierto.",
+        "Comisión posiciones deudoras.",
+        "Comisión de mantenimiento de saldo deudor."
+    ],
+    "respuestaCorrecta": "Comisión de descubierto."
+    },
+    {
+    "id": 39,
+    "pregunta": "¿Cuál de los siguientes tipos de depósitos a plazo viene definido por un tipo de interés que incrementa con el tiempo, generalmente aumentando en intervalos periódicos, premiando el mantenimiento del ahorro durante varios años?",
+    "opciones": [
+        "Depósito tradicional.",
+        "Depósito con interés creciente.",
+        "Depósitos a la vista progresivo.",
+        "Depósito referenciado."
+    ],
+    "respuestaCorrecta": "Depósito con interés creciente."
+    },
+    {
+    "id": 40,
+    "pregunta": "La principal diferencia entre un titular y un autorizado en una cuenta bancaria es:",
+    "opciones": [
+        "El titular es propietario de los fondos, mientras que el autorizado únicamente puede operar con la cuenta.",
+        "Ambos son propietarios de los fondos, pero el titular solo puede retirar dinero con el consentimiento del autorizado.",
+        "El autorizado tiene plena potestad para cerrar la cuenta, pues es la figura autorizada para ello, mientras que el titular solo puede cerrarla siempre que tenga la autorización formal del autorizado.",
+        "No existe diferencia, ambas figuras son equivalentes."
+    ],
+    "respuestaCorrecta": "El titular es propietario de los fondos, mientras que el autorizado únicamente puede operar con la cuenta."
+    },
+    {
+    "id": 41,
+    "pregunta": "¿Quién firma el contrato para abrir una cuenta bancaria?",
+    "opciones": [
+        "Únicamente el banco.",
+        "El banco y los titulares de la cuenta.",
+        "Únicamente los titulares.",
+        "El banco, los titulares y el notario."
+    ],
+    "respuestaCorrecta": "El banco y los titulares de la cuenta."
+    },
+    {
+    "id": 42,
+    "pregunta": "Señala cuál de los siguientes documentos puede solicitarte el banco al abrir una cuenta a tu nombre como persona física:",
+    "opciones": [
+        "Declaración de la renta o justificantes de ingresos.",
+        "Escritura de poderes otorgados.",
+        "Certificado de empadronamiento.",
+        "Contrato de arrendamiento."
+    ],
+    "respuestaCorrecta": "Declaración de la renta o justificantes de ingresos."
+    },
+    {
+    "id": 43,
+    "pregunta": "¿Cuál es el nombre de la comisión de cuenta a la vista que exige que la entidad financiera justifique con pruebas de los gastos incurridos, como el envío de una reclamación de pago o la realización de una llamada telefónica, mostrando así una intención de evitar su cobro?",
+    "opciones": [
+        "Comisión de administración.",
+        "Comisión de descubierto.",
+        "Comisión posiciones deudoras.",
+        "Comisión por extractos y gastos de correos."
+    ],
+    "respuestaCorrecta": "Comisión posiciones deudoras."
+    },
+    {
+    "id": 44,
+    "pregunta": "¿Qué es un extracto bancario?",
+    "opciones": [
+        "Un documento que únicamente muestra el saldo a final de mes de una cuenta corriente, con el fin de que el cliente conozca si su cuenta está en descubierto y pueda realizar ingresos para evitar el cobro de comisiones.",
+        "Un informe que recoge de forma general todos los ingresos de la cuenta a lo largo del mes, facilitando la elaboración de la contabilidad.",
+        "Un documento emitido que recoge de forma sistemática los movimientos de una cuenta durante un periodo determinado, detallando fechas contables, fechas valor, conceptos, importes y el saldo resultante.",
+        "Un registro interno elaborado por la empresa para controlar los pagos pendientes y gestionar de manera más eficiente su contabilidad."
+    ],
+    "respuestaCorrecta": "Un documento emitido que recoge de forma sistemática los movimientos de una cuenta durante un periodo determinado, detallando fechas contables, fechas valor, conceptos, importes y el saldo resultante."
+    },
+    {
+    "id": 45,
+    "pregunta": "En los contratos bancarios, ¿qué establece generalmente la cláusula de duración de una cuenta corriente?",
+    "opciones": [
+        "Vigencia hasta fallecimiento del titular.",
+        "Plazo determinado de varios años según política del banco.",
+        "Plazo renovable automáticamente cada año sin obligatoriedad de preaviso.",
+        "Duración indefinida, con posibilidad de cancelación tanto por el banco como por el titular."
+    ],
+    "respuestaCorrecta": "Plazo renovable automáticamente cada año sin obligatoriedad de preaviso."
+    },
+    {
+    "id": 46,
+    "pregunta": "¿Qué suele ocurrir cuando se realiza un reintegro anticipado de un depósito a plazo fijo?",
+    "opciones": [
+        "Se aplica una comisión para penalizar al cliente.",
+        "Se devuelve el dinero sin los intereses pactados.",
+        "Se aumenta la rentabilidad del depósito.",
+        "Se convierte automáticamente en un depósito estructurado."
+    ],
+    "respuestaCorrecta": "Se aplica una comisión para penalizar al cliente."
+    },
+    {
+    "id": 47,
+    "pregunta": "¿En cuál de las siguientes opciones de tipología de depósito a plazo fijo los intereses se abonan al vencimiento sumándose al capital inicialmente depositado?",
+    "opciones": [
+        "Liquidación periódica.",
+        "Liquidación anticipada.",
+        "Liquidación al vencimiento.",
+        "Liquidación flexible."
+    ],
+    "respuestaCorrecta": "Liquidación al vencimiento."
+    },
+    {
+    "id": 48,
+    "pregunta": "¿Cuál de las siguientes tipologías de depósitos a plazo establece un tipo de interés que se determina en función de una referencia, como puede ser el euríbor, y puede variar según las fluctuaciones de dicho índice?",
+    "opciones": [
+        "Depósito tradicional.",
+        "Depósito con interés creciente.",
+        "Depósito vinculado.",
+        "Depósito referenciado."
+    ],
+    "respuestaCorrecta": "Depósito referenciado."
+    },
+    {
+    "id": 49,
+    "pregunta": "¿Cuál es el cuaderno bancario que emplean las empresas para gestionar la domiciliación de los recibos de sus clientes?",
+    "opciones": [
+        "Cuaderno 19.",
+        "Cuaderno 91.",
+        "Cuaderno 34.",
+        "Cuaderno 43."
+    ],
+    "respuestaCorrecta": "Cuaderno 19."
+    },
+    {
+    "id": 50,
+    "pregunta": "¿Qué función cumple el mandato SEPA en la domiciliación bancaria?",
+    "opciones": [
+        "Asegura la transferencia internacional de fondos.",
+        "Autoriza al banco a pagar los recibos.",
+        "Prohíbe al cliente pagar recibos domiciliados.",
+        "Es un código de verificación de operaciones."
+    ],
+    "respuestaCorrecta": "Autoriza al banco a pagar los recibos."
+    },
+    {
+    "id": 51,
+    "pregunta": "¿Qué son los agentes financieros dentro del canal presencial de banca?",
+    "opciones": [
+        "Empleados de la entidad bancaria que, desde las oficinas centrales, prestan asesoramiento especializado a las sucursales y diseñan productos financieros para su comercialización.",
+        "Personas ajenas a la entidad que comercializan productos financieros mediante un acuerdo y reciben una retribución por comisión.",
+        "Todos los intermediarios que interviene en una operación bancaria.",
+        "Supervisores de oficina encargados de llevar a cabo auditorías internas destinadas a garantizar la ausencia de fraudes bancarios cometidos por el personal de la propia oficina."
+    ],
+    "respuestaCorrecta": "Personas ajenas a la entidad que comercializan productos financieros mediante un acuerdo y reciben una retribución por comisión."
+    },
+    {
+    "id": 52,
+    "pregunta": "¿Qué canal utilizan las entidades financieras cuando ofrecen atención al cliente a través de un call center?",
+    "opciones": [
+        "Banca electrónica.",
+        "Banca presencial",
+        "Banca telefónica.",
+        "Banca digital."
+    ],
+    "respuestaCorrecta": "Banca telefónica."
+    },
+    {
+    "id": 53,
+    "pregunta": "¿Qué debe proporcionar el cliente para que se ejecute una domiciliación de abono?",
+    "opciones": [
+        "Su tarjeta de crédito.",
+        "El número de cuenta del beneficiario.",
+        "EI IBAN de su cuenta.",
+        "Su firma electrónica."
+    ],
+    "respuestaCorrecta": "EI IBAN de su cuenta."
+    },
+    {
+    "id": 54,
+    "pregunta": "¿A través de qué sistema se tramitan las transferencias ordinarias en España?",
+    "opciones": [
+        "SWIFT",
+        "TARGET2",
+        "SNCE",
+        "SEPA"
+    ],
+    "respuestaCorrecta": "SNCE"
+    },
+    {
+    "id": 55,
+    "pregunta": "¿Cómo se realiza el pago en el servicio VIA-T?",
+    "opciones": [
+        "Con efectivo en la cabina, mediante un ticket que se registra y compensa mensualmente a través de un cuaderno bancario.",
+        "Mediante un dispositivo electrónico que está vinculado a una cuenta o tarjeta previamente.",
+        "Con una tarjeta de débito o crédito mediante tecnología contactless en el peaje.",
+        "A través de una aplicación móvil que escanea la matrícula del vehículo."
+    ],
+    "respuestaCorrecta": "Mediante un dispositivo electrónico que está vinculado a una cuenta o tarjeta previamente."
+    },
+    {
+    "id": 56,
+    "pregunta": "¿Qué diferencia principal existe entre la gestión de cobro y el descuento de efectos?",
+    "opciones": [
+        "En la gestión de cobro, el banco entrega el importe al cliente en el momento de recibir los efectos, mientras que en el descuento el abono se realiza al vencimiento del efecto.",
+        "En la gestión de cobro, el banco no adelanta dinero al cliente, mientras que en el descuento sí.",
+        "En la gestión de cobro, el banco concede crédito al cliente, mientras que en el descuento solo presta un servicio de gestión del efecto comercial en cuestión.",
+        "En el descuento de efectos, el banco cobra una comisión sobre el nominal y los gastos fijos, mientras que en la gestión también aplica intereses."
+    ],
+    "respuestaCorrecta": "En la gestión de cobro, el banco no adelanta dinero al cliente, mientras que en el descuento sí."
+    },
+    {
+    "id": 57,
+    "pregunta": "¿Qué son los cuadernos bancarios?",
+    "opciones": [
+        "Libros o registros donde se anotan de forma detallada los movimientos y operaciones realizadas por el banco con sus clientes, con el fin de mantener un control interno de las transacciones.",
+        "Protocolos comunes que establecen las características y el formato de los ficheros utilizados para el intercambio automatizado de información entre empresas y entidades financieras.",
+        "Formularios o documentos físicos que utilizan los clientes para solicitar transferencias, domiciliaciones o pagos a su entidad bancaria.",
+        "Informes internos elaborados por las entidades financieras para analizar la evolución de sus operaciones y resultados económicos."
+    ],
+    "respuestaCorrecta": "Protocolos comunes que establecen las características y el formato de los ficheros utilizados para el intercambio automatizado de información entre empresas y entidades financieras."
+    },
+    {
+    "id": 58,
+    "pregunta": "¿Qué incluye el servicio de cambio de moneda o divisas que ofrecen las entidades financieras?",
+    "opciones": [
+        "La compraventa de monedas extranjeras, ya que los billetes no tienen un valor metálico asociado.",
+        "La compraventa de euros frente a las divisas más utilizadas a nivel internacional.",
+        "La compraventa de billetes extranjeros y lingotes de oro, así como la comercialización de tarjetas que puedan utilizarse en comercios y cajeros de países con otra divisa.",
+        "La compraventa de billetes extranjeros, el abono o envío de transferencias en otras divisas y el pago o cobro de cheques en euros emitidos en moneda extranjera."
+    ],
+    "respuestaCorrecta": "La compraventa de billetes extranjeros, el abono o envío de transferencias en otras divisas y el pago o cobro de cheques en euros emitidos en moneda extranjera."
+    },
+    {
+    "id": 59,
+    "pregunta": "¿Cómo se identifica un cheque cruzado?",
+    "opciones": [
+        "Por la expresión \"para abonar en cuenta\".",
+        "Por dos líneas paralelas en diagonal sobre su anverso.",
+        "Por una marca en el reverso que indica \"no a la orden\".",
+        "Por el nombre del beneficiario escrito en letras mayúsculas."
+    ],
+    "respuestaCorrecta": "Por dos líneas paralelas en diagonal sobre su anverso."
+    },
+    {
+    "id": 60,
+    "pregunta": "¿Para qué se utiliza la cuenta corriente asociada a la cuenta de valores?",
+    "opciones": [
+        "Para guardar los títulos físicos de las acciones.",
+        "Para registrar los intereses del préstamo.",
+        "Para aportar el dinero en las compras y recibir los fondos de las ventas y rendimientos.",
+        "Para transferir los valores a otros bancos."
+    ],
+    "respuestaCorrecta": "Para aportar el dinero en las compras y recibir los fondos de las ventas y rendimientos."
+    },
+    {
+    "id": 61,
+    "pregunta": "¿Cuál es el cuaderno bancario que utilizan las empresas para gestionar el pago de nóminas a sus empleados a través de transferencias de tipo nómina?",
+    "opciones": [
+        "Cuaderno 19.",
+        "Cuaderno 91.",
+        "Cuaderno 34.",
+        "Cuaderno 43."
+    ],
+    "respuestaCorrecta": "Cuaderno 34."
+    },
+    {
+    "id": 62,
+    "pregunta": "¿Qué caracteriza a las transferencias inmediatas?",
+    "opciones": [
+        "Se liquidan en 2-5 días hábiles.",
+        "Se procesan en tiempo real, en horario 24x7x365.",
+        "Solo pueden realizarse entre cuentas del mismo banco.",
+        "No se pueden utilizar para pagos urgentes."
+    ],
+    "respuestaCorrecta": "Se procesan en tiempo real, en horario 24x7x365."
+    },
+    {
+    "id": 63,
+    "pregunta": "¿Dónde pueden encontrarse los TPV virtuales?",
+    "opciones": [
+        "En supermercados.",
+        "En cajeros automáticos.",
+        "En comercios online.",
+        "No existe esta tipología de TPV."
+    ],
+    "respuestaCorrecta": "En comercios online."
+    },
+    {
+    "id": 64,
+    "pregunta": "¿Qué comprende la intermediación en mercados de productos aseguradores?",
+    "opciones": [
+        "La gestión de préstamos hipotecarios, entre otros.",
+        "La compraventa de divisas extranjeras, entre otros.",
+        "La comercialización de planes de pensiones, entre otros.",
+        "La compraventa de valores mobiliarios, entre otros."
+    ],
+    "respuestaCorrecta": "La comercialización de planes de pensiones, entre otros."
+    },
+    {
+    "id": 65,
+    "pregunta": "¿Qué tipo de entidades ofrecen el servicio de recaudación por cuenta de entes públicos?",
+    "opciones": [
+        "Entidades financieras colaboradoras autorizadas.",
+        "Empresas de gestión de deuda que operan mediante una cuenta abierta en su entidad financiera.",
+        "Empresas privadas de recaudación que operan mediante una cuenta abierta en su entidad financiera.",
+        "Notarías y registros públicos que operan mediante una cuenta abierta en su entidad financiera."
+    ],
+    "respuestaCorrecta": "Entidades financieras colaboradoras autorizadas."
+    },
+    {
+    "id": 66,
+    "pregunta": "Si en un cheque la cantidad escrita en cifras y la escrita en letras no coinciden, ¿qué ocurre?",
+    "opciones": [
+        "El cheque queda anulado automáticamente.",
+        "Se toma como válida la cantidad escrita en cifras.",
+        "Se devuelve el cheque al librador para corregirlo.",
+        "Prevalece la cantidad escrita en letras."
+    ],
+    "respuestaCorrecta": "Prevalece la cantidad escrita en letras."
+    },
+    {
+    "id": 67,
+    "pregunta": "Si una empresa desea sustituir la tradicional cesta de Navidad por una tarjeta regalo para sus empleados, ¿qué tipo de tarjeta sería la más adecuada?",
+    "opciones": [
+        "Tarjeta de crédito.",
+        "Tarjeta de débito.",
+        "Tarjeta prepago.",
+        "Tarjeta revolving."
+    ],
+    "respuestaCorrecta": "Tarjeta prepago."
+    },
+    {
+    "id": 68,
+    "pregunta": "¿Qué sistema se utiliza para transferencias internacionales fuera del ámbito SEPA?",
+    "opciones": [
+        "SNCE",
+        "TARGET2",
+        "SWIFT",
+        "SEPA"
+    ],
+    "respuestaCorrecta": "SWIFT"
+    },
+    {
+    "id": 69,
+    "pregunta": "¿Dentro de las funcionalidades de los servicios bancarios, en qué consiste una OTP y para qué se utiliza?",
+    "opciones": [
+        "En una clave numérica o alfanumérica que se utiliza una sola vez para confirmar operaciones bancarias.",
+        "En una Orden de Traspaso de Posiciones que el cliente puede realizar entre sus distintas cuentas dentro de la app de su banco.",
+        "En un código que identifica al cliente en el terminal financiero y permite al empleado cumplir con la LOPD.",
+        "En un número que identifica a la entidad bancaria ante el Banco de España."
+    ],
+    "respuestaCorrecta": "En una clave numérica o alfanumérica que se utiliza una sola vez para confirmar operaciones bancarias."
+    },
+    {
+    "id": 70,
+    "pregunta": "¿Qué implica que un cheque esté cruzado?",
+    "opciones": [
+        "Que solo puede cobrarse en una entidad bancaria.",
+        "Que puede cobrarse en efectivo en cualquier oficina de cualquier entidad.",
+        "Que solo puede ser nominativo.",
+        "Que está anulado, es decir que el cheque no tiene validez legal."
+    ],
+    "respuestaCorrecta": "Que solo puede cobrarse en una entidad bancaria."
+    },
+    {
+    "id": 71,
+    "pregunta": "¿Cuál de los siguientes pagos puede gestionarse mediante el servicio de recaudación por cuenta de entes públicos?",
+    "opciones": [
+        "Compra de valores bursátiles.",
+        "Pago de una multa de tráfico.",
+        "Pago de tasas universitarias a una entidad o universidad privada.",
+        "Abono de los intereses de un préstamo hipotecario."
+    ],
+    "respuestaCorrecta": "Pago de una multa de tráfico."
+    },
+    {
+    "id": 72,
+    "pregunta": "¿Cuál es la diferencia entre un traspaso y una transferencia interna dentro de la misma entidad?",
+    "opciones": [
+        "En el traspaso el beneficiario y ordenante coinciden, mientras que en la transferencia interna el beneficiario y ordenante distintos.",
+        "La operativa de traspaso es solo para empresas, mientras que la transferencia interna es tanto para empresa como para particulares.",
+        "Un traspaso puede conllevar una comisión o no, dado que depende de las condiciones formalizadas, mientras que la transferencia interna siempre va sin comisión.",
+        "En el traspaso los fondos se envían entre diferentes entidades financieras, mientras que la transferencia interna solo puede hacerse dentro de la misma entidad."
+    ],
+    "respuestaCorrecta": "En el traspaso el beneficiario y ordenante coinciden, mientras que en la transferencia interna el beneficiario y ordenante distintos."
+    },
+    {
+    "id": 73,
+    "pregunta": "¿Qué coste implica para la empresa disponer de un TPV?",
+    "opciones": [
+        "Ninguno, puesto que las entidades financieras asumen todos los costes del TPV como parte de su estrategia de presencia comercial.",
+        "Solo implica un coste de instalación, dado que tras amortizar el gasto del servicio técnico, el banco empieza a generar ingresos derivados de las operaciones procesadas.",
+        "Comisiones por su uso o una cuota fija mensual.",
+        "Una tasa única que se paga únicamente el primer año."
+    ],
+    "respuestaCorrecta": "Comisiones por su uso o una cuota fija mensual."
+    },
+    {
+    "id": 74,
+    "pregunta": "La principal diferencia entre pagaré y letra de cambio es que:",
+    "opciones": [
+        "El pagaré lo emite quien debe pagar y la letra quien debe cobrar.",
+        "El pagaré lo firma quien debe cobrar y la letra lo firma quien debe pagar.",
+        "El pagaré puede ser endosado y en cambio en la letra no existe dicha posibilidad.",
+        "La letra tiene fecha de vencimiento y el pagaré no."
+    ],
+    "respuestaCorrecta": "El pagaré lo emite quien debe pagar y la letra quien debe cobrar."
+    },
+    {
+    "id": 75,
+    "pregunta": "¿Qué tipología de transferencia utilizaría si quiero dejar la orden de que todos los meses el mismo día se realice una transferencia del mismo importe a la misma cuenta de destino para pagar el alquiler de mi casa?",
+    "opciones": [
+        "Transferencia ordinaria.",
+        "Transferencia inmediata.",
+        "Transferencia TARGET2.",
+        "Transferencia periódica."
+    ],
+    "respuestaCorrecta": "Transferencia periódica."
+    },
+    {
+    "id": 76,
+    "pregunta": "Además de un servicio, ¿Qué tipo de producto bancario puede considerarse una tarjeta de crédito?",
+    "opciones": [
+        "Pasivo.",
+        "Activo.",
+        "Renta variable.",
+        "Desintermediación."
+    ],
+    "respuestaCorrecta": "Activo."
+    },
+    {
+    "id": 77,
+    "pregunta": "¿Cuál es la finalidad de los cuadernos bancarios?",
+    "opciones": [
+        "Registrar manualmente las operaciones realizadas por el empleado de caja de una oficina bancaria con el fin de puntear al final del día y contrastar saldos.",
+        "Permir al departamento administrativo de la empresa registrar todas las operaciones internas de tesorería y generar automáticamente estados financieros completos que sirvan de base para la conciliación bancaria.",
+        "Normalizar el formato de los ficheros electrónicos de información bancaria.",
+        "Facilitar la devolución de efectos impagados a partir de los datos registrados en los libros contables."
+    ],
+    "respuestaCorrecta": "Normalizar el formato de los ficheros electrónicos de información bancaria."
+    },
+    {
+    "id": 78,
+    "pregunta": "¿Qué ocurre si un pagaré contiene la cláusula \"no a la orden\"?",
+    "opciones": [
+        "Puede transmitirse mediante endoso.",
+        "Solo podrá pagarse a la persona a favor de quien se emitió.",
+        "No puede cobrarse en una entidad bancaria.",
+        "Se convierte automáticamente en cheque al portador."
+    ],
+    "respuestaCorrecta": "Solo podrá pagarse a la persona a favor de quien se emitió."
+    },
+    {
+    "id": 79,
+    "pregunta": "¿Cuál de los siguientes tipos de interés ofrece una visión más completa del coste real de un producto financiero o de la rentabilidad efectiva de una inversión?",
+    "opciones": [
+        "TIR",
+        "TIE",
+        "TAE",
+        "TIN"
+    ],
+    "respuestaCorrecta": "TAE"
+    },
+    {
+    "id": 80,
+    "pregunta": "Un capital de 1.000€ se invierte a un tipo de interés efectivo anual del 6%. ¿Cuánto tiempo debe mantenerse invertido para convertirse exactamente en 1.123,06€?",
+    "opciones": [
+        "1 año.",
+        "2 años.",
+        "3 años.",
+        "4 años."
+    ],
+    "respuestaCorrecta": "2 años."
+    },
+    {
+    "id": 81,
+    "pregunta": "¿Cuál es el TIE anual equivalente a un TIN del 12% capitalizable trimestralmente?",
+    "opciones": [
+        "3%",
+        "24%",
+        "12,55%",
+        "5,73%"
+    ],
+    "respuestaCorrecta": "12,55%"
+    },
+    {
+    "id": 82,
+    "pregunta": "Si adquirimos un préstamo a un tipo de interés variable con revisión anual, cuyo índice de referencia es el Euribor y tiene un diferencial del 3%, ¿qué tipo de interés se aplicará al préstamo, a partir de una revisión, si el Euribor se encuentra al 0% debido a las condiciones del mercado?",
+    "opciones": [
+        "El tipo de interés aplicado para ese periodo será del 0%.",
+        "Solo se aplicará el diferencial del 3% durante ese período.",
+        "Durante ese periodo, el tipo de interés se corresponde a la media de ambas variables, es decir, el 1,5%.",
+        "Ninguna de las anteriores es correcta."
+    ],
+    "respuestaCorrecta": "Solo se aplicará el diferencial del 3% durante ese período."
+    },
+    {
+    "id": 83,
+    "pregunta": "¿Cuál de las siguientes comisiones se aplica en una operación de préstamo cuando el prestatario decide amortizar parte del capital pendiente antes de la fecha de vencimiento acordada?",
+    "opciones": [
+        "Comisión de estudio.",
+        "Comisión de liquidación por previo vencimiento.",
+        "Comisión por amortización anticipada.",
+        "Comisión por cancelación anticipada."
+    ],
+    "respuestaCorrecta": "Comisión por amortización anticipada."
+    },
+    {
+    "id": 84,
+    "pregunta": "¿Qué implica una operación de descuento comercial de efectos?",
+    "opciones": [
+        "Se trata de una operación de pasivo con la que la empresa podrá obtener financiación.",
+        "Presentar títulos cambiarios en el banco para recibir su importe antes de su fecha de vencimiento.",
+        "Invertir dinero a largo plazo para obtener rendimiento en forma de descuentos en facturas pagadas con pagarés o letras de cambio.",
+        "Obtener un beneficio económico en las facturas otorgado por la relación continuada con el cliente."
+    ],
+    "respuestaCorrecta": "Invertir dinero a largo plazo para obtener rendimiento en forma de descuentos en facturas pagadas con pagarés o letras de cambio."
+    },
+    {
+    "id": 85,
+    "pregunta": "¿Cuál es la principal característica que distingue operativamente un préstamo de una cuenta de crédito?",
+    "opciones": [
+        "En la cuenta de crédito no se pagan intereses, solo comisiones.",
+        "En la cuenta de crédito se entrega todo el dinero al inicio.",
+        "En la cuenta de crédito el cliente dispone del dinero según lo necesita.",
+        "La diferencia tiene origen en el diseño del propio producto dentro de la estrategia comercial del banco."
+    ],
+    "respuestaCorrecta": "En la cuenta de crédito el cliente dispone del dinero según lo necesita."
+    },
+    {
+    "id": 86,
+    "pregunta": "¿Qué tipo de registro utilizan las entidades financieras para obtener información sobre los riesgos de sus clientes relacionados con las operaciones de activo que tienen en otras entidades?",
+    "opciones": [
+        "Registro de la Propiedad Inmobiliaria.",
+        "CIRBE.",
+        "Registro Mercantil.",
+        "Registros de morosos."
+    ],
+    "respuestaCorrecta": "CIRBE."
+    },
+    {
+    "id": 87,
+    "pregunta": "Una empresa tiene varias facturas pendientes de cobro de sus clientes. Para obtener liquidez antes de su vencimiento, las cede a una entidad financiera, que le adelanta su importe y se encarga posteriormente de gestionar el cobro a dichos clientes en la fecha de vencimiento. ¿Cómo se denomina el producto financiero de activo que está utilizando la empresa?",
+    "opciones": [
+        "Renting.",
+        "Leasing.",
+        "Factoring.",
+        "Confirming."
+    ],
+    "respuestaCorrecta": "Factoring."
+    },
+    {
+    "id": 88,
+    "pregunta": "Una empresa desea gestionar el pago de las facturas de sus proveedores a través de una entidad financiera. Mediante este sistema, los proveedores pueden elegir entre cobrar en la fecha de vencimiento o anticipar el cobro antes de dicha fecha. ¿Qué producto financiero de activo bancario está utilizando la empresa?",
+    "opciones": [
+        "Renting.",
+        "Leasing.",
+        "Factoring.",
+        "Confirming."
+    ],
+    "respuestaCorrecta": "Confirming."
+    },
+    {
+    "id": 89,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la figura del avalista en una operación de activo es correcta?",
+    "opciones": [
+        "Es la figura de propia entidad bancaria en una operación de activo, pues es esta figura la que asume el riesgo.",
+        "Es obligatorio en todas las operaciones de activo.",
+        "Recibe la financiación para invertirla.",
+        "Responde con su patrimonio personal en caso de impago del prestatario."
+    ],
+    "respuestaCorrecta": "Responde con su patrimonio personal en caso de impago del prestatario."
+    },
+    {
+    "id": 90,
+    "pregunta": "Indica cuál de los siguientes es un registro de morosos que contiene información sobre personas o empresas con deudas ciertas, vencidas y exigibles que no han sido pagadas.",
+    "opciones": [
+        "CIRBE.",
+        "FGD.",
+        "FOGASA.",
+        "ASNEF."
+    ],
+    "respuestaCorrecta": "ASNEF."
+    },
+    {
+    "id": 91,
+    "pregunta": "¿Cómo se denomina el instrumento financiero de activo bancario que se utiliza en operaciones de comercio internacional para garantizar el pago entre comprador y vendedor?",
+    "opciones": [
+        "Préstamo multibancario.",
+        "Aval bancario.",
+        "Línea de crédito.",
+        "Crédito documentario."
+    ],
+    "respuestaCorrecta": "Crédito documentario."
+    },
+    {
+    "id": 92,
+    "pregunta": "¿Qué representa el activo bancario para un banco?",
+    "opciones": [
+        "Las obligaciones de pago que tiene el banco con sus clientes.",
+        "Los derechos de crédito que tiene el banco sobre su clientela.",
+        "La suma de todos los depósitos de los clientes.",
+        "Los bienes inmuebles del banco."
+    ],
+    "respuestaCorrecta": "Los derechos de crédito que tiene el banco sobre su clientela."
+    },
+    {
+    "id": 93,
+    "pregunta": "¿Qué tipo de garantía corresponde a la obligación prendataria?",
+    "opciones": [
+        "Responder con patrimonio del avalista.",
+        "Garantizar con bienes inmuebles.",
+        "Garantizar con bienes muebles.",
+        "Garantizar con nóminas y declaraciones de IRPF."
+    ],
+    "respuestaCorrecta": "Garantizar con bienes muebles."
+    },
+    {
+    "id": 94,
+    "pregunta": "¿Cómo se denomina el producto de activo bancario mediante el cual una entidad financiera se compromete a responder de las obligaciones económicas contraídas por su cliente frente a un tercero, en caso de que dicho cliente no las cumpla?",
+    "opciones": [
+        "Copago.",
+        "Aval bancario.",
+        "Préstamo cedido.",
+        "Préstamo a terceros."
+    ],
+    "respuestaCorrecta": "Aval bancario."
+    },
+    {
+    "id": 95,
+    "pregunta": "En la garantía personal de terceros de una operación de activo bancario, ¿quién responde frente al banco?",
+    "opciones": [
+        "El titular o titulares.",
+        "El Avalista o fiador.",
+        "La entidad bancaria.",
+        "La administración pública."
+    ],
+    "respuestaCorrecta": "El Avalista o fiador."
+    },
+    {
+    "id": 96,
+    "pregunta": "¿Qué se entiende por un crédito al consumo?",
+    "opciones": [
+        "Un préstamo concedido a empresas para financiar su actividad.",
+        "Un préstamo concedido a particulares para la adquisición de bienes o servicios de uso personal o familiar.",
+        "Un préstamo concedido a autónomos para el desarrollo de su actividad profesional.",
+        "Un préstamo destinado indistintamente a empresas, autónomos y particulares."
+    ],
+    "respuestaCorrecta": "Un préstamo concedido a particulares para la adquisición de bienes o servicios de uso personal o familiar."
+    },
+    {
+    "id": 97,
+    "pregunta": "¿Por qué las entidades financieras realizan un estudio previo antes de conceder un crédito?",
+    "opciones": [
+        "Para cumplir con la normativa bancaria vigente.",
+        "Para analizar la solvencia del cliente y reducir el riesgo de impago.",
+        "Para calcular las comisiones aplicables y maximizar la rentabilidad de la operación.",
+        "Para analizar los hábitos de consumo del cliente y determinar la parte de su presupuesto que no destina al ahorro."
+    ],
+    "respuestaCorrecta": "Para analizar la solvencia del cliente y reducir el riesgo de impago."
+    },
+    {
+    "id": 98,
+    "pregunta": "¿Qué se entiende por un contrato de leasing o arrendamiento financiero?",
+    "opciones": [
+        "Un contrato o póliza de préstamo concedido a tipo de interés fijo.",
+        "Un contrato mediante el cual la entidad financiera vende un bien al contado al cliente y obtiene como beneficio el cobro de intereses por la operación.",
+        "Un contrato que permite el uso de un bien a cambio del pago de cuotas periódicas, con posibilidad de adquirirlo al finalizar el contrato.",
+        "Un contrato de seguro sobre bienes muebles o inmuebles cuya vigencia se mantiene hasta la adquisición de la propiedad del bien."
+    ],
+    "respuestaCorrecta": "Un contrato que permite el uso de un bien a cambio del pago de cuotas periódicas, con posibilidad de adquirirlo al finalizar el contrato."
+    },
+    {
+    "id": 99,
+    "pregunta": "¿Quién asume los gastos de mantenimiento, reparaciones y seguro del bien mueble objeto de un contrato de renting?",
+    "opciones": [
+        "El banco donde se carga la cuota de renting.",
+        "El proveedor del bien.",
+        "El arrendador.",
+        "El arrendatario."
+    ],
+    "respuestaCorrecta": "El arrendador."
+    },
+    {
+    "id": 100,
+    "pregunta": "¿Qué finalidad tiene una operación de activo bancario cuyo objetivo es financiar la compra de una lavadora?",
+    "opciones": [
+        "De inversión empresarial.",
+        "De producción.",
+        "De consumo.",
+        "Hipotecario."
+    ],
+    "respuestaCorrecta": "De consumo."
+    },
+    {
+    "id": 101,
+    "pregunta": "¿Cómo se denomina la comisión asociada a un préstamo que se cobra al titular cuando la operación se traslada de una entidad financiera a otra?",
+    "opciones": [
+        "Comisión de traspaso.",
+        "Comisión de cancelación anticipada.",
+        "Comisión de subrogación.",
+        "Comisión de novación."
+    ],
+    "respuestaCorrecta": "Comisión de subrogación."
+    },
+    {
+    "id": 102,
+    "pregunta": "¿Qué diferencia principal hay entre bonos y obligaciones del Estado respecto a las letras del Tesoro?",
+    "opciones": [
+        "Los bonos y obligaciones pagan intereses periódicos explícitos mediante cupones, mientras que las letras tienen intereses implícitos.",
+        "Los bonos y obligaciones no tienen vencimiento, mientras que las letras sí.",
+        "Las letras se emiten solo por bancos privados, mientras que los bonos y obligaciones son emitidos por el Estado.",
+        "Los bonos y obligaciones se emiten a corto plazo, mientras que las letras del tesoro a largo plazo."
+    ],
+    "respuestaCorrecta": "Los bonos y obligaciones pagan intereses periódicos explícitos mediante cupones, mientras que las letras tienen intereses implícitos."
+    },
+    {
+    "id": 103,
+    "pregunta": "Señala la afirmación incorrecta respecto a la normativa MiFID:",
+    "opciones": [
+        "Surge como necesidad de regular la desaparición de los mercados tradicionales en el sector financiero.",
+        "Surge debido a la creciente complejidad de los mercados financieros.",
+        "Nace con el objetivo de proteger a los inversores minoristas.",
+        "Obliga a las entidades de inversión a conocer a sus clientes evaluándolos a través de diferentes test."
+    ],
+    "respuestaCorrecta": "Surge como necesidad de regular la desaparición de los mercados tradicionales en el sector financiero."
+    },
+    {
+    "id": 104,
+    "pregunta": "¿Qué es el IBEX 35?",
+    "opciones": [
+        "El índice europeo de referencia para el mercado bursátil español.",
+        "El indice oficial del mercado continuo español.",
+        "El índice que agrupa a todas las acciones españolas.",
+        "Un índice exclusivo del sector bancario."
+    ],
+    "respuestaCorrecta": "El indice oficial del mercado continuo español."
+    },
+    {
+    "id": 105,
+    "pregunta": "¿Cuáles son las bolsas de valores que existen en España?",
+    "opciones": [
+        "Madrid, Sevilla, Bilbao y Valencia.",
+        "Madrid, Barcelona, Bilbao y Valencia.",
+        "Madrid, Barcelona, Zaragoza y Valencia.",
+        "Madrid, Barcelona, Bilbao y Málaga."
+    ],
+    "respuestaCorrecta": "Madrid, Barcelona, Bilbao y Valencia."
+    },
+    {
+    "id": 106,
+    "pregunta": "¿Cuál es la función principal de BME?",
+    "opciones": [
+        "Recoger las órdenes de la compra y la venta de acciones en el mercado de valores.",
+        "Gestionar y coordinar todos los mercados financieros españoles estableciendo las normas, sistemas e infraestructuras necesarias.",
+        "Garantizar la rentabilidad de las inversiones que tienen lugar en el mercado de valores.",
+        "Garantizar la transparencia de los mercados y la correcta formación de los precios, con el fin de proteger a los inversores."
+    ],
+    "respuestaCorrecta": "Gestionar y coordinar todos los mercados financieros españoles estableciendo las normas, sistemas e infraestructuras necesarias."
+    },
+    {
+    "id": 107,
+    "pregunta": "Invertir con el objetivo de conservar el valor del dinero significa:",
+    "opciones": [
+        "Aumentar el riesgo de la inversión.",
+        "Evitar la inflación.",
+        "Gastar el dinero rápidamente.",
+        "Obtener liquidez inmediata."
+    ],
+    "respuestaCorrecta": "Evitar la inflación."
+    },
+    {
+    "id": 108,
+    "pregunta": "¿Cuál es la función principal de Iberclear?",
+    "opciones": [
+        "Asegurar el buen funcionamiento de la plataforma informática donde tiene lugar la compra y venta de acciones.",
+        "Gestionar la liquidación y compensación de las operaciones pactadas.",
+        "Actuar como garante de los derivados financieros.",
+        "Vigilar el correcto funcionamiento de los mercados de valores."
+    ],
+    "respuestaCorrecta": "Gestionar la liquidación y compensación de las operaciones pactadas."
+    },
+    {
+    "id": 109,
+    "pregunta": "¿Cuál de las siguientes entidades no es un intermediario autorizado del mercado de valores?",
+    "opciones": [
+        "Las sociedades de valores.",
+        "Las entidades financieras.",
+        "Las compañías aseguradoras.",
+        "Las sociedades gestoras de carteras."
+    ],
+    "respuestaCorrecta": "Las compañías aseguradoras."
+    },
+    {
+    "id": 110,
+    "pregunta": "Indica la opción incorrecta respecto a los productos derivados:",
+    "opciones": [
+        "Son instrumentos financieros cuyo valor depende del precio de otro activo, llamado activo subyacente.",
+        "Su finalidad es protegerse de riesgos (cobertura) o aprovechar cambios de precio para ganar dinero (especulación).",
+        "Son productos que implican siempre un alto riesgo para el vendedor y un bajo riesgo para el inversor.",
+        "Son productos derivados las opciones y los futuros."
+    ],
+    "respuestaCorrecta": "Son productos que implican siempre un alto riesgo para el vendedor y un bajo riesgo para el inversor."
+    },
+    {
+    "id": 111,
+    "pregunta": "¿Qué tipo de instrumento de deuda privada es un híbrido entre acciones y bonos?",
+    "opciones": [
+        "Obligaciones simples.",
+        "Obligaciones subordinadas.",
+        "Participaciones preferentes.",
+        "Bonos simples."
+    ],
+    "respuestaCorrecta": "Participaciones preferentes."
+    },
+    {
+    "id": 112,
+    "pregunta": "Las letras del Tesoro se caracterizan por:",
+    "opciones": [
+        "Emitirse a largo plazo con intereses periódicos explícitos.",
+        "Emitirse al descuento con intereses implícitos y vencimientos cortos.",
+        "Ser instrumentos de renta variable.",
+        "Es un instrumento financiero de deuda privada"
+    ],
+    "respuestaCorrecta": "Emitirse al descuento con intereses implícitos y vencimientos cortos."
+    },
+    {
+    "id": 113,
+    "pregunta": "Dentro del triángulo básico de la inversión, la rentabilidad se refiere a:",
+    "opciones": [
+        "El dinero que se invierte inicialmente.",
+        "La facilidad para convertir la inversión en dinero.",
+        "El beneficio que se espera obtener.",
+        "La probabilidad de perder el capital."
+    ],
+    "respuestaCorrecta": "El beneficio que se espera obtener."
+    },
+    {
+    "id": 114,
+    "pregunta": "Señala la afirmación incorrecta respecto al mercado de valores:",
+    "opciones": [
+        "Pone en contacto a los demandantes de capital y a los oferentes de recursos financieros.",
+        "Garantiza que todas las inversiones sean seguras y sin riesgo.",
+        "Contribuye al crecimiento económico y al incremento del ahorro para los inversores.",
+        "Permite que los demandantes obtengan financiación."
+    ],
+    "respuestaCorrecta": "Garantiza que todas las inversiones sean seguras y sin riesgo."
+    },
+    {
+    "id": 115,
+    "pregunta": "¿Cómo se denomina el instrumentos financiero que supone un contrato que da el derecho, pero no la obligación, de comprar o vender un activo a un precio preestablecido en el futuro?",
+    "opciones": [
+        "Obligaciones.",
+        "Futuros.",
+        "Opciones.",
+        "Ninguna de la anterior es correcta."
+    ],
+    "respuestaCorrecta": "Opciones."
+    },
+    {
+    "id": 116,
+    "pregunta": "¿Cómo se denomina el instrumento financiero que supone un contrato en el que dos partes acuerdan comprar o vender un activo a un precio fijado hoy, con entrega y pago en una fecha futura?",
+    "opciones": [
+        "Obligaciones.",
+        "Futuros.",
+        "Opciones.",
+        "Ninguna de la anterior es correcta."
+    ],
+    "respuestaCorrecta": "Futuros."
+    },
+    {
+    "id": 117,
+    "pregunta": "¿Cómo se denomina el mercado unificado en el que se negocian las principales acciones españolas?",
+    "opciones": [
+        "Mercado Primario.",
+        "Mercado Ibérico.",
+        "Mercado Interbancario.",
+        "Mercado Continuo."
+    ],
+    "respuestaCorrecta": "Mercado Continuo."
+    },
+    {
+    "id": 118,
+    "pregunta": "¿Qué son los valores mobiliarios?",
+    "opciones": [
+        "Bienes materiales propiedad de una empresa cuya adquisición supone una gran inversión financiera.",
+        "Instrumentos financieros que representan deuda o capital de una empresa.",
+        "Préstamos bancarios a corto plazo que encontramos en el mercado interbancario.",
+        "Servicios financieros que ofrecen los intermediarios que componen el mercado de valores."
+    ],
+    "respuestaCorrecta": "Instrumentos financieros que representan deuda o capital de una empresa."
+    },
+    {
+    "id": 119,
+    "pregunta": "A través de SIBE:",
+    "opciones": [
+        "Se pagan y entregan los valores negociados a los emisores y compradores de las acciones negociadas.",
+        "Se compran bonos y obligaciones por los agentes intervinientes en el mercado bursátil español.",
+        "Se determina el precio de las acciones cuando coinciden en precio y cantidad las órdenes de compra y venta.",
+        "Se otorgan dividendos y plusvalías a los accionistas del mercado español."
+    ],
+    "respuestaCorrecta": "Se determina el precio de las acciones cuando coinciden en precio y cantidad las órdenes de compra y venta."
+    },
+    {
+    "id": 120,
+    "pregunta": "¿Cuál es la función principal de la Bolsa de Valores?",
+    "opciones": [
+        "Controlar el sistema financiero español en su totalidad.",
+        "Transferir el exceso de liquidez hacia la inversión.",
+        "Fijar los tipos de interés oficiales.",
+        "Garantizar beneficios a los inversores."
+    ],
+    "respuestaCorrecta": "Transferir el exceso de liquidez hacia la inversión."
+    },
+    {
+    "id": 121,
+    "pregunta": "¿Con qué finalidad suelen utilizar la Bolsa las grandes empresas?",
+    "opciones": [
+        "Para obtener dividendos a corto plazo.",
+        "Para ahorrar excedentes de tesorería.",
+        "Con fines estratégicos, como el control o participación en otras empresas.",
+        "Para evitar el endeudamiento bancario."
+    ],
+    "respuestaCorrecta": "Con fines estratégicos, como el control o participación en otras empresas."
+    },
+    {
+    "id": 122,
+    "pregunta": "¿Cómo debe operar el cliente bursátil para invertir en el mercado de valores?",
+    "opciones": [
+        "Formalizando un contrato directamente con la Bolsa de Madrid.",
+        "A través de cualquier entidad financiera española.",
+        "Mediante un intermediario autorizado por la CNMV.",
+        "Mediante la apertura de una cuenta individual en BME Clearing."
+    ],
+    "respuestaCorrecta": "Mediante un intermediario autorizado por la CNMV."
+    },
+    {
+    "id": 123,
+    "pregunta": "Los valores de renta fija se caracterizan por:",
+    "opciones": [
+        "No representar deuda.",
+        "Representar participación en el capital.",
+        "Garantizar un interés fijo o variable durante un período.",
+        "No ofrecer ningún tipo de interés."
+    ],
+    "respuestaCorrecta": "Garantizar un interés fijo o variable durante un período."
+    },
+    {
+    "id": 124,
+    "pregunta": "Los valores de renta variable se caracterizan por:",
+    "opciones": [
+        "Garantizar una rentabilidad fija.",
+        "Suelen materializarse a través de Letras del Tesoro, Bonos y Obligaciones del Estado.",
+        "Representar participación en el capital sin rentabilidad garantizada.",
+        "Tener siempre vinculado un interés fijo."
+    ],
+    "respuestaCorrecta": "Representar participación en el capital sin rentabilidad garantizada."
+    },
+    {
+    "id": 125,
+    "pregunta": "¿Qué buscan los fondos indexados?",
+    "opciones": [
+        "Invertir principalmente en bonos del Estado.",
+        "Replicar el comportamiento de un índice bursátil.",
+        "Comprar acciones de empresas privadas con poca representación en el mercado bursátil.",
+        "Mantener siempre un valor fijo de la inversión, posibilitando la premisa de ser un instrumento financiero estable."
+    ],
+    "respuestaCorrecta": "Replicar el comportamiento de un índice bursátil."
+    },
+    {
+    "id": 126,
+    "pregunta": "¿Cómo se denomina la Institución de Inversión Colectiva (IIC) que agrupa el dinero de muchos inversores (partícipes) y un gestor profesional lo invierte en una cartera diversificada de activos?",
+    "opciones": [
+        "Participación preferente.",
+        "Fondo de inversión.",
+        "ETFs.",
+        "SICAV."
+    ],
+    "respuestaCorrecta": "Fondo de inversión."
+    },
+    {
+    "id": 127,
+    "pregunta": "¿Cómo se denomina la operación financiera que constituye el mecanismo más habitual para que una compañía salga a bolsa?",
+    "opciones": [
+        "OPV.",
+        "OPA.",
+        "OPB.",
+        "OPN."
+    ],
+    "respuestaCorrecta": "OPV."
+    },
+    {
+    "id": 128,
+    "pregunta": "¿Cómo se denomina la operación financiera mediante la cual una persona física o jurídica ofrece a los accionistas de una empresa cotizada comprar sus acciones a un precio determinado y dentro de un plazo máximo de aceptación?",
+    "opciones": [
+        "OPV.",
+        "OPA.",
+        "OPB.",
+        "OPN."
+    ],
+    "respuestaCorrecta": "OPA."
+    },
+    {
+    "id": 129,
+    "pregunta": "Dentro de la normativa MiFID, ¿cómo se denomina la prueba que evalúa si el cliente tiene los conocimientos suficientes para comprender un producto financiero específico?",
+    "opciones": [
+        "El test de rentabilidad.",
+        "El test de conveniencia.",
+        "El test de idoneidad.",
+        "El test de solvencia bancaria."
+    ],
+    "respuestaCorrecta": "El test de conveniencia."
+    },
+    {
+    "id": 130,
+    "pregunta": "Dentro de la normativa MiFID, ¿cómo se denomina la prueba que analiza la situación financiera y los objetivos de inversión del cliente para ofrecerle recomendaciones personalizadas?",
+    "opciones": [
+        "El test de rentabilidad.",
+        "El test de conveniencia.",
+        "El test de idoneidad.",
+        "El test de solvencia bancaria."
+    ],
+    "respuestaCorrecta": "El test de idoneidad."
+    },
+    {
+    "id": 131,
+    "pregunta": "¿Cómo se denomina la ley que regula la bolsa española?",
+    "opciones": [
+        "Ley Regulatoria de Acciones.",
+        "Ley del Mercado de Valores.",
+        "Ley IBEX 35.",
+        "Ley de Protección de los Inversores (LPI)."
+    ],
+    "respuestaCorrecta": "Ley del Mercado de Valores."
+    },
+    {
+    "id": 132,
+    "pregunta": "¿Qué es la liquidación en el proceso de inversión?",
+    "opciones": [
+        "Cobros y abonos del efectivo resultante de las operaciones de inversión.",
+        "Transferencia de los valores entre el transmisor y el adquirente.",
+        "Pago de los intereses de la inversión.",
+        "Garantía de devolución de capital."
+    ],
+    "respuestaCorrecta": "Transferencia de los valores entre el transmisor y el adquirente."
+    },
+    {
+    "id": 133,
+    "pregunta": "¿Cuál es la diferencia principal entre renta fija pública y privada?",
+    "opciones": [
+        "La pública se emite por el sector público y la privada por el sector privado.",
+        "La pública contempla instrumentos financieros que generan intereses implícitos y la privada intereses explícitos.",
+        "La pública contempla instrumentos financieros corto plazo y la privada instrumentos financieros a largo plazo.",
+        "Todas las anteriores son correctas."
+    ],
+    "respuestaCorrecta": "La pública se emite por el sector público y la privada por el sector privado."
+    },
+    {
+    "id": 134,
+    "pregunta": "¿Cuál es la función de BME Clearing?",
+    "opciones": [
+        "Gestionar la liquidación de acciones.",
+        "Actuar como garante de las operaciones, especialmente en valores complejos como derivados.",
+        "Coordinar todas las bolsas de España.",
+        "Supervisar la transparencia de los mercados."
+    ],
+    "respuestaCorrecta": "Actuar como garante de las operaciones, especialmente en valores complejos como derivados."
+    },
+    {
+    "id": 135,
+    "pregunta": "¿Qué es la rentabilidad por dividendo?",
+    "opciones": [
+        "La diferencia entre el precio de venta y el precio de compra de una acción.",
+        "La parte del beneficio que la sociedad acuerda repartir entre sus accionistas.",
+        "La rentabilidad obtenida por vender derechos de suscripción preferente.",
+        "La ganancia obtenida al vender todas las acciones de la empresa."
+    ],
+    "respuestaCorrecta": "La parte del beneficio que la sociedad acuerda repartir entre sus accionistas."
+    },
+    {
+    "id": 136,
+        "pregunta": "¿Qué ocurre si el precio de venta de una acción es superior al de compra?",
+        "opciones": [
+        "Se obtiene una plusvalía.",
+        "Se obtiene una minusvalía.",
+        "Se recibe un dividendo.",
+        "Se realiza una OPA."
+        ],
+        "respuestaCorrecta": "Se obtiene una plusvalía."
+    },
+    {
+        "id": 137,
+        "pregunta": "La rentabilidad por ampliaciones de capital permite al accionista obtener posibles beneficios mediante:",
+        "opciones": [
+        "El cobro de dividendo fijo anual garantizado.",
+        "La venta de derechos de suscripción preferente en el mercado.",
+        "El aumento automático del precio de la acción.",
+        "La participación en una OPV."
+        ],
+        "respuestaCorrecta": "La venta de derechos de suscripción preferente en el mercado."
+    },
+    {
+        "id": 138,
+        "pregunta": "¿Por qué los activos de renta fija reciben ese nombre?",
+        "opciones": [
+        "Porque su precio en el mercado no varía nunca, es decir, el precio es fijo.",
+        "Porque los intereses están pactados en el momento de la emisión y se conoce de antemano la rentabilidad.",
+        "Porque provienen del sector público, el cual ofrece un nivel de seguridad fijo.",
+        "Porque no generan intereses fijos."
+        ],
+        "respuestaCorrecta": "Porque los intereses están pactados en el momento de la emisión y se conoce de antemano la rentabilidad."
+    },
+    {
+        "id": 139,
+        "pregunta": "¿Quién protege a los inversores asegurando la transparencia y la correcta formación de precios?",
+        "opciones": [
+        "Iberclear.",
+        "BME Clearing.",
+        "CNMV.",
+        "SIBE."
+        ],
+        "respuestaCorrecta": "CNMV."
+    },
+    {
+        "id": 140,
+        "pregunta": "¿Qué función desempeñan los intermediarios en el mercado de valores?",
+        "opciones": [
+        "Fijan el precio de las acciones.",
+        "Garantizan beneficios a los inversores.",
+        "Ejecutan las órdenes de compra y venta de valores.",
+        "Supervisan el cumplimiento de la ley."
+        ],
+        "respuestaCorrecta": "Ejecutan las órdenes de compra y venta de valores."
+    },
+    {
+        "id": 141,
+        "pregunta": "¿Cómo se seleccionan los valores que forman el IBEX 35?",
+        "opciones": [
+        "Por la importancia de su sector económico.",
+        "Por decisión del Gobierno.",
+        "Por su volumen de negociación y frecuencia de cotización.",
+        "Por su rentabilidad anual y relevancia histórica de la empresa en el mercado económico español."
+        ],
+        "respuestaCorrecta": "Por su volumen de negociación y frecuencia de cotización."
+    },
+    {
+        "id": 142,
+        "pregunta": "¿Qué es el SIBE?",
+        "opciones": [
+        "Un organismo supervisor del mercado de valores.",
+        "Un índice bursátil español.",
+        "Un mercado exclusivo para deuda pública.",
+        "Un sistema que conecta en tiempo real las bolsas españolas."
+        ],
+        "respuestaCorrecta": "Un sistema que conecta en tiempo real las bolsas españolas."
+    },
+    {
+        "id": 143,
+        "pregunta": "Señala la afirmación correcta sobre la diferencia o similitud entre una orden de mercado y una orden por lo mejor:",
+        "opciones": [
+        "Ambas órdenes fijan siempre un precio límite máximo o mínimo para su ejecución.",
+        "La orden por lo mejor siempre se ejecuta completamente a distintos precios disponibles, mientras que la de mercado a un único precio.",
+        "La orden de mercado solo se ejecuta si encuentra suficiente contrapartida a un mismo precio disponible.",
+        "La orden de mercado prioriza la rapidez de ejecución, mientras que la orden por lo mejor prioriza el precio, pero sin renunciar totalmente a la ejecución inmediata."
+        ],
+        "respuestaCorrecta": "La orden de mercado prioriza la rapidez de ejecución, mientras que la orden por lo mejor prioriza el precio, pero sin renunciar totalmente a la ejecución inmediata."
+    },
+    {
+        "id": 144,
+        "pregunta": "¿Cuál es la función principal de los índices bursátiles?",
+        "opciones": [
+        "Analizar cada acción individualmente.",
+        "Actuar como referencia del mercado obligando a todas las acciones incluidas en el índice a ajustarse a la misma tendencia.",
+        "Mostrar detalladamente los valores que suben en una jornada bursátil.",
+        "Reflejar la actividad y evolución de un conjunto de valores cotizados y, por tanto, la tendencia del mercado."
+        ],
+        "respuestaCorrecta": "Reflejar la actividad y evolución de un conjunto de valores cotizados y, por tanto, la tendencia del mercado."
+    },
+    {
+        "id": 145,
+        "pregunta": "¿Cuál de los siguientes instrumentos de renta fija privada tiene un mayor riesgo?",
+        "opciones": [
+        "Pagarés de empresa.",
+        "Bonos y obligaciones simples.",
+        "Obligaciones subordinadas.",
+        "Obligaciones preferentes."
+        ],
+        "respuestaCorrecta": "Obligaciones preferentes."
+    },
+    {
+        "id": 146,
+        "pregunta": "¿Cuál es la principal diferencia entre una SICAV y un fondo de inversión?",
+        "opciones": [
+        "La SICAV invierte solo en renta fija y el fondo solo en renta variable.",
+        "La SICAV es una sociedad anónima y el fondo de inversión no.",
+        "La SICAV emite participaciones y el fondo emite acciones.",
+        "No existe ninguna diferencia."
+        ],
+        "respuestaCorrecta": "La SICAV es una sociedad anónima y el fondo de inversión no."
+    },
+    {
+        "id": 147,
+        "pregunta": "¿Cuál es la principal diferencia entre ETFs y fondos indexados?",
+        "opciones": [
+        "Los ETFs se pueden comprar y vender en tiempo real en bolsa, mientras que los fondos indexados solo al valor liquidativo del cierre del día.",
+        "Los fondos indexados permiten diversificar, mientras que los ETFs solo invierten en acciones de una única empresa en tiempo real.",
+        "Los ETFs no persiguen replicar índices bursátiles, mientras que en los fondos indexados es su principal objetivo.",
+        "No existe ninguna diferencia, dado que se trata de la misma tipología de producto."
+        ],
+        "respuestaCorrecta": "Los ETFs se pueden comprar y vender en tiempo real en bolsa, mientras que los fondos indexados solo al valor liquidativo del cierre del día."
+    },
+    {
+        "id": 148,
+        "pregunta": "¿Según qué criterio se clasifican las órdenes cuando se tiene en cuenta el tiempo que permanecen activas en el mercado?",
+        "opciones": [
+        "Según el precio.",
+        "Según la ejecución.",
+        "Según la vigencia de la orden.",
+        "Según el intermediario."
+        ],
+        "respuestaCorrecta": "Según la vigencia de la orden."
+    },
+    {
+        "id": 149,
+        "pregunta": "¿Cuál de los siguientes instrumentos de renta fija suele ofrecer mayor rentabilidad?",
+        "opciones": [
+        "Instrumentos de deuda privada, porque las empresas asumen mayor riesgo que el Estado.",
+        "Instrumentos de deuda pública, porque están garantizados por el Estado.",
+        "Instrumentos de renta variable, como las acciones, porque su precio fluctúa en bolsa.",
+        "Instrumentos de pasivo, como los depósitos a plazo fijo, porque ofrecen rentabilidad fija garantizada."
+        ],
+        "respuestaCorrecta": "Instrumentos de deuda privada, porque las empresas asumen mayor riesgo que el Estado."
+    },
+    {
+        "id": 150,
+        "pregunta": "¿Cómo se denomina el precio público que tiene cada acción en bolsa y que se determina en régimen de mercado mediante la confrontación de la oferta y la demanda?",
+        "opciones": [
+        "Valor contable.",
+        "Cotización",
+        "Volatilidad.",
+        "Precio de emisión."
+        ],
+        "respuestaCorrecta": "Cotización"
+    },
+    {
+        "id": 151,
+        "pregunta": "¿Dónde se realiza la negociación de los valores mobiliarios?",
+        "opciones": [
+        "En el mercado de valores.",
+        "En el mercado monetario.",
+        "En el mercado de bienes.",
+        "En el mercado inversionista."
+        ],
+        "respuestaCorrecta": "En el mercado de valores."
+    },
+    {
+        "id": 152,
+        "pregunta": "La actividad aseguradora está basada en el principio de:",
+        "opciones": [
+        "Rentabilidad, cuyo objetivo principal es que el asegurador maximice sus beneficios económicos sin tener en cuenta las necesidades reales de los asegurados.",
+        "Individualidad, que consiste en que cada asegurado asume los riesgos únicamente según sus propios aportes sin depender del grupo o colectivo asegurado.",
+        "Solidaridad, que se fundamenta en el reparto de los daños o las consecuencias ocasionadas por un siniestro entre las muchas personas que están bajo un mismo riesgo.",
+        "Competitividad, que se basa en la rivalidad entre aseguradoras para determinar quién ofrece las mejores primas, sin importar la cobertura del riesgo."
+        ],
+        "respuestaCorrecta": "Solidaridad, que se fundamenta en el reparto de los daños o las consecuencias ocasionadas por un siniestro entre las muchas personas que están bajo un mismo riesgo."
+    },
+    {
+        "id": 153,
+        "pregunta": "Una compañía de seguros evalúa distintos riesgos para determinar la prima que debe cobrar a sus clientes. Si un riesgo específico aumenta su probabilidad de ocurrencia, ¿qué efecto tendría esto sobre la prima que la aseguradora debería aplicar?",
+        "opciones": [
+        "La prima disminuiría, porque el riesgo es más frecuente y la aseguradora puede repartirlo mejor.",
+        "La prima se mantendría igual, ya que la probabilidad del riesgo no afecta directamente al precio del seguro.",
+        "La prima aumentaría, porque la aseguradora necesita compensar el mayor riesgo de pérdida.",
+        "El seguro se eliminaría automáticamente, porque no se pueden cubrir riesgos frecuentes."
+        ],
+        "respuestaCorrecta": "La prima aumentaría, porque la aseguradora necesita compensar el mayor riesgo de pérdida."
+    },
+    {
+        "id": 154,
+        "pregunta": "El seguro multirriesgo permite:",
+        "opciones": [
+        "No pagar primas.",
+        "Eliminar riesgos.",
+        "Evitar contratar varios seguros.",
+        "El seguro multirriesgo cubre actividades lúdico-deportivas de alto riesgo, como el parapente, escalada u otros deportes extremos."
+        ],
+        "respuestaCorrecta": "Evitar contratar varios seguros."
+    },
+    {
+        "id": 155,
+        "pregunta": "Señala la afirmación correcta en relación con el seguro de responsabilidad civil:",
+        "opciones": [
+        "El seguro de responsabilidad civil es opcional en todas las profesiones.",
+        "Este seguro protege al asegurado frente a la obligación de indemnizar a un tercero por daños causados, siempre que estos daños estén incluidos en el contrato del seguro.",
+        "Solo las personas con profesiones de alto riesgo pueden contratar un seguro de responsabilidad civil, ya que no se aplica a actividades cotidianas como conducir o ser propietaria de una vivienda.",
+        "En ningún caso el seguro de responsabilidad civil puede incluirse como una cláusula por defecto en otros seguros."
+        ],
+        "respuestaCorrecta": "Este seguro protege al asegurado frente a la obligación de indemnizar a un tercero por daños causados, siempre que estos daños estén incluidos en el contrato del seguro."
+    },
+    {
+        "id": 156,
+        "pregunta": "¿Qué suele cubrir un seguro de comunidad que contrata un bloque de vecinos?",
+        "opciones": [
+        "Los elementos comunes del edificio y la responsabilidad civil frente a terceros.",
+        "Solo los inmuebles y muebles privados de cada vecino.",
+        "Solo el contenido de los pisos y locales de los propietarios.",
+        "Solo el continente del edificio."
+        ],
+        "respuestaCorrecta": "Los elementos comunes del edificio y la responsabilidad civil frente a terceros."
+    },
+    {
+        "id": 157,
+        "pregunta": "La prima es:",
+        "opciones": [
+        "La indemnización en un seguro.",
+        "El precio del seguro.",
+        "El riesgo en un seguro.",
+        "El siniestro del seguro."
+        ],
+        "respuestaCorrecta": "El precio del seguro."
+    },
+    {
+        "id": 158,
+        "pregunta": "¿Cómo se denomina el seguro que cubre la pérdida de ingresos o beneficios que sufre una persona o una empresa debido a la interrupción de su actividad por un evento inesperado?",
+        "opciones": [
+        "Seguro de lucro cesante.",
+        "Seguro de crédito.",
+        "Seguro de caución.",
+        "Seguro de empresa."
+        ],
+        "respuestaCorrecta": "Seguro de lucro cesante."
+    },
+    {
+        "id": 159,
+        "pregunta": "Para que un riesgo sea asegurable se debe cumplir la siguiente condición:",
+        "opciones": [
+        "Que no se pueda cuantificar económicamente.",
+        "Que sea sobre algo ilícito.",
+        "Que sea accidental o fortuito.",
+        "Que produzca lucro."
+        ],
+        "respuestaCorrecta": "Que sea accidental o fortuito."
+    },
+    {
+        "id": 160,
+        "pregunta": "Un riesgo asegurable debe ser:",
+        "opciones": [
+        "Ilícito.",
+        "Seguro.",
+        "Accidental.",
+        "Obligatorio."
+        ],
+        "respuestaCorrecta": "Accidental."
+    },
+    {
+    "id": 161,
+    "pregunta": "El Consorcio se financia mediante:",
+    "opciones": [
+        "Impuestos generales.",
+        "Donaciones privadas.",
+        "Recargos en las primas.",
+        "Presupuestos Generales del Estado."
+    ],
+    "respuestaCorrecta": "Recargos en las primas."
+    },
+    {
+    "id": 162,
+    "pregunta": "¿Cuál es el principal objetivo de los seguros?",
+    "opciones": [
+        "Proteger frente a riesgos y aliviar las consecuencias económicas de contingencias.",
+        "Eliminar todos los riesgos de la vida humana, asegurando que nunca existan peligros ni situaciones inesperadas.",
+        "Garantizar la no ocurrencia de contingencias.",
+        "Aumentar el patrimonio de las personas o empresas que contratan un seguro."
+    ],
+    "respuestaCorrecta": "Proteger frente a riesgos y aliviar las consecuencias económicas de contingencias."
+    },
+    {
+    "id": 163,
+    "pregunta": "En una póliza de seguro de automóvil, la responsabilidad civil voluntaria:",
+    "opciones": [
+        "Amplía la cobertura de RC obligatoria frente a terceros.",
+        "Sustituye a la obligatoria por ley.",
+        "Elimina riesgos.",
+        "Es ilegal."
+    ],
+    "respuestaCorrecta": "Amplía la cobertura de RC obligatoria frente a terceros."
+    },
+    {
+    "id": 164,
+    "pregunta": "Los seguros patrimoniales se diferencian de los personales porque:",
+    "opciones": [
+        "Buscan cubrir los riesgos que pueden provocar pérdidas económicas o daños en el patrimonio.",
+        "Son obligatorios para todos los ciudadanos que poseen un patrimonio, los seguros personales en cambio no.",
+        "Cubren exclusivamente riesgos sobre personas (vida, salud o accidentes).",
+        "Solo afectan a la capacidad de solvencia del asegurado."
+    ],
+    "respuestaCorrecta": "Buscan cubrir los riesgos que pueden provocar pérdidas económicas o daños en el patrimonio."
+    },
+    {
+    "id": 165,
+    "pregunta": "Indica cuál de las siguientes definiciones es incorrecta:",
+    "opciones": [
+        "Definimos siniestro como el hecho que ocurre cuando el riesgo sobre el objeto asegurado se materializa, lo que obliga al asegurador a cubrir los daños siempre que estén incluidos en la póliza.",
+        "La indemnización o prestación es el importe monetario que la compañía aseguradora paga a la persona beneficiaria del seguro en el caso de materializarse alguno de los riesgos asegurados o siniestro.",
+        "El riesgo es el suceso futuro e incierto que no depende exclusivamente de la voluntad de las partes tomadora, asegurada o beneficiaria, y cuya materialización da origen a la obligación de la empresa de seguros.",
+        "La prima es el precio que paga la aseguradora al asegurado tras tener lugar el siniestro, como contraprestación por la cobertura de los riesgos contemplados en la póliza, siempre que se cumplan las condiciones legales y los términos establecidos en el contrato."
+    ],
+    "respuestaCorrecta": "La prima es el precio que paga la aseguradora al asegurado tras tener lugar el siniestro, como contraprestación por la cobertura de los riesgos contemplados en la póliza, siempre que se cumplan las condiciones legales y los términos establecidos en el contrato."
+    },
+    {
+    "id": 166,
+    "pregunta": "Indica cuál de las siguientes afirmaciones es correcta en relación a la cobertura de daños en el seguro de robo:",
+    "opciones": [
+        "Cubre los daños por desaparición, destrucción o deterioro de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia o fuerza sobre dichos objetos.",
+        "Cubre los daños por desaparición o destrucción de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia, pero el deterioro de los objetos en ningún caso está cubierto.",
+        "Solo cubre los daños si los objetos asegurados son recuperados tras el robo.",
+        "Cubre los daños únicamente si el robo es perpetrado sin que se medie violencia e intimidación, ni fuerza sobre objetos."
+    ],
+    "respuestaCorrecta": "Cubre los daños por desaparición, destrucción o deterioro de los objetos asegurados siempre que hayan sido ocasionados por personas ajenas a la asegurada y haya existido alguna clase de violencia o fuerza sobre dichos objetos."
+    },
+    {
+    "id": 167,
+    "pregunta": "El seguro de defensa jurídica es un tipo de:",
+    "opciones": [
+        "Seguro ilícito.",
+        "Seguro obligatorio.",
+        "Seguro personal.",
+        "Seguro patrimonial."
+    ],
+    "respuestaCorrecta": "Seguro patrimonial."
+    },
+    {
+    "id": 168,
+    "pregunta": "La cobertura del seguro es:",
+    "opciones": [
+        "El alcance de los riesgos protegidos.",
+        "El nombre del beneficiario del seguro.",
+        "El valor del bien asegurado.",
+        "El precio del seguro."
+    ],
+    "respuestaCorrecta": "El alcance de los riesgos protegidos."
+    },
+    {
+    "id": 169,
+    "pregunta": "Señala cuál de las siguientes afirmaciones es incorrecta en relación a las funciones del Consorcio de Compensación de Seguros:",
+    "opciones": [
+        "Indemnizar a aquellas personas cubiertas por seguros privados que sufren daños personales y materiales como consecuencia de riesgos extraordinarios excluidos en los seguros privados (riadas, inundaciones, terremotos....).",
+        "Indemnizar a aquellas personas afectadas por un siniestro cuyo causante no dispone de seguro obligatorio, o bien se desconoce su identidad.",
+        "Indemnizar a los asegurados que sufren daños materiales por causas ordinarias cubiertas por seguros privados.",
+        "Interviene en situaciones en las que una aseguradora no puede pagar las indemnizaciones porque se encuentra en quiebra o liquidación, asegurando que los afectados reciban lo que les corresponde."
+    ],
+    "respuestaCorrecta": "Indemnizar a los asegurados que sufren daños materiales por causas ordinarias cubiertas por seguros privados."
+    },
+    {
+    "id": 170,
+    "pregunta": "Señala la opción falsa respecto a los componentes del contrato de seguro:",
+    "opciones": [
+        "La parte aseguradora es la entidad o compañía de seguros que asume los riesgos previstos en el contrato y se compromete a abonar la indemnización en caso de siniestro, y es quien emite y entrega la póliza de seguro.",
+        "La parte tomadora es quien pacta y suscribe el contrato de seguro con la parte aseguradora.",
+        "La parte asegurada es la persona que suscribe el contrato de seguro y paga la prima y puede coincidir con la parte beneficiaria.",
+        "La parte beneficiaria es la persona designada para percibir la prestación del seguro contratado, y puede coincidir con la parte tomadora, asegurada o ser una persona distinta."
+    ],
+    "respuestaCorrecta": "La parte asegurada es la persona que suscribe el contrato de seguro y paga la prima y puede coincidir con la parte beneficiaria."
+    },
+    {
+    "id": 171,
+    "pregunta": "Supón que aseguras tu vivienda, cuyo valor real es de 100.000 €, pero la declaras en la póliza por 150.000 €. En caso de siniestro, ¿qué efecto tiene esta valoración sobre la indemnización?",
+    "opciones": [
+        "Se cobrará una indemnización basada en los 150.000 € declarados.",
+        "Se cobrará una indemnización superior al daño realmente sufrido, consecuencia de haber pagado una prima mayor hasta que ocurre el siniestro.",
+        "Se cobrará únicamente el daño efectivamente causado, aplicando el principio de proporcionalidad.",
+        "No se cobrará ninguna indemnización, debido a la existencia de un sobreaseguro."
+    ],
+    "respuestaCorrecta": "Se cobrará únicamente el daño efectivamente causado, aplicando el principio de proporcionalidad."
+    },
+    {
+    "id": 172,
+    "pregunta": "El Consorcio de Compensación de Seguros es:",
+    "opciones": [
+        "Una entidad privada que cubre los riesgos extraordinarios que no asumen las aseguradoras privadas.",
+        "Un organismo público que garantiza la cobertura de riesgos extraordinarios que las aseguradoras privadas no asuman o que exceden su capacidad de cobertura.",
+        "Una aseguradora financiada con fondos públicos que ofrece seguros más competitivos que las compañías privadas.",
+        "Es el organismo público encargado de definir la obligatoriedad de las coberturas en las distintas modalidades de seguros."
+    ],
+    "respuestaCorrecta": "Un organismo público que garantiza la cobertura de riesgos extraordinarios que las aseguradoras privadas no asuman o que exceden su capacidad de cobertura."
+    },
+    {
+    "id": 173,
+    "pregunta": "¿Cuál de las siguientes opciones corresponde a la definición de seguro?",
+    "opciones": [
+        "Aquel contrato por el que la parte aseguradora asume cualquier tipo de riesgo sin necesidad de establecer condiciones, garantizando que la parte asegurada recibirá una indemnización por cualquier eventualidad, incluso si no está relacionada con los términos del contrato firmado previamente.",
+        "Aquel contrato por el que la parte aseguradora se obliga, mediante el cobro de una prima y para el caso de que se produzca el evento cuyo riesgo es objeto de cobertura, a indemnizar, dentro de los límites pactados, el daño producido a la parte asegurada o a satisfacer un capital, una renta u otras prestaciones convenidas.",
+        "Aquel contrato que garantiza la eliminación total y absoluta de todos los riesgos posibles que puedan afectar a la parte asegurada, asegurando que nunca sufrirá ninguna pérdida ni daño a cambio de una prima establecida al inicio del acuerdo.",
+        "Aquel contrato mediante el cual la parte aseguradora se compromete a ofrecer asesoramiento financiero y servicios relacionados, sin que exista obligación alguna de indemnizar daños o cubrir riesgos específicos vinculados a la vida o el patrimonio de la parte asegurada."
+    ],
+    "respuestaCorrecta": "Aquel contrato por el que la parte aseguradora se obliga, mediante el cobro de una prima y para el caso de que se produzca el evento cuyo riesgo es objeto de cobertura, a indemnizar, dentro de los límites pactados, el daño producido a la parte asegurada o a satisfacer un capital, una renta u otras prestaciones convenidas."
+    },
+    {
+    "id": 174,
+    "pregunta": "En el contexto de los seguros, ¿qué se entiende por interés asegurable?",
+    "opciones": [
+        "Es el beneficio económico que obtiene el asegurado al contratar un seguro.",
+        "Es el interés económico que tiene el asegurado en conservar el bien, de modo que sufriría una pérdida si éste se daña o desaparece.",
+        "Representa el valor sentimental que el asegurado siente por el bien asegurado y que motiva al mismo a la contratación de un seguro.",
+        "Se refiere al importe de la prima que se debe pagar para cubrir el riesgo."
+    ],
+    "respuestaCorrecta": "Es el interés económico que tiene el asegurado en conservar el bien, de modo que sufriría una pérdida si éste se daña o desaparece."
+    },
+    {
+    "id": 175,
+    "pregunta": "El contrato de seguro se denomina:",
+    "opciones": [
+        "Póliza.",
+        "Recibo.",
+        "Factura",
+        "Aval."
+    ],
+    "respuestaCorrecta": "Póliza."
+    },
+    {
+    "id": 176,
+    "pregunta": "Si un daño ocurre debido a la intencionalidad del asegurado frente a un riesgo, ¿qué ocurre con respecto a la cobertura?",
+    "opciones": [
+        "El seguro cubre el daño como cualquier otro siniestro, por lo que es indiferente frente al mismo.",
+        "El daño no queda cubierto, porque los seguros excluyen pérdidas provocadas intencionadamente por el asegurado.",
+        "Se paga la mitad de la indemnización, como penalización.",
+        "Las posteriores primas del seguro se aumentan, como compensación a la compañía aseguradora por asumir la culpa."
+    ],
+    "respuestaCorrecta": "El daño no queda cubierto, porque los seguros excluyen pérdidas provocadas intencionadamente por el asegurado."
+    },
+    {
+    "id": 177,
+    "pregunta": "Indica la opción correcta respecto a los seguros obligatorios:",
+    "opciones": [
+        "Son exigidos por la ley.",
+        "Son gratuitos y financiados por el Consorcio de Seguros.",
+        "Son contratados siempre por decisión voluntaria del cliente.",
+        "Son seguros que solo cubren daños propios, sin responsabilidad frente a terceros."
+    ],
+    "respuestaCorrecta": "Son exigidos por la ley."
+    },
+    {
+    "id": 178,
+    "pregunta": "Como se denomina el seguro donde la parte aseguradora se obliga, en caso de incumplimiento por la tomadora del seguro de sus obligaciones legales o contractuales a indemnizar a la parte asegurada a título de resarcimiento o penalidad los daños patrimoniales sufridos.",
+    "opciones": [
+        "Seguro de crédito.",
+        "Seguro de caución.",
+        "Seguro de lucro cesante.",
+        "Seguro de empresas."
+    ],
+    "respuestaCorrecta": "Seguro de caución."
+    },
+    {
+    "id": 179,
+    "pregunta": "Indica cuál de las siguientes afirmaciones es falsa en relación al seguro de hogar y empresa:",
+    "opciones": [
+        "Se trata de un seguro de la rama de multirriesgo, dado que la misma póliza cubre tanto riesgos personales como patrimoniales.",
+        "El continente incluye los elementos constructivos y estructurales de un edificio, vivienda o local, como las instalaciones de agua, saneamiento, electricidad y la parte estructural, entre otros aspectos.",
+        "El contenido incluye muebles, electrodomésticos, ropa, maquinaria, joyas u otros elementos que se encuentren dentro de la vivienda o local asegurado, cuyo valor influye en la prima de la póliza.",
+        "Es obligatorio contratar tanto el continente como el contenido en todas las pólizas de hogar y empresa, sin posibilidad de asegurarlos por separado."
+    ],
+    "respuestaCorrecta": "Es obligatorio contratar tanto el continente como el contenido en todas las pólizas de hogar y empresa, sin posibilidad de asegurarlos por separado."
+    },
+    {
+    "id": 180,
+    "pregunta": "Como se denomina el seguro donde la parte aseguradora se obliga a indemnizar a la asegurada las pérdidas finales que experimente como consecuencia de la insolvencia definitiva de sus deudores.",
+    "opciones": [
+        "Seguro de caución.",
+        "Seguro de empresa.",
+        "Seguro de lucro cesante.",
+        "Seguro de crédito."
+    ],
+    "respuestaCorrecta": "Seguro de crédito."
+    },
+    {
+    "id": 181,
+    "pregunta": "En caso de siniestro en el coaseguro:",
+    "opciones": [
+        "No se paga nada.",
+        "Paga el Consorcio de Seguros.",
+        "Paga la aseguradora principal.",
+        "Cada aseguradora paga su parte proporcional."
+    ],
+    "respuestaCorrecta": "Cada aseguradora paga su parte proporcional."
+    },
+    {
+    "id": 182,
+    "pregunta": "Señala la opción correcta con relación al seguro de decesos:",
+    "opciones": [
+        "El seguro de decesos cubre únicamente los gastos derivados de la incineración de la persona asegurada, dejando fuera otros servicios funerarios.",
+        "El seguro de decesos tiene como objetivo principal indemnizar a los herederos de la persona asegurada para que gestionen los gastos del funeral.",
+        "Este seguro no cubre los costes del funeral, ya que se enfoca exclusivamente de gestionar el sepelio en un momento tan delicado y difícil para los familiares de la persona fallecida.",
+        "La contratación de este seguro está limitada a personas que hayan declarado explícitamente su deseo de ser enterradas, excluyendo la casuística de incineración alguna."
+    ],
+    "respuestaCorrecta": "Este seguro no cubre los costes del funeral, ya que se enfoca exclusivamente de gestionar el sepelio en un momento tan delicado y difícil para los familiares de la persona fallecida."
+    },
+    {
+    "id": 183,
+    "pregunta": "Señala la opción correcta en relación al seguro de vida:",
+    "opciones": [
+        "El seguro de vida nunca incluye una cobertura por incapacidad, solo por fallecimiento.",
+        "En un seguro de vida, la indemnización puede ser pagada al asegurado mismo si el seguro es de vida-ahorro o a otras personas si el seguro es de vida-riesgo.",
+        "El seguro de vida-riesgo cubre únicamente el ahorro del asegurado para cuando llegue a la edad de jubilación, sin incluir la cobertura por fallecimiento.",
+        "El seguro de vida-riesgo se utiliza únicamente para cubrir los gastos del asegurado en caso de incapacidad, sin incluir el fallecimiento."
+    ],
+    "respuestaCorrecta": "En un seguro de vida, la indemnización puede ser pagada al asegurado mismo si el seguro es de vida-ahorro o a otras personas si el seguro es de vida-riesgo."
+    },
+    {
+    "id": 184,
+    "pregunta": "El copago de un seguro de salud tiene como efecto:",
+    "opciones": [
+        "Aumentar la prima.",
+        "Reducir la prima.",
+        "Aumentar las coberturas.",
+        "Evitar utilizar al máximo sus coberturas en los primeros meses y darse de baja rápidamente."
+    ],
+    "respuestaCorrecta": "Reducir la prima."
+    },
+    {
+    "id": 185,
+    "pregunta": "Indica cuál de las siguientes afirmaciones sobre los seguros de transporte es incorrecta:",
+    "opciones": [
+        "El seguro de transporte cubre los daños materiales que puedan sufrir las mercancías, el medio de transporte utilizado u otros bienes asegurados durante el traslado.",
+        "Si en un transporte multimodal no se puede determinar el momento en que ocurrió el siniestro y el transporte terrestre constituye la parte más importante, se aplicarán las normas del seguro de transporte terrestre.",
+        "En los casos donde el transporte terrestre sea accesorio de uno marítimo o aéreo, las normas del seguro terrestre se aplican a todo el transporte.",
+        "El seguro de transporte es esencial para cubrir los riesgos asociados al traslado de mercancías por carretera, barco o avión."
+    ],
+    "respuestaCorrecta": "En los casos donde el transporte terrestre sea accesorio de uno marítimo o aéreo, las normas del seguro terrestre se aplican a todo el transporte."
+    },
+    {
+    "id": 186,
+    "pregunta": "Un seguro colectivo es contratado por:",
+    "opciones": [
+        "Empresas o asociaciones para varias personas.",
+        "Una sola persona.",
+        "El Estado.",
+        "Varias aseguradoras para compartir riesgo."
+    ],
+    "respuestaCorrecta": "Empresas o asociaciones para varias personas."
+    },
+    {
+    "id": 187,
+    "pregunta": "Indica cuál de las siguientes afirmaciones sobre los seguros de vehículos es incorrecta:",
+    "opciones": [
+        "El seguro obligatorio de vehículos solo cubre la responsabilidad civil de la persona propietaria o conductora por los daños causados a terceros debido a la circulación.",
+        "Un seguro a todo riesgo incluye la reparación de todos los daños del coche asegurado, con la posibilidad de contratarlo con franquicia o sin franquicia, dependiendo de lo pactado en el contrato.",
+        "Los seguros multirriesgo para vehículos pueden incluir coberturas adicionales como daños al propio automóvil, responsabilidad civil voluntaria y seguro de vida y accidente para la persona conductora.",
+        "La franquicia de un seguro es la cantidad de dinero que la aseguradora asume automáticamente en caso de siniestro, sin que el asegurado deba aportar ninguna cantidad."
+    ],
+    "respuestaCorrecta": "La franquicia de un seguro es la cantidad de dinero que la aseguradora asume automáticamente en caso de siniestro, sin que el asegurado deba aportar ninguna cantidad."
+    },
+    {
+    "id": 188,
+    "pregunta": "Cuando el capital asegurado es igual al interés asegurable:",
+    "opciones": [
+        "Es un seguro óptimo.",
+        "Hay sobreseguro.",
+        "Hay infraseguro.",
+        "Esta situación nunca se podrá dar."
+    ],
+    "respuestaCorrecta": "Es un seguro óptimo."
+    },
+    {
+    "id": 189,
+    "pregunta": "¿Cómo se denomina el tipo de seguro en el que el asegurador compensa económicamente el daño realmente sufrido?",
+    "opciones": [
+        "Seguro de suma.",
+        "Seguro de indemnización.",
+        "Seguro patrimonial.",
+        "Todas las tipologías de seguros compensan económicamente únicamente el daño real sufrido."
+    ],
+    "respuestaCorrecta": "Seguro de indemnización."
+    },
+    {
+    "id": 190,
+    "pregunta": "En los seguros de suma:",
+    "opciones": [
+        "Se paga según el daño real.",
+        "Se paga una cantidad previamente pactada.",
+        "Se paga menos de lo contratado.",
+        "Se paga la suma total del riesgo asumido."
+    ],
+    "respuestaCorrecta": "Se paga una cantidad previamente pactada."
+    },
+    {
+    "id": 191,
+    "pregunta": "El seguro de incendio suele incluirse en:",
+    "opciones": [
+        "Seguros personales.",
+        "Seguros multirriesgo.",
+        "Seguros de responsabilidad civil.",
+        "Seguros obligatorios."
+    ],
+    "respuestaCorrecta": "Seguros multirriesgo."
+    },
+    {
+    "id": 192,
+    "pregunta": "¿Cuál de las siguientes situaciones impediría la existencia válida de un contrato de seguro por falta de un requisito esencial?",
+    "opciones": [
+        "Asegurar una vivienda por un valor inferior a su valor de mercado.",
+        "Asegurar un vehículo cuyo valor pueda estimarse económicamente.",
+        "Asegurar un bien sobre el que el tomador no tiene ningún interés en conservar.",
+        "Asegurar un bien con una cobertura limitada en la póliza."
+    ],
+    "respuestaCorrecta": "Asegurar un bien sobre el que el tomador no tiene ningún interés en conservar."
+    },
+    {
+    "id": 193,
+    "pregunta": "Una persona tiene un seguro a todo riesgo con franquicia. Se produce un accidente en el que se dañan su coche y el de un tercero. ¿Qué opción describe correctamente la cobertura?",
+    "opciones": [
+        "La aseguradora cubre todos los daños del coche del asegurado en su totalidad.",
+        "El asegurado paga la franquicia por los daños de su coche y la aseguradora cubre el resto.",
+        "La franquicia se aplica a los daños del tercero pero no a los del coche propio.",
+        "La franquicia solo se aplica si el accidente no tiene culpable identificado."
+    ],
+    "respuestaCorrecta": "El asegurado paga la franquicia por los daños de su coche y la aseguradora cubre el resto."
+    },
+    {
+    "id": 194,
+    "pregunta": "Se produce sobreseguro cuando:",
+    "opciones": [
+        "La prima pagada es superior al riesgo asumido.",
+        "La prima pagada es inferior al valor del interés asegurable.",
+        "El capital asegurado es inferior al valor real del interés asegurable.",
+        "El capital asegurado es superior al valor real del interés asegurable."
+    ],
+    "respuestaCorrecta": "El capital asegurado es superior al valor real del interés asegurable."
+    },
+    {
+    "id": 195,
+    "pregunta": "¿Cuál de las siguientes situaciones no se considera una característica del seguro de decesos?",
+    "opciones": [
+        "Reduce el impacto económico que supone un sepelio.",
+        "Facilita la realización de gestiones que podrían resultar complejas para los familiares.",
+        "Incluye la organización completa del funeral como posible prestación.",
+        "Cubre los daños causados a terceros durante el acto del enterramiento."
+    ],
+    "respuestaCorrecta": "Cubre los daños causados a terceros durante el acto del enterramiento."
+    },
+    {
+    "id": 196,
+    "pregunta": "¿Por qué es recomendable elaborar un listado detallado de objetos relevantes al asegurar el contenido?",
+    "opciones": [
+        "Para evitar que el contenido quede cubierto también como continente y se dupliquen coberturas.",
+        "Para que la aseguradora pueda aplicar una prima más baja sin incrementar riesgos.",
+        "Para permitir a la aseguradora asegurarlo correctamente y evitar infraseguro o sobreseguro.",
+        "Para que los bienes pasen automáticamente a considerarse parte estructural de la propiedad."
+    ],
+    "respuestaCorrecta": "Para permitir a la aseguradora asegurarlo correctamente y evitar infraseguro o sobreseguro."
+    },
+    {
+    "id": 197,
+    "pregunta": "¿Cuál de las siguientes situaciones no sería cubierta normalmente por un seguro de robo?",
+    "opciones": [
+        "Sustracción mediante intimidación sobre la persona.",
+        "Sustracción mediante rotura de una puerta.",
+        "Sustracción sin fuerza ni violencia.",
+        "Robo con fuerza en una ventana."
+    ],
+    "respuestaCorrecta": "Sustracción sin fuerza ni violencia."
+    },
+    {
+    "id": 198,
+    "pregunta": "En un seguro de salud, el plazo de carencia tiene como finalidad principal:",
+    "opciones": [
+        "Permitir que la aseguradora evalúe los riesgos del asegurado durante ese periodo.",
+        "Evitar que el asegurado utilice inmediatamente determinadas coberturas tras contratar el seguro.",
+        "Reducir el precio de la prima del seguro.",
+        "Garantizar la cobertura de enfermedades preexistentes."
+    ],
+    "respuestaCorrecta": "Evitar que el asegurado utilice inmediatamente determinadas coberturas tras contratar el seguro."
+    },
+    {
+    "id": 199,
+    "pregunta": "¿Cuál de las siguientes coberturas es característica de un seguro de accidentes?",
+    "opciones": [
+        "Indemnización diaria por incapacidad temporal.",
+        "Capital garantizado por jubilación.",
+        "Pago de una renta vitalicia al asegurado.",
+        "Compensación por enfermedades comunes."
+    ],
+    "respuestaCorrecta": "Indemnización diaria por incapacidad temporal."
+    },
+    {
+    "id": 200,
+    "pregunta": "¿Cuál es la limitación principal del seguro obligatorio de vehículos?",
+    "opciones": [
+        "Solo cubre daños materiales producidos por el vehículo asegurado.",
+        "Solo cubre los daños sufridos en el vehículo asegurado.",
+        "Solo cubre la responsabilidad civil frente a terceros derivada de la circulación.",
+        "Solo cubre los daños causados por el propietario del vehículo."
+    ],
+    "respuestaCorrecta": "Solo cubre la responsabilidad civil frente a terceros derivada de la circulación."
+    }
+]

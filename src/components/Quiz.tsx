@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 // Definimos la interfaz TypeScript para nuestros datos
 export interface Pregunta {
 id: number;
-pregunta: string;
+pregunta: string;   
 opciones: string[];
 respuestaCorrecta: string;
 }
@@ -15,11 +15,17 @@ const [puntuacion, setPuntuacion] = useState(0);
 const [seleccionada, setSeleccionada] = useState<string | null>(null);
 const [terminado, setTerminado] = useState(false);
 
-// Lógica para barajar y coger 50 preguntas
+// Lógica para barajar preguntas Y sus opciones correspondientes
 const iniciarQuiz = () => {
-// Si el JSON tiene menos de 50 (por ahora), coge las que haya. Si tiene 200, coge 50.
 const cantidad = Math.min(data.length, 50);
-const mezcladas = [...data].sort(() => Math.random() - 0.5).slice(0, cantidad);
+
+const mezcladas = [...data]
+    .sort(() => Math.random() - 0.5) // 1. Baraja el orden de las preguntas
+    .slice(0, cantidad)              // 2. Limita a un máximo de 50 preguntas
+    .map(preg => ({                  // 3. Modifica cada pregunta barajando sus opciones
+    ...preg,
+    opciones: [...preg.opciones].sort(() => Math.random() - 0.5)
+    }));
 
 setPreguntas(mezcladas);
 setIndiceActual(0);
@@ -81,41 +87,39 @@ return (
     
     <div className="space-y-3">
     {preguntaActual.opciones.map((opcion, index) => {
-        // Reemplaza la lógica de colorBoton dentro del .map() por esto:
-let colorBoton = "bg-slate-50 border-slate-200 text-slate-800 hover:bg-blue-50 hover:border-blue-300 hover:shadow-md";
+        let colorBoton = "bg-slate-50 border-slate-200 text-slate-800 hover:bg-blue-50 hover:border-blue-300 hover:shadow-md";
 
-if (seleccionada) {
-  if (opcion === preguntaActual.respuestaCorrecta) {
-    colorBoton = "bg-emerald-500 border-emerald-600 text-white shadow-lg scale-[1.02]";
-  } else if (opcion === seleccionada) {
-    colorBoton = "bg-rose-500 border-rose-600 text-white opacity-90";
-  } else {
-    colorBoton = "bg-slate-100 border-slate-200 text-slate-400 opacity-50";
-  }
-}
+        if (seleccionada) {
+        if (opcion === preguntaActual.respuestaCorrecta) {
+            colorBoton = "bg-emerald-500 border-emerald-600 text-white shadow-lg scale-[1.02]";
+        } else if (opcion === seleccionada) {
+            colorBoton = "bg-rose-500 border-rose-600 text-white opacity-90";
+        } else {
+            colorBoton = "bg-slate-100 border-slate-200 text-slate-400 opacity-50";
+        }
+        }
 
-return (
-    <button
-        key={index}
-        onClick={() => manejarClic(opcion)}
-        disabled={seleccionada !== null}
-        // Clases mejoradas con bordes, transiciones y escalas
-        className={`w-full text-left p-5 rounded-xl border-2 font-medium transition-all duration-200 ease-in-out ${colorBoton}`}
-    >
-        {opcion}
-    </button>
-    );
-        })}
-        </div>
-
-        {seleccionada && (
+        return (
         <button
-            onClick={siguientePregunta}
-            className="mt-8 w-full bg-blue-600 text-white p-4 rounded-lg font-bold hover:bg-blue-700 transition"
+            key={index}
+            onClick={() => manejarClic(opcion)}
+            disabled={seleccionada !== null}
+            className={`w-full text-left p-5 rounded-xl border-2 font-medium transition-all duration-200 ease-in-out ${colorBoton}`}
         >
-            Siguiente
+            {opcion}
         </button>
-        )}
+        );
+    })}
     </div>
+
+    {seleccionada && (
+    <button
+        onClick={siguientePregunta}
+        className="mt-8 w-full bg-blue-600 text-white p-4 rounded-lg font-bold hover:bg-blue-700 transition"
+    >
+        Siguiente
+    </button>
+    )}
+</div>
 );
 }
